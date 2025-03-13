@@ -1,0 +1,450 @@
+2025-03-13 19:20:49,085 - INFO - Processing file: Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-13 19:20:49,117 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,117 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,117 - INFO - Processing file: Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf
+2025-03-13 19:20:49,148 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,148 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,148 - INFO - Processing file: Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf
+2025-03-13 19:20:49,164 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,164 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,164 - INFO - Processing file: Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf
+2025-03-13 19:20:49,211 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,211 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,211 - INFO - Processing file: Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf
+2025-03-13 19:20:49,242 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,242 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,242 - INFO - Processing file: Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf
+2025-03-13 19:20:49,257 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,257 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,257 - INFO - Processing file: Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf
+2025-03-13 19:20:49,289 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,289 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,289 - INFO - Processing file: Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf
+2025-03-13 19:20:49,304 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,304 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,304 - INFO - Processing file: Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf
+2025-03-13 19:20:49,336 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:49,336 - ERROR - Processing failed: No table found
+2025-03-13 19:20:49,336 - INFO - Processing file: Pdfs\Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf
+2025-03-13 19:20:51,024 - ERROR - Processing failed: No table found
+2025-03-13 19:20:51,024 - INFO - Processing file: Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf
+2025-03-13 19:20:51,071 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:51,071 - ERROR - Processing failed: No table found
+2025-03-13 19:20:51,071 - INFO - Processing file: Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf
+2025-03-13 19:20:51,102 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:51,102 - ERROR - Processing failed: No table found
+2025-03-13 19:20:51,102 - INFO - Processing file: Pdfs\Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf
+2025-03-13 19:20:55,247 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,247 - INFO - Processing file: Pdfs\Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf
+2025-03-13 19:20:55,278 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,278 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,278 - INFO - Processing file: Pdfs\Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf
+2025-03-13 19:20:55,309 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,309 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,309 - INFO - Processing file: Pdfs\Copy of 1c869817-fe96-40c9-aa20-88b5c2a1d7d2.pdf
+2025-03-13 19:20:55,340 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,340 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,340 - INFO - Processing file: Pdfs\Copy of 1dbfb81d-903a-40d5-85ec-198b39d9ac08.pdf
+2025-03-13 19:20:55,387 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,387 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,387 - INFO - Processing file: Pdfs\Copy of 22d005d7-0204-44c5-bc5b-03577fa12e5b.pdf
+2025-03-13 19:20:55,418 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,418 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,418 - INFO - Processing file: Pdfs\Copy of 2e0db63b-5b09-4cfa-b88b-a9f22a43e4d5.pdf
+2025-03-13 19:20:55,481 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,481 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,481 - INFO - Processing file: Pdfs\Copy of 31d514d7-a507-4dfd-906f-e53c13bc1ed9.pdf
+2025-03-13 19:20:55,528 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,528 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,528 - INFO - Processing file: Pdfs\Copy of 34aac39a-eeac-44c8-a25c-6bc9050d1bda.pdf
+2025-03-13 19:20:55,543 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,543 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,543 - INFO - Processing file: Pdfs\Copy of 36357899-8854-47d0-8ade-fdfeed947645.pdf
+2025-03-13 19:20:55,575 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,575 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,575 - INFO - Processing file: Pdfs\Copy of 3706af0b-cfbd-4242-997c-350f358866d5.pdf
+2025-03-13 19:20:55,622 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,622 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,622 - INFO - Processing file: Pdfs\Copy of 373a6209-edb4-4881-9a0d-e6fd9e8e14bf.pdf
+2025-03-13 19:20:55,637 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,637 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,637 - INFO - Processing file: Pdfs\Copy of 3b93abfc-beb7-4e82-a9bc-c5d94a9d3549.pdf
+2025-03-13 19:20:55,668 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,668 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,668 - INFO - Processing file: Pdfs\Copy of 3b99aa2b-710f-4a82-9745-c72ba30e9efe.pdf
+2025-03-13 19:20:55,700 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,700 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,700 - INFO - Processing file: Pdfs\Copy of 3cdc9b4c-01cb-4ba6-968b-ccf3ec457a77.pdf
+2025-03-13 19:20:55,731 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,731 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,731 - INFO - Processing file: Pdfs\Copy of 42d7cc1d-7b4a-4bda-b54c-bbe973e4a96c.pdf
+2025-03-13 19:20:55,778 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,778 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,778 - INFO - Processing file: Pdfs\Copy of 43d377c7-6eb1-4f07-9ac3-ab5b93a1cd43.pdf
+2025-03-13 19:20:55,793 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,793 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,793 - INFO - Processing file: Pdfs\Copy of 4553cb14-3f7f-4c08-a7dc-11f7ae599edd.pdf
+2025-03-13 19:20:55,825 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,825 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,825 - INFO - Processing file: Pdfs\Copy of 46addab5-7eb7-4e2e-b278-482431c4970d.pdf
+2025-03-13 19:20:55,840 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,840 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,840 - INFO - Processing file: Pdfs\Copy of 496d8e57-7b2e-4f9b-9640-fba68e9e221d.pdf
+2025-03-13 19:20:55,872 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,872 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,872 - INFO - Processing file: Pdfs\Copy of 4b50c271-c9e4-46dc-a474-e449ba2f721f.pdf
+2025-03-13 19:20:55,887 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,887 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,887 - INFO - Processing file: Pdfs\Copy of 4b554b9d-9641-4462-b623-92bdf9a482f1.pdf
+2025-03-13 19:20:55,918 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,918 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,918 - INFO - Processing file: Pdfs\Copy of 4bbee234-2e6e-44d0-a5cc-bf6ef8b837f5.pdf
+2025-03-13 19:20:55,950 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,950 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,950 - INFO - Processing file: Pdfs\Copy of 4c32145d-5858-4553-a6ea-3f36fd935dcc.pdf
+2025-03-13 19:20:55,965 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,965 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,965 - INFO - Processing file: Pdfs\Copy of 4cbf8648-31fc-444c-b5aa-9b4a367fc2c2.pdf
+2025-03-13 19:20:55,997 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:55,997 - ERROR - Processing failed: No table found
+2025-03-13 19:20:55,997 - INFO - Processing file: Pdfs\Copy of 4ff37a02-5921-4d99-83a1-aecfd0ed4801.pdf
+2025-03-13 19:20:56,043 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,043 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,043 - INFO - Processing file: Pdfs\Copy of 5138e87e-26e9-45cd-a0b1-a9dd6eb9b5f4.pdf
+2025-03-13 19:20:56,075 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,075 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,075 - INFO - Processing file: Pdfs\Copy of 534f4835-fc86-4bfd-b8d4-39b19ad4e756.pdf
+2025-03-13 19:20:56,090 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,106 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,106 - INFO - Processing file: Pdfs\Copy of 5511af53-504b-44d5-b765-4ee4032bc224.pdf
+2025-03-13 19:20:56,122 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,122 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,122 - INFO - Processing file: Pdfs\Copy of 5bf6d748-eb3b-4b83-9211-87a396792f34.pdf
+2025-03-13 19:20:56,168 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,168 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,168 - INFO - Processing file: Pdfs\Copy of 5cebef25-95eb-48ab-a125-df952f670ef3.pdf
+2025-03-13 19:20:56,200 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,200 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,200 - INFO - Processing file: Pdfs\Copy of 5cf7dadb-5196-4413-b01d-bb782f655eed.pdf
+2025-03-13 19:20:56,215 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,231 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,231 - INFO - Processing file: Pdfs\Copy of 63b917d9-a826-410f-95a5-e6aa76a69d47.pdf
+2025-03-13 19:20:56,262 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,262 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,262 - INFO - Processing file: Pdfs\Copy of 6958a6f8-8665-4225-80b5-fcf5364555ef.pdf
+2025-03-13 19:20:56,293 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,293 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,293 - INFO - Processing file: Pdfs\Copy of 697d9f88-5eb0-441e-bd77-4d767b52c22e.pdf
+2025-03-13 19:20:56,325 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,325 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,325 - INFO - Processing file: Pdfs\Copy of 6ef65f5a-2477-434a-9f57-b511f06f2787.pdf
+2025-03-13 19:20:56,356 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,356 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,356 - INFO - Processing file: Pdfs\Copy of 735c865a-89f6-4e38-a0ee-5dc5793e4f2e.pdf
+2025-03-13 19:20:56,372 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,372 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,372 - INFO - Processing file: Pdfs\Copy of 77b4ab0a-7b40-4fcf-9251-c274a0969a0b.pdf
+2025-03-13 19:20:56,418 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,418 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,418 - INFO - Processing file: Pdfs\Copy of 7c16c3fb-e1e5-4f41-8cb7-c2066f651849.pdf
+2025-03-13 19:20:56,450 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,450 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,450 - INFO - Processing file: Pdfs\Copy of 80d756a6-95f3-4f73-8f8e-27a691a22f45.pdf
+2025-03-13 19:20:56,512 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,512 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,512 - INFO - Processing file: Pdfs\Copy of 835540d8-2237-43d6-b00d-8650c4d67f13.pdf
+2025-03-13 19:20:56,559 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,559 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,559 - INFO - Processing file: Pdfs\Copy of 83d117fd-b295-4c71-842a-bdd78690c011.pdf
+2025-03-13 19:20:56,575 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:20:56,575 - ERROR - Processing failed: No table found
+2025-03-13 19:20:56,575 - INFO - Processing file: Pdfs\Copy of 846a9bf8-c8c5-4d72-8902-e9cd95cc229e.pdf
+2025-03-13 19:21:03,034 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,034 - INFO - Processing file: Pdfs\Copy of 8bf05e23-1cf1-455f-a418-70126c990ac2.pdf
+2025-03-13 19:21:03,065 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,065 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,065 - INFO - Processing file: Pdfs\Copy of 8d3232e3-fe22-4869-9f0a-91463909d3f8.pdf
+2025-03-13 19:21:03,127 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,127 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,127 - INFO - Processing file: Pdfs\Copy of 8d3e6d52-724b-4d53-85a7-bc213589d6a3.pdf
+2025-03-13 19:21:03,174 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,174 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,174 - INFO - Processing file: Pdfs\Copy of 8f473446-9865-4c4d-9405-6ceadfab327c.pdf
+2025-03-13 19:21:03,190 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,190 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,190 - INFO - Processing file: Pdfs\Copy of 94454a58-856a-4593-93c4-6452d46af870.pdf
+2025-03-13 19:21:03,627 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,627 - INFO - Processing file: Pdfs\Copy of 9e7f69a7-aa2a-4da2-aabd-2a1e48faec89.pdf
+2025-03-13 19:21:03,659 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,659 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,659 - INFO - Processing file: Pdfs\Copy of 9f1330d2-d438-4eef-bfef-ffa117613257.pdf
+2025-03-13 19:21:03,690 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,690 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,690 - INFO - Processing file: Pdfs\Copy of a01d68f9-5ac4-43af-ac2f-a7480816b876.pdf
+2025-03-13 19:21:03,721 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,721 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,721 - INFO - Processing file: Pdfs\Copy of a057c6cd-5b30-4911-b395-275e9703d470.pdf
+2025-03-13 19:21:03,753 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,753 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,753 - INFO - Processing file: Pdfs\Copy of a18781ea-af52-43a0-bafe-adcaea318585.pdf
+2025-03-13 19:21:03,784 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,784 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,784 - INFO - Processing file: Pdfs\Copy of a1abf2c6-d169-4eda-b92a-01ac99ddc845.pdf
+2025-03-13 19:21:03,815 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,815 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,815 - INFO - Processing file: Pdfs\Copy of a46c547b-6fce-4127-91e5-973aacbad161.pdf
+2025-03-13 19:21:03,846 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,846 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,846 - INFO - Processing file: Pdfs\Copy of a78773e8-cf3e-4a60-bbf5-76f7fd5c1385.pdf
+2025-03-13 19:21:03,893 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,893 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,893 - INFO - Processing file: Pdfs\Copy of a7a18439-7aa4-43cc-98ed-456378b318a7.pdf
+2025-03-13 19:21:03,925 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,925 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,925 - INFO - Processing file: Pdfs\Copy of abffd02a-74c0-4b75-b521-7e9045e2c4c8.pdf
+2025-03-13 19:21:03,956 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,956 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,956 - INFO - Processing file: Pdfs\Copy of b207f39f-acca-41e3-91c2-3e6582d97099.pdf
+2025-03-13 19:21:03,987 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:03,987 - ERROR - Processing failed: No table found
+2025-03-13 19:21:03,987 - INFO - Processing file: Pdfs\Copy of b5e26473-01fb-4bd5-92fa-1567e9ab19b1.pdf
+2025-03-13 19:21:04,034 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,034 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,034 - INFO - Processing file: Pdfs\Copy of ba3e8e71-f2ee-4d62-8309-295998cd5744.pdf
+2025-03-13 19:21:04,065 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,065 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,065 - INFO - Processing file: Pdfs\Copy of bafa7df3-e9c5-4db5-9acf-562d39d09705.pdf
+2025-03-13 19:21:04,096 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,096 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,096 - INFO - Processing file: Pdfs\Copy of bdc1356d-b137-4515-810a-2effc3c8c817.pdf
+2025-03-13 19:21:04,128 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,128 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,128 - INFO - Processing file: Pdfs\Copy of c22bce18-63c2-47e4-92f8-4656443916f7.pdf
+2025-03-13 19:21:04,159 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,159 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,159 - INFO - Processing file: Pdfs\Copy of c3d189dc-e661-4ecd-a78b-7bfdf54306fb.pdf
+2025-03-13 19:21:04,206 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,206 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,206 - INFO - Processing file: Pdfs\Copy of c6df9bbd-8300-43b8-939f-79648451fa38.pdf
+2025-03-13 19:21:04,221 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,221 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,221 - INFO - Processing file: Pdfs\Copy of c77b1fe3-17a2-4f3b-a5eb-35cd58bfac1c.pdf
+2025-03-13 19:21:04,268 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,268 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,268 - INFO - Processing file: Pdfs\Copy of c8211aec-e08b-4cbc-89f4-c75534fb2107.pdf
+2025-03-13 19:21:04,300 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,300 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,300 - INFO - Processing file: Pdfs\Copy of cbaa4f7c-c6bd-4a9c-abae-5a2caa0fe146.pdf
+2025-03-13 19:21:04,346 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,346 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,346 - INFO - Processing file: Pdfs\Copy of cfc8d70d-c4bf-470b-b751-32b9fb310bff.pdf
+2025-03-13 19:21:04,643 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,643 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,643 - INFO - Processing file: Pdfs\Copy of d161df90-254e-4741-a304-00df68815144.pdf
+2025-03-13 19:21:04,675 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,675 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,675 - INFO - Processing file: Pdfs\Copy of d8f8be7b-8ef6-4ac1-84f4-9cdbbff3dec1.pdf
+2025-03-13 19:21:04,706 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,706 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,706 - INFO - Processing file: Pdfs\Copy of da4fca51-8053-4458-9348-d0767963b8e6.pdf
+2025-03-13 19:21:04,737 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,737 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,737 - INFO - Processing file: Pdfs\Copy of db31e874-ff4d-42e2-9706-da91e18493fb.pdf
+2025-03-13 19:21:04,753 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,753 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,753 - INFO - Processing file: Pdfs\Copy of de167d9e-6107-4432-82aa-b9befbde02e0.pdf
+2025-03-13 19:21:04,800 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,800 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,800 - INFO - Processing file: Pdfs\Copy of e0ba4c9f-1d12-4ddc-8368-61ec5fb2502b.pdf
+2025-03-13 19:21:04,816 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,816 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,816 - INFO - Processing file: Pdfs\Copy of e22cc700-6445-4e3a-838b-1df6a776aa24.pdf
+2025-03-13 19:21:04,847 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,847 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,847 - INFO - Processing file: Pdfs\Copy of e6d44721-b51e-4480-942c-68edcd9d1d27.pdf
+2025-03-13 19:21:04,878 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,878 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,878 - INFO - Processing file: Pdfs\Copy of e6f92bc3-6cd9-4739-a1dc-4a6fae6e597c.pdf
+2025-03-13 19:21:04,925 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,925 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,925 - INFO - Processing file: Pdfs\Copy of e7d43809-0c65-4b5f-833a-6f453b29d210.pdf
+2025-03-13 19:21:04,956 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,956 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,956 - INFO - Processing file: Pdfs\Copy of e9dc1a8d-b287-4495-8f93-2f816f20322f.pdf
+2025-03-13 19:21:04,988 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:04,988 - ERROR - Processing failed: No table found
+2025-03-13 19:21:04,988 - INFO - Processing file: Pdfs\Copy of eabb2aaa-1ea5-421c-bb4c-b907560ab793.pdf
+2025-03-13 19:21:05,019 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:05,019 - ERROR - Processing failed: No table found
+2025-03-13 19:21:05,019 - INFO - Processing file: Pdfs\Copy of eb7f6798-3a2f-4aa8-844a-e2103e194fc6.pdf
+2025-03-13 19:21:05,034 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:05,034 - ERROR - Processing failed: No table found
+2025-03-13 19:21:05,034 - INFO - Processing file: Pdfs\Copy of ec57baec-3927-4b81-8cfb-92711f464d35.pdf
+2025-03-13 19:21:05,081 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:05,081 - ERROR - Processing failed: No table found
+2025-03-13 19:21:05,081 - INFO - Processing file: Pdfs\Copy of fa20775f-ed22-48b6-96c1-89a7ab8a0b38.pdf
+2025-03-13 19:21:05,113 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:21:05,113 - ERROR - Processing failed: No table found
+2025-03-13 19:21:05,113 - INFO - Processing file: Pdfs\Copy of ff4e984d-6247-48c7-a70f-57f742a7d2ea.pdf
+2025-03-13 19:21:05,566 - ERROR - Processing failed: No table found
+2025-03-13 19:21:05,566 - INFO - Processing complete. Results saved to output.json
+2025-03-13 19:56:41,103 - INFO - Processing file: Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-13 19:56:41,182 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:41,182 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:41,182 - INFO - Processing file: Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf
+2025-03-13 19:56:41,228 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:41,228 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:41,228 - INFO - Processing file: Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf
+2025-03-13 19:56:41,322 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:41,322 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:41,322 - INFO - Processing file: Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf
+2025-03-13 19:56:41,447 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:41,447 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:41,447 - INFO - Processing file: Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf
+2025-03-13 19:56:41,588 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:41,588 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:41,588 - INFO - Processing file: Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf
+2025-03-13 19:56:41,698 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:41,698 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:41,698 - INFO - Processing file: Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf
+2025-03-13 19:56:41,901 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:41,901 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:41,901 - INFO - Processing file: Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf
+2025-03-13 19:56:42,026 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:42,026 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:42,026 - INFO - Processing file: Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf
+2025-03-13 19:56:42,135 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:42,135 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:42,135 - INFO - Processing file: Pdfs\Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf
+2025-03-13 19:56:50,829 - ERROR - Scanned PDF processing failed: 'utf-8' codec can't decode byte 0x97 in position 82: invalid start byte
+2025-03-13 19:56:50,845 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:50,845 - INFO - Processing file: Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf
+2025-03-13 19:56:51,001 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:51,001 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:51,001 - INFO - Processing file: Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf
+2025-03-13 19:56:51,204 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:56:51,204 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:56:51,204 - INFO - Processing file: Pdfs\Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf
+2025-03-13 19:57:03,087 - ERROR - Scanned PDF processing failed: (1, 'Error, cannot read input file C:\\Users\\souvi\\OneDrive\\Documents\\TenderBot\\non disclosure agreement: No such file or directory Error during processing.')
+2025-03-13 19:57:03,102 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:57:03,102 - INFO - Processing file: Pdfs\Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf
+2025-03-13 19:57:03,259 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:57:03,259 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:57:03,259 - INFO - Processing file: Pdfs\Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf
+2025-03-13 19:58:26,916 - INFO - Processing file: Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-13 19:58:27,041 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,041 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,041 - INFO - Processing file: Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf
+2025-03-13 19:58:27,072 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,072 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,072 - INFO - Processing file: Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf
+2025-03-13 19:58:27,182 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,182 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,182 - INFO - Processing file: Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf
+2025-03-13 19:58:27,307 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,307 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,307 - INFO - Processing file: Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf
+2025-03-13 19:58:27,447 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,447 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,447 - INFO - Processing file: Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf
+2025-03-13 19:58:27,572 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,572 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,572 - INFO - Processing file: Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf
+2025-03-13 19:58:27,745 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,745 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,745 - INFO - Processing file: Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf
+2025-03-13 19:58:27,870 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:27,870 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:27,870 - INFO - Processing file: Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf
+2025-03-13 19:58:28,027 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:28,027 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:28,027 - INFO - Processing file: Pdfs\Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf
+2025-03-13 19:58:36,201 - ERROR - Scanned PDF processing failed: 'utf-8' codec can't decode byte 0x97 in position 82: invalid start byte
+2025-03-13 19:58:36,201 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:36,201 - INFO - Processing file: Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf
+2025-03-13 19:58:36,343 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:36,343 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:36,343 - INFO - Processing file: Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf
+2025-03-13 19:58:36,468 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:36,468 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:36,468 - INFO - Processing file: Pdfs\Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf
+2025-03-13 19:58:48,893 - ERROR - Scanned PDF processing failed: (1, 'Error, cannot read input file C:\\Users\\souvi\\OneDrive\\Documents\\TenderBot\\non disclosure agreement: No such file or directory Error during processing.')
+2025-03-13 19:58:48,905 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:48,905 - INFO - Processing file: Pdfs\Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf
+2025-03-13 19:58:48,995 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 19:58:48,995 - ERROR - Processing failed: No valid table found in document
+2025-03-13 19:58:48,995 - INFO - Processing file: Pdfs\Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf
+2025-03-13 20:03:49,017 - INFO - Processing file: Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-13 20:03:49,111 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,111 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,111 - INFO - Processing file: Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf
+2025-03-13 20:03:49,158 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,158 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,158 - INFO - Processing file: Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf
+2025-03-13 20:03:49,252 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,252 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,252 - INFO - Processing file: Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf
+2025-03-13 20:03:49,378 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,378 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,378 - INFO - Processing file: Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf
+2025-03-13 20:03:49,519 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,519 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,519 - INFO - Processing file: Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf
+2025-03-13 20:03:49,644 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,644 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,644 - INFO - Processing file: Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf
+2025-03-13 20:03:49,800 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,800 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,800 - INFO - Processing file: Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf
+2025-03-13 20:03:49,925 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:49,925 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:49,925 - INFO - Processing file: Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf
+2025-03-13 20:03:50,081 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:50,081 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:50,081 - INFO - Processing file: Pdfs\Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf
+2025-03-13 20:03:58,254 - ERROR - Scanned PDF processing failed: 'utf-8' codec can't decode byte 0x97 in position 82: invalid start byte
+2025-03-13 20:03:58,270 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:58,270 - INFO - Processing file: Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf
+2025-03-13 20:03:58,505 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:58,505 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:58,505 - INFO - Processing file: Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf
+2025-03-13 20:03:58,643 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:03:58,643 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:03:58,643 - INFO - Processing file: Pdfs\Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf
+2025-03-13 20:09:39,789 - INFO - Processing file: Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-13 20:09:39,879 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:39,879 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:39,879 - INFO - Processing file: Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf
+2025-03-13 20:09:39,914 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:39,914 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:39,914 - INFO - Processing file: Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf
+2025-03-13 20:09:40,011 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:40,011 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:40,011 - INFO - Processing file: Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf
+2025-03-13 20:09:40,132 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:40,132 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:40,132 - INFO - Processing file: Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf
+2025-03-13 20:09:40,268 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:40,268 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:40,269 - INFO - Processing file: Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf
+2025-03-13 20:09:40,367 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:40,367 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:40,367 - INFO - Processing file: Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf
+2025-03-13 20:09:40,514 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:40,514 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:40,514 - INFO - Processing file: Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf
+2025-03-13 20:09:40,637 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:40,637 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:40,637 - INFO - Processing file: Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf
+2025-03-13 20:09:40,781 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:40,782 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:40,782 - INFO - Processing file: Pdfs\Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf
+2025-03-13 20:09:48,695 - ERROR - Scanned PDF processing failed: 'utf-8' codec can't decode byte 0x97 in position 82: invalid start byte
+2025-03-13 20:09:48,710 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:48,710 - INFO - Processing file: Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf
+2025-03-13 20:09:48,886 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:48,886 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:48,886 - INFO - Processing file: Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf
+2025-03-13 20:09:49,026 - ERROR - Digital extraction failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-13 20:09:49,026 - ERROR - Processing failed: No valid table found in document
+2025-03-13 20:09:49,026 - INFO - Processing file: Pdfs\Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf

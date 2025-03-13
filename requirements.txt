@@ -1,0 +1,12 @@
+camelot-py==0.10.1
+pypdf<4.0
+cryptography
+chardet
+click
+numpy
+opencv-python-headless
+openpyxl
+pandas
+pdfminer-six
+pypdfium2
+tabulate
