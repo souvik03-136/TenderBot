@@ -13,6 +13,13 @@ from config import logger
 from exceptions import TableNotFoundError
 from tapas_handler import TapasHandler
 
+# For image pre-processing
+import cv2
+import numpy as np
+from PIL import Image
+import ctypes
+from ctypes.util import find_library
+
 class PDFTableExtractor:
     def __init__(self):
         print("Initializing PDFTableExtractor...")
@@ -104,7 +111,10 @@ class PDFTableExtractor:
             makes = str(row[make_col]).strip()
             makes = re.sub(r'm/s', '[[M_S]]', makes, flags=re.IGNORECASE)
             parts = re.split(r'[,;/]', makes)
-            make_list = [p.strip().replace("[[M_S]]", "M/s").replace("\n", " ") for p in parts if p.strip()]
+            make_list = [
+                p.strip().replace("[[M_S]]", "M/s").replace("\n", " ")
+                for p in parts if p.strip()
+            ]
             if item and make_list:
                 results.append({
                     "Item": item,
@@ -139,7 +149,10 @@ class PDFTableExtractor:
             elif current_item:
                 line = re.sub(r'm/s', '[[M_S]]', line, flags=re.IGNORECASE)
                 parts = re.split(r'[,;/]', line)
-                manufacturers.extend([p.strip().replace("[[M_S]]", "M/s").replace("\n", " ") for p in parts if p.strip()])
+                manufacturers.extend([
+                    p.strip().replace("[[M_S]]", "M/s").replace("\n", " ")
+                    for p in parts if p.strip()
+                ])
 
         if current_item and manufacturers:
             results.append({
@@ -176,9 +189,38 @@ class PDFTableExtractor:
         logger.info(f"Validation of results: {'passed' if valid else 'failed'}.")
         return valid
 
+    def _check_ghostscript_installed(self) -> bool:
+        """
+        Check if Ghostscript is installed by trying to locate the Ghostscript DLL.
+        This check is platform-dependent. For Windows, it looks for gsdll32.dll or gsdll64.dll.
+        """
+        try:
+            arch = ctypes.sizeof(ctypes.c_voidp) * 8
+            lib_name = "gsdll{}{}.dll".format("", arch)  # e.g. gsdll64.dll on 64-bit
+            gs_path = find_library(lib_name)
+            if gs_path:
+                logger.info(f"Found Ghostscript library: {gs_path}")
+                return True
+            else:
+                logger.error("Ghostscript library not found.")
+                return False
+        except Exception as e:
+            logger.error(f"Error checking Ghostscript installation: {str(e)}")
+            return False
+
     def _camelot_fallback(self, pdf_path: str) -> List[Dict]:
         print("Using Camelot fallback...")
         logger.info("Using Camelot fallback...")
+
+        # Check if Ghostscript is installed before attempting Camelot parsing
+        if not self._check_ghostscript_installed():
+            error_message = ("Ghostscript is not installed. "
+                             "You can install it using the instructions here: "
+                             "https://camelot-py.readthedocs.io/en/master/user/install-deps.html")
+            logger.error(error_message)
+            print("Error in _camelot_fallback:", error_message)
+            return []
+
         try:
             tables = camelot.read_pdf(pdf_path, pages='all')
             results = []
@@ -213,6 +255,20 @@ class PDFTableExtractor:
             print(f"Error in _is_scanned: {str(e)}")
             return True
 
+    def _preprocess_image(self, image):
+        """
+        Preprocess a PIL image for better OCR accuracy:
+        - Convert to grayscale.
+        - Apply thresholding to obtain a binary image.
+        """
+        # Convert PIL Image to numpy array
+        cv_image = np.array(image)
+        # Convert RGB to grayscale
+        gray = cv2.cvtColor(cv_image, cv2.COLOR_RGB2GRAY)
+        # Apply thresholding using Otsu's method
+        thresh = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
+        return thresh
+
     def _process_scanned(self, pdf_path: str) -> List[Dict]:
         print("Processing scanned PDF using OCR...")
         logger.info("Processing scanned PDF using OCR.")
@@ -220,7 +276,11 @@ class PDFTableExtractor:
             images = convert_from_path(pdf_path)
             full_text = ""
             for image in images:
-                text = pytesseract.image_to_string(image)
+                # Preprocess the image before OCR
+                processed_image = self._preprocess_image(image)
+                # Convert the processed image (numpy array) back to a PIL Image
+                pil_image = Image.fromarray(processed_image)
+                text = pytesseract.image_to_string(pil_image)
                 full_text += text + "\n"
             return self._parse_text_data(full_text)
         except Exception as e:

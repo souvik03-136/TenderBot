@@ -17,8 +17,8 @@ class TapasHandler:
         print("Parsing table using TAPAS...")
         logger.info("Parsing table using TAPAS.")
         try:
-            if df.empty or len(df.columns) < 2:
-                logger.warning("DataFrame empty or has less than 2 columns.")
+            if df is None or df.empty or len(df.columns) < 2:
+                logger.warning("DataFrame is None, empty, or has less than 2 columns.")
                 return []
 
             item_col, make_col = self._identify_columns(df)

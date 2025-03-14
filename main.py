@@ -10,7 +10,7 @@ def main():
     logger.info("Starting PDF extraction process...")
     extractor = PDFTableExtractor()
     output = []
-    pdf_folder = "Pdfs"
+    pdf_folder = "Pdf"
 
     try:
         pdf_files = [f for f in os.listdir(pdf_folder) if f.lower().endswith('.pdf')]
