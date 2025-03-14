@@ -6,134 +6,2055 @@
         "title": "Approved Makes and Manufacturers",
         "data": [
           {
-            "Srl\nNo": "1",
-            "Materials": "2",
-            "Test": "3",
-            "Method of Testing": "4",
-            "Frequencies of Test": "5",
-            "Level of Test": "6",
-            "Rate in Rs": "7",
-            "Remarks": "8"
+            "Item": "Paints and polish",
+            "Approved Makes": [
+              "Asian Paint(Apcolite)",
+              "Shalimar (Super Lac) Jenson ad Nicholson (Robinlac) Goodlass Nerolac (Nerolac Gde I) Berger paints",
+              "ICI (Dulex)"
+            ]
           },
           {
-            "Srl\nNo": "1",
-            "Materials": "Bricks",
-            "Test": "",
-            "Method of Testing": "",
-            "Frequencies of Test": "As per IS 5454 as given\nunder:",
-            "Level of Test": "Permissible % of\ndefective Bricks",
-            "Rate in Rs": "",
-            "Remarks": "Check for visual and dimensional\ncharacteristic shall also be allowed out\nas per IS-5454"
+            "Item": "Red oxide / Wood Primer pink",
+            "Approved Makes": [
+              "Asian Paint (Wood orite) Shalimer (Shalimar wood primer) Jenson & Nicholson (Pink wood primer Goodlass Nerolac (Duralac wood primer)"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": null,
-            "Method of Testing": null,
-            "Frequencies of Test": "Lot Size Sample Size",
-            "Level of Test": "",
-            "Rate in Rs": null,
-            "Remarks": null
+            "Item": "Stainless steel telescopic channel\ndrawers slides & handles",
+            "Approved Makes": [
+              "Hettich",
+              "Rockler",
+              "Ebco",
+              "Sleek by Asian Paints"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": null,
-            "Method of Testing": null,
-            "Frequencies of Test": "1001 to 10000 5",
-            "Level of Test": "0",
-            "Rate in Rs": null,
-            "Remarks": null
+            "Item": "Stainless steel soft closing hydraulic\nhinges",
+            "Approved Makes": [
+              "Hettich",
+              "Rockler",
+              "Ebco",
+              "Sleek by Asian Paints"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": null,
-            "Method of Testing": null,
-            "Frequencies of Test": "10001 to 35000 10",
-            "Level of Test": "0",
-            "Rate in Rs": null,
-            "Remarks": null
+            "Item": "Builders Hardware",
+            "Approved Makes": [
+              "Crown",
+              "Jyothi",
+              "Argent",
+              "Ajith",
+              "Classic",
+              "Everite",
+              "Universal",
+              "Hardwin",
+              "Dyana"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": null,
-            "Method of Testing": null,
-            "Frequencies of Test": "35001 to 50000 15",
-            "Level of Test": "1",
-            "Rate in Rs": null,
-            "Remarks": null
+            "Item": "Harrison Rails",
+            "Approved Makes": [
+              "Jaquar",
+              "KICH",
+              "Swastik",
+              "Crown",
+              "Prayag",
+              "ESS ESS"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": "(i) Compressive\nStrength",
-            "Method of Testing": "IS-3495 (Part-I)",
-            "Frequencies of Test": "",
-            "Level of Test": "A",
-            "Rate in Rs": "330",
-            "Remarks": ""
+            "Item": "Particle Board/Pre laminated\nparticle board",
+            "Approved Makes": [
+              "Novapan",
+              "Kitply",
+              "Green Ply",
+              "Ecoboard",
+              "Archidlam"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": "(ii) Water Absorption",
-            "Method of Testing": "IS-3495 (Part-I)",
-            "Frequencies of Test": "",
-            "Level of Test": "A",
-            "Rate in Rs": "330",
-            "Remarks": ""
+            "Item": "Factory Made Panel/Flush door\nshutters",
+            "Approved Makes": [
+              "M/s International Timber Corporation",
+              "Valsad",
+              "M/s Barar Timber Industries Pvt Ltd",
+              "Mumbai",
+              "M/s Prince Timber",
+              "Jamnagar",
+              "M/s Standard Doors Pvt Ltd",
+              "Hyderabad",
+              "M/s Aditi Wood Industries Baroda",
+              "M/s Munkua Timber Industries",
+              "Bhuj",
+              "M/s Indian Wood & Wood Product",
+              "Mangalore",
+              "M/s Swastik Brand",
+              "M/s Mysore Wood Products",
+              "M/s Northern doors Pvt Ltd",
+              "M/s Parashatam Kokul Das Plywood Co",
+              "Kannanore (Kerala)",
+              "M/s Western india Plywoods Ltd",
+              "Kannanore (Kerala)",
+              "M/s Standard Door Secunderabad",
+              "M/s Shankara Ramchandra Bro",
+              "Pune",
+              "Indian Timber Products Pvt Ltd."
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": "(iii) Efflorescence",
-            "Method of Testing": "-do- (Part-II)",
-            "Frequencies of Test": "",
-            "Level of Test": "A",
-            "Rate in Rs": "330",
-            "Remarks": ""
+            "Item": "Factory made shutters",
+            "Approved Makes": [
+              "Kitply flush doors and Furniture Co Madras",
+              "India wood & wood products",
+              "Mangalore",
+              "Wood Industries Hyderabad Standard Doors Hyderabad",
+              "Timber Technics Hyderabad",
+              "M/s Kutty Flush door and Furniture Madras",
+              "Indian Timber Products Pvt Ltd."
+            ]
           },
           {
-            "Srl\nNo": "2",
-            "Materials": "Coarse Aggregate",
-            "Test": "(i) Sieve Analysis",
-            "Method of Testing": "IS-2386 (Part-I)",
-            "Frequencies of Test": "One Test for every 15 cum of\nAggregate or part thereof.",
-            "Level of Test": "A",
-            "Rate in Rs": "660",
-            "Remarks": ""
+            "Item": "Pressed steel frames for doors",
+            "Approved Makes": [
+              "Deccan structural Pvt Ltd Bangalore",
+              "TI Engineering Madras",
+              "Nagarjuna Door pressed steel Ltd Hyderabad",
+              "Rola Door Amalgameted",
+              "Madras",
+              "Madhu Industries"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": "(ii) Flakiness Indices",
-            "Method of Testing": "-do-",
-            "Frequencies of Test": "One Test for every 15 cum of\nAggregate or part thereof.",
-            "Level of Test": "A",
-            "Rate in Rs": "250",
-            "Remarks": null
+            "Item": "Glazing",
+            "Approved Makes": [
+              "Saint Gobain",
+              "Modiguard",
+              "Asahi",
+              "Atul glass industries",
+              "Gold Fish"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": "(iii) Estimation of\ndeleterious materials",
-            "Method of Testing": "-do-",
-            "Frequencies of Test": "One Test for every 100 cum\nof Aggregate or part thereof.",
-            "Level of Test": "A",
-            "Rate in Rs": "600",
-            "Remarks": null
+            "Item": "Aluminium tower bolt/Aldrop/Door\nHandle/Butt Hinges",
+            "Approved Makes": [
+              "M/s Argent industries",
+              "M/s Aluminium Udyog"
+            ]
           },
           {
-            "Srl\nNo": null,
-            "Materials": null,
-            "Test": "(iv) Organic Impurities",
-            "Method of Testing": "-do-",
-            "Frequencies of Test": "One Test per source of\nsupply.",
-            "Level of Test": "B",
-            "Rate in Rs": "275",
-            "Remarks": null
+            "Item": "Synthetic Enamel Paint/primer",
+            "Approved Makes": [
+              "M/s Shalimar Super Lac",
+              "M/s Asian Paints",
+              "M/s Apcolite (Asian)",
+              "M/s Johnson & Nicholson Calcutta",
+              "M/s Berger",
+              "M/s Nerolac Paint Ltd"
+            ]
+          },
+          {
+            "Item": "PVC Door shutter/frame",
+            "Approved Makes": [
+              "Rajshri",
+              "Sintex",
+              "Duroplast"
+            ]
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf",
+    "tables": [
+      {
+        "title": "Approved Makes and Manufacturers",
+        "data": [
+          {
+            "Item": "CONTRACTOR AND EXECUTIVES TO CHEC!",
+            "Approved Makes": [
+              "AND VERIFY ALL DIMENSIONS AND DETAILS",
+              "BEFORE EXECUTION OF WORK IF ANY",
+              "DISCREPANCY IS OBSERVED THE SAME",
+              "SHALL BE REPORTED TO ACCEPTING",
+              "OFFICER FOR CLARIFICATION",
+              "DECISION"
+            ]
+          },
+          {
+            "Item": "SIZE OF COLUMN \"C\u201d AND \"C1\" AS PER",
+            "Approved Makes": [
+              "STRUCTURAL DETAILS (TO BE PROVIDED",
+              "BY CONTRACTOR )"
+            ]
+          },
+          {
+            "Item": "W18.- 3 TRACK UPVC SLIDING WINDOW",
+            "Approved Makes": [
+              "WITH DARK BLACK TINT 5 MM THICK GLASS",
+              "AND S",
+              "S WIRE MESH AS SPECIFIED OVER",
+              "GRANITE STONE.",
+              "ls. D12:- WPC FRAME OF SIZE 65 X 125 MM",
+              "WITH 35 MM THICK WPC SHUTTER (EACH |)",
+              "DOOR LEAF",
+              "100 MM S",
+              "S HINGE-4 NOs",
+              "FOR SHUTTER -150 MM AL HANDLE-2 NOs",
+              "AND FOR ONEPAIR SHUTTER DOOR 300 MM)",
+              "AL SDB) 200 MM AL BOLT 1 NOs",
+              "AL DOOR",
+              "STOPPER - 1 NOs.",
+              "\u2019"
+            ]
+          },
+          {
+            "Item": "FRAME FI 50 X 3 OVER ALL WINDOWS",
+            "Approved Makes": [
+              "GUARD BARS",
+              "GUAEO BAeS Snfry",
+              "RE l2mm SQ ACE erRs sf N87 !",
+              "NORE THAN (mares SPENLNT",
+              "S",
+              "NO} DESCRIPTION SING",
+              "PROVN OF VOCATIONAL LA",
+              "GROUND FLOOR PLAN",
+              "VOCATIONAL LAB",
+              "_ ae J |",
+              "Pa oad .",
+              "ONT ELEVATION OF VOCATION LAB 5",
+              "\u2018SCALE 1100",
+              "RCC ROCE SLAB LAN TO SLORE HO HTH WATER",
+              "[TSS tater stead",
+              "VOCATIONAL LAB",
+              "WPC CUPBOARD AS SPECIFIED",
+              "SECTION AT 'B-B\u2019",
+              "\u2018SCALE 1100",
+              "RCC ROOF SLAB LAND 10 SLOPE 1 40 MATH WATER",
+              "[Pro Tear nas Sree",
+              "VOCATIONAL LAB",
+              "sa wancananere sont",
+              "ty",
+              "SECTIONAT'A-A\u2019",
+              "~ SCALE 1100 '\u00ae",
+              "I",
+              "PLINTH PROTECTION",
+              "WITH SOURCE DRAIN",
+              "OOO",
+              "OOOO",
+              "VOCATIONAL LAB",
+              "7000 X 10600",
+              "+600",
+              "VERANDAH",
+              "2100 WIDE",
+              "SOS",
+              "S885",
+              "SY",
+              "ISG",
+              "ee .",
+              "we",
+              "sa",
+              "700 ou",
+              "wie",
+              "PLAN OF VOCATIONAL LAB",
+              "SCALE 1 100",
+              "1 ALL DIMENSIONS ARE IN MILLIMETERS",
+              "UNLESS OTHERWISE SPECIFIED.",
+              "2 FIGURED DIMENSION SHALL BE FOLLOWED.",
+              "3 CONTRACTOR AND EXECUTIVES TO CHECK",
+              "AND VERIFY ALL DIMENSIONS AND DETAILS.",
+              "BEFORE EXECUTION OF WORK IF ANY.",
+              "DISCREPANCY IS OBSERVED THE SAME",
+              "SHALL BE REPORTED [TO ACCEPTING",
+              "OFFICER FOR CLARIFICATION",
+              "DECISION",
+              "4 SIZE OF COLUMN \"C\" AND \"C1\" AS PER",
+              "STRUCTURAL DETAILS (TO BE PROVIDED",
+              "BY CONTRACTOR )"
+            ]
+          },
+          {
+            "Item": "W18 - 3 TRACK UPVC SLIDING WINDOW",
+            "Approved Makes": [
+              "WITH DARK BLACK TINT 5 MM THICK GLASS:",
+              "AND S",
+              "S WIRE MESH AS SPECIFIED OVER",
+              "GRANITE STONE",
+              "D12:- WPC FRAME OF SIZE 65 X 125 MM",
+              "WITH 35 MM THICK WPC SHUTTER (EACH",
+              "DOOR LEAF",
+              "100 MM S",
+              "S HINGE-4 NOs.",
+              "FOR SHUTTER -150 MM AL HANDLE-2 NOs",
+              "AND FOR ONEPAIR SHUTTER DOOR 300",
+              "MM AL SDB) 200 MM AL BOLT 1 NOs AL",
+              "DOOR STOPPER - 1 NOs"
+            ]
+          },
+          {
+            "Item": "FRAME FI 50 X 3 OVER ALL WINDOWS",
+            "Approved Makes": [
+              "S",
+              "NO} DESCRIPTION SING",
+              "REVISIONS",
+              "PROVN OF VOCATIONAL LAB",
+              "PLAN",
+              "FRONT ELEVATION AND",
+              "SECTION",
+              "VOCATIONAL LAB _",
+              "GE(AF) SHEE!",
+              "SAMBRA |\\\u00b0?3",
+              "ORG NO",
+              "a",
+              "GEIAF) SAMBRA",
+              "F",
+              "eur",
+              "PROTECTION",
+              "WALLLLLLLTOLLLLLLLALL LULL StL",
+              "V7",
+              "RSS",
+              "CupBoaRD",
+              "VERANDAH",
+              "a9",
+              "SARA",
+              "LEGEND",
+              "[= [rom rire raze RON",
+              "PLAN OF VOCATIONAL LAB",
+              "SCALE 1:100",
+              "NOTES:-",
+              "1 ALL DIMENSIONS ARE IN MILLIMETERS",
+              "UNLESS OTHERWISE SPECIFIED",
+              "2 FIGURED DIMENSION SHALL HE FOLLOWEL",
+              "3 TENTATIVE LOCATION OF ALL INTERNAL",
+              "FITTINGS & FIXTURS AREINDICATED ON",
+              "DRAWING HOWEVER THE SAMESHALL Ht",
+              "FINALIZED BY ENGR IN CHARGE AT Tht",
+              "TIME OF EXECUTION OF WORK",
+              "4 ALL DRAWINGS ARE TO BE READ IN",
+              "CONJUCTION WITH RELEVANT SCHEDULE 4",
+              "PS OF THE CONTRACT AGREEMENT &",
+              "EXECUTED ACCORDING"
+            ]
+          },
+          {
+            "Item": "NUMBER OF ELECTRICAL FITTINGS &",
+            "Approved Makes": [
+              "FIXTURES",
+              "HAS BEEN WORKED OUT AND",
+              "INDICATED BASED ON AUTHORIZED SCALE $",
+              "& NO MAJOR DEVIATION SHALL BE",
+              "PERMITTED WITHOUT PRIOR APPROVAL",
+              "OF COMPETENT AUTHORITY"
+            ]
+          },
+          {
+            "Item": "FAN BOX OF MILD STEEL HEAVY DUTY (MIN",
+            "Approved Makes": [
+              "16 MM @ PLIN BAR ) AND TO BE PROVIDED:",
+              "WITHOUT ANY EXTRA COST.",
+              "DESCRIPTION SING",
+              "REVISIONS",
+              "PROVN OF VOCATIONAL LAB",
+              "GROUND FLOOR PLAN",
+              "E",
+              "M PLAN \u2014 _",
+              "VOCATIONAL LAB",
+              "GE(AF) [SHEE",
+              "SAMBRA |*\u00b022",
+              "DRG NQ ATSIGE(AF 0172024"
+            ]
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf",
+    "tables": [
+      {
+        "title": "Approved Makes and Manufacturers",
+        "data": [
+          {
+            "Item": "Identification",
+            "Approved Makes": [
+              "When Confidential information is disclosed in writing or other tangible form",
+              "the",
+              "information shall be marked \u201cCONFIDENTIAL\u201d or with similar legend on each page",
+              "containing Confidential information. When Confidential information is disclosed orally",
+              "visually or in any other intangible form",
+              "such information shall be identified as",
+              "confidential at the time of disclosure",
+              "subsequently summarized and",
+              "confirmed in writing within Thirty (30) days from the initial disclosure",
+              "referring the date",
+              "of disclosure."
+            ]
+          },
+          {
+            "Item": "Standard of Care",
+            "Approved Makes": [
+              "The Receiving Party shall protect the confidential information disclosed by the First",
+              "Party with appropriate care.",
+              "a. Receiving Party shall communicate to First Party in writing the list of nominated",
+              "persons for receiving confidential information.",
+              "b. Confidential information should not be communicated through phone",
+              "fax",
+              "or",
+              "email. Confidential information should be exchanged only through signed letters.",
+              "c. When confidential information is received by Receiving Party",
+              "the Receiving",
+              "Party should acknowledge the receipt of confidential information in writing.",
+              "d. Receiving Party should not discuss the confidential information disclosed by First",
+              "Party with any Third Party",
+              "within Government Organizations or outside",
+              "Government Organizations without the prior written approval of Director",
+              "First",
+              "Party. The Firm agrees to promptly notify First Party of any",
+              "misuse",
+              "misappropriation",
+              "loss",
+              "comprise of the confidential information."
+            ]
+          },
+          {
+            "Item": "Either Party\u2019s failure to enforce any provision, right or remedy under this agreement",
+            "Approved Makes": [
+              "shall not constitute a waiver of such provision",
+              "right or remedy."
+            ]
+          },
+          {
+            "Item": "This Agreement will be construed in, interpreted and applied to accordance with the",
+            "Approved Makes": [
+              "laws of India."
+            ]
+          },
+          {
+            "Item": "Confidentiality Period",
+            "Approved Makes": [
+              "For the term of this Agreement and Ten (10) years thereafter",
+              "the Receiving Party shall",
+              "neither disclose the First Party\u2019s confidential information to any Party other than its",
+              "Employees who have express need to know in the context of the relevant co-",
+              "development."
+            ]
+          },
+          {
+            "Item": "Exceptions",
+            "Approved Makes": [
+              "No obligation shall be imposed regarding confidential information if the Receiving Party",
+              "can demonstrate that the confidential information:",
+              "(a) is or becomes thereafter available to the public through no breach of this",
+              "Agreement",
+              "(b) is disclosed pursuant to governmental or judicial order requirement."
+            ]
+          },
+          {
+            "Item": "Return of Materials",
+            "Approved Makes": [
+              "The Receiving Party shall return to the First Party",
+              "or at the discretion of the First Party",
+              "certify the destruction of all copies of the First Party's confidential information upon",
+              "written request of First Party."
+            ]
+          },
+          {
+            "Item": "No License",
+            "Approved Makes": [
+              "Nothing herein constitutes a license or other transfer of rights in respect of either Party's",
+              "interest in any Confidential information disclosed pursuant to this Agreement."
+            ]
+          },
+          {
+            "Item": "Term",
+            "Approved Makes": [
+              "The Term of this agreement is Five (5) years from the effective Date",
+              "however",
+              "those",
+              "Sections 5",
+              "6",
+              "8 and 11 hereof shall survive even after expiration or termination hereof."
+            ]
+          },
+          {
+            "Item": "Assignment, Modification and Waiver",
+            "Approved Makes": [
+              "Annexure -\u2014 \u2018B\u2019"
+            ]
+          },
+          {
+            "Item": "Definitions",
+            "Approved Makes": [
+              "In this Non Disclosure Agreement the following terms shall",
+              "unless the context",
+              "otherwise requires",
+              "have the following meanings :"
+            ]
+          },
+          {
+            "Item": "1 \u2018Disclosing Party\u2019 or \u2018First Party\u2019 means DRDO Lab/Estt. disclosing Confidential",
+            "Approved Makes": [
+              "Information to the Vendor",
+              "Seller",
+              "Development Partner under this Agreement."
+            ]
+          },
+          {
+            "Item": "2 \u2018Receiving Party\u2019 means the Vendor/Seller/Development Partner receiving",
+            "Approved Makes": [
+              "Confidential Information from DRDO Lab",
+              "Estt. under this Agreement."
+            ]
+          },
+          {
+            "Item": "3 \u2018Confidential Information\u2019 means any information, which shall include but is not",
+            "Approved Makes": [
+              "limited to",
+              "design",
+              "fabrication and assembly drawings",
+              "know-how",
+              "processes",
+              "product",
+              "specifications",
+              "raw materials",
+              "product samples",
+              "inventions",
+              "concepts and any other",
+              "technical and",
+              "or commercial information",
+              "disclosed directly or indirectly and in any form",
+              "whatsoever (including",
+              "but not limited to",
+              "disclosure made in writing",
+              "oral or in the form",
+              "of samples",
+              "models",
+              "computer programmes",
+              "drawings or other instruments) furnished",
+              "by the Disclosing Party to the Receiving Party under this Agreement."
+            ]
+          },
+          {
+            "Item": "3.1.1 information disclosed by the Disclosing Party/First Party in writing marked",
+            "Approved Makes": [
+              "as confidential at the time of disclosure"
+            ]
+          },
+          {
+            "Item": "3.1.2 information disclosed by the Disclosing Party/First Party orally which is",
+            "Approved Makes": [
+              "slated to be confidential at the time of disclosure"
+            ]
+          },
+          {
+            "Item": "3.1.3 information disclosed in any other manner is designated in writing as",
+            "Approved Makes": [
+              "Confidential Information at the time of disclosure",
+              "or"
+            ]
+          },
+          {
+            "Item": "3.1.4 notwithstanding sub-clauses 1.3.1.1, 1.3.1.2 and 1.3.1.3 of this definition,",
+            "Approved Makes": [
+              "any information whose nature makes it obvious that it is confidential."
+            ]
+          },
+          {
+            "Item": "3.2.2 becomes at a later date, publicly available otherwise than a wrongful act",
+            "Approved Makes": [
+              "or negligence or breach of this Agreement of or by the Receiving Party",
+              "or"
+            ]
+          },
+          {
+            "Item": "3.2.3 the Receiving Party can demonstrate by its written records was in its",
+            "Approved Makes": [
+              "possession",
+              "or known to the Receiving Party",
+              "before receipt under this Agreement",
+              "and",
+              "which was not previously acquired under an obligation of confidentiality",
+              "or"
+            ]
+          },
+          {
+            "Item": "3.2.4 is legitimately obtained at any time by the Receiving Party from a third",
+            "Approved Makes": [
+              "Party without restrictions in respect of disclosure or use",
+              "or"
+            ]
+          },
+          {
+            "Item": "3.2.5 the Receiving Party can demonstrate to the satisfaction of the Disclosing",
+            "Approved Makes": [
+              "Party",
+              "has been developed independently of its obligations under this Agreement",
+              "and without access to the Confidential Information."
+            ]
+          },
+          {
+            "Item": "1 Authority of the Signatory of Receiving Party in NDA shall be established prior to",
+            "Approved Makes": [
+              "signing of NDA. Preferably",
+              "a letter should be obtained from CEO",
+              "MD of the Receiving",
+              "Party authorizing a named senior level official to sign NDA on their behalf. Only such",
+              "authorised Senior Level Officer should sign the NDA document on behalf of Receiving",
+              "Party",
+              "Second Party."
+            ]
+          },
+          {
+            "Item": "2 The confidentiality of the documents shall also be maintained by the Consortium",
+            "Approved Makes": [
+              "Partners of the Suppliers",
+              "Receiving Party."
+            ]
+          },
+          {
+            "Item": "3 The Labs/Estts./Programmes are advised to enter into this NDA in all Contracts",
+            "Approved Makes": [
+              "wherein any Confidential Information is being shared with the Receiving Party",
+              "Second",
+              "Party.",
+              "No assignment",
+              "modification",
+              "or waiver of any Term of this Agreement shall be effective",
+              "unless set forth in writing and signed by an Authorized Representative of each Party. No",
+              "failure to enforce any provision of this Agreement shall be construed as waiver."
+            ]
+          },
+          {
+            "Item": "Dispute Resolution",
+            "Approved Makes": [
+              "Difference of opinion",
+              "if any",
+              "arising during the period of this Agreement",
+              "concerning the",
+              "execution of the responsibilities will be settled on the basis of mutual consultation by the",
+              "signatories or their designated nominees. The parties will make best possible efforts to",
+              "resolve the dispute and in case of their failure to do so and reconciling the dispute",
+              "mutually",
+              "the same shall be referred for Arbitration."
+            ]
+          },
+          {
+            "Item": "Arbitration",
+            "Approved Makes": [
+              "This clause defines the mechanism of dispute resolution and an alternate to litigation.",
+              "The disputing parties hand over their power to decide the dispute to the arbitrator(s).",
+              "The standard text of this clause is as under:",
+              "\u201cAll disputes or differences arising out of or in connection with the Contract shall be",
+              "settled by bilateral discussions. Any dispute",
+              "disagreement or question arising out of or",
+              "relating to the Contract or relating to product or performance",
+              "which cannot be settled",
+              "amicably",
+              "shall be resolved by arbitration in accordance with the following applicable",
+              "provision:",
+              "a) For Central and State PSEs : The case of arbitration shall be referred to the",
+              "Department of Public Enterprises for the appointment of sole arbitrator by the",
+              "Secretary to the Government of India in-charge of the Department of Public",
+              "Enterprises. The Arbitration and Conciliation Act",
+              "1996 shall not be applicable to",
+              "arbitration under this clause.",
+              "b",
+              "\u2014",
+              "For Defence PSUs : The case of arbitration shall be referred to the Secretary",
+              "Defence (R&D) for the appointment of arbitrator(s) and proceedings.",
+              "c) For Other Firms: Any dispute",
+              "disagreement or question arising out of or",
+              "relating to the Contract or relating to product or performance",
+              "which can not be",
+              "settled amicably",
+              "shall be resolved by arbitration in accordance with either of the",
+              "following provisions:",
+              "\u201cThe case of arbitration may be referred to respective CFA or a person appointed",
+              "by him who will be sole arbitrator and the proceedings shall be conducted in",
+              "accordance with procedure of Indian Arbitration and Conciliation Act",
+              "1996.\u201d",
+              "Or",
+              "\u201cThe case of arbitration may be referred to International Centre for Alternative",
+              "Dispute Resolution (ICADR) for the appointment of arbitrator and the",
+              "proceedings shall be conducted in accordance with procedure of Indian",
+              "Arbitration and Conciliation Act",
+              "1996.\u201d",
+              "Or",
+              "\u201cThe case of arbitration may be conducted in accordance with the rules of",
+              "Arbitration of the International Chamber of Commerce by one or more arbitrators",
+              "appointed in accordance with the said rules in India. However",
+              "the arbitration",
+              "proceedings shall be conducted in India under Indian Arbitration and Conciliation",
+              "Act",
+              "1996.\u201d"
+            ]
+          },
+          {
+            "Item": "Entire Agreement",
+            "Approved Makes": [
+              "ment between the Parties with respect to",
+              "This Agreement constitutes the entire Agree",
+              "supersedes all prior agreements and",
+              "the matters covered by this Agreement",
+              "understandings with respect thereof",
+              "and m in writing si",
+              "iecdocd ay only be amended in writing signed by"
+            ]
+          },
+          {
+            "Item": "Binding Effect",
+            "Approved Makes": [
+              "This Agreement shall be binding and inure to th i",
+              "e benefit of th i",
+              "their Successors and Assigns. \u2018ietiniine",
+              "oe ee nga the parties have executed this Agreement to be executed as",
+              "ective date written above when signed below b i i",
+              "eanceniaions",
+              "9g y their duly authorized",
+              "For Lab",
+              "Estt.",
+              "First Party For FirM/second Party",
+              "Name: Name :",
+              "Designation : Designation :",
+              "Address : Address :",
+              "Date : Dats ="
+            ]
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 1c869817-fe96-40c9-aa20-88b5c2a1d7d2.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 1dbfb81d-903a-40d5-85ec-198b39d9ac08.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 22d005d7-0204-44c5-bc5b-03577fa12e5b.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 2e0db63b-5b09-4cfa-b88b-a9f22a43e4d5.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 31d514d7-a507-4dfd-906f-e53c13bc1ed9.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 34aac39a-eeac-44c8-a25c-6bc9050d1bda.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 36357899-8854-47d0-8ade-fdfeed947645.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 3706af0b-cfbd-4242-997c-350f358866d5.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 373a6209-edb4-4881-9a0d-e6fd9e8e14bf.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 3b93abfc-beb7-4e82-a9bc-c5d94a9d3549.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 3b99aa2b-710f-4a82-9745-c72ba30e9efe.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 3cdc9b4c-01cb-4ba6-968b-ccf3ec457a77.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 42d7cc1d-7b4a-4bda-b54c-bbe973e4a96c.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 43d377c7-6eb1-4f07-9ac3-ab5b93a1cd43.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 4553cb14-3f7f-4c08-a7dc-11f7ae599edd.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 46addab5-7eb7-4e2e-b278-482431c4970d.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 496d8e57-7b2e-4f9b-9640-fba68e9e221d.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 4b50c271-c9e4-46dc-a474-e449ba2f721f.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 4b554b9d-9641-4462-b623-92bdf9a482f1.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 4bbee234-2e6e-44d0-a5cc-bf6ef8b837f5.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 4c32145d-5858-4553-a6ea-3f36fd935dcc.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 4cbf8648-31fc-444c-b5aa-9b4a367fc2c2.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 4ff37a02-5921-4d99-83a1-aecfd0ed4801.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 5138e87e-26e9-45cd-a0b1-a9dd6eb9b5f4.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 534f4835-fc86-4bfd-b8d4-39b19ad4e756.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 5511af53-504b-44d5-b765-4ee4032bc224.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 5bf6d748-eb3b-4b83-9211-87a396792f34.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 5cebef25-95eb-48ab-a125-df952f670ef3.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 5cf7dadb-5196-4413-b01d-bb782f655eed.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 63b917d9-a826-410f-95a5-e6aa76a69d47.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 6958a6f8-8665-4225-80b5-fcf5364555ef.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 697d9f88-5eb0-441e-bd77-4d767b52c22e.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 6ef65f5a-2477-434a-9f57-b511f06f2787.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 735c865a-89f6-4e38-a0ee-5dc5793e4f2e.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 77b4ab0a-7b40-4fcf-9251-c274a0969a0b.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 7c16c3fb-e1e5-4f41-8cb7-c2066f651849.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 80d756a6-95f3-4f73-8f8e-27a691a22f45.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 835540d8-2237-43d6-b00d-8650c4d67f13.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 83d117fd-b295-4c71-842a-bdd78690c011.pdf",
+    "tables": [
+      {
+        "title": "Approved Makes and Manufacturers",
+        "data": [
+          {
+            "Item": "UGLT XLPE PVC Insulated\ncables",
+            "Approved Makes": [
+              "M/s CCI",
+              "M/s Finolex",
+              "M/s Polycab",
+              "M/s Gloster",
+              "M/s Universal",
+              "M/s RR Kabel",
+              "M/s RPG",
+              "M/s Havells",
+              "M/s KEI",
+              "M/s Plaza",
+              "M/s Paragon",
+              "M/s HPL",
+              "M/s V Guard",
+              "M/s Asian galaxy",
+              "M/s Pymen Cable",
+              "M/s Vishal",
+              "M/s Ultra cab"
+            ]
+          },
+          {
+            "Item": "GI PIPES & FITTINGS",
+            "Approved Makes": [
+              "M/s Tata",
+              "M/s Jindal",
+              "M/s BST",
+              "M/s Surya",
+              "M/s KS Engineering Works",
+              "M/s Zenith",
+              "M/s Swastik M/s Prakash"
+            ]
+          },
+          {
+            "Item": "Synthetic Enamel paint/\nAluminium Paint",
+            "Approved Makes": [
+              "M/s Asian Paints",
+              "M/s Nerolac Paints",
+              "M/s Berger Paints",
+              "M/s Shalimar Paints",
+              "M/s Dulux",
+              "M/s Jenson & Nicholson Paints",
+              "M/s ICI Paint",
+              "M/s Jotun",
+              "M/s Nippon Paint India Pvt Ltd."
+            ]
+          },
+          {
+            "Item": "Cement Base paint",
+            "Approved Makes": [
+              "M/s Super Snowcem",
+              "M/s Duracem",
+              "M/s Aquacem",
+              "M/s Shalimar Paint",
+              "M/s Berger Paint",
+              "M/s Asian Paints",
+              "M/s Accrocem",
+              "M/s NITCO",
+              "Mumbai M/s Jenson & Nicolson"
+            ]
+          },
+          {
+            "Item": "Distemper oil-emulsion\n(OBD)/ Acrylic Distemper",
+            "Approved Makes": [
+              "M/s Asian Paints",
+              "M/s Nerolac",
+              "M/s Berger Paints",
+              "M/s Akzo nobel",
+              "M/s Shalimar Paints",
+              "M/s Jenson & Nicholson",
+              "M/s Jotun",
+              "M/s Garware",
+              "M/s Nippon Paint India Pvt Ltd"
+            ]
+          },
+          {
+            "Item": "Non Skid Ceramic Tiles",
+            "Approved Makes": [
+              "M/s Kajaria",
+              "M/s Somany",
+              "M/s Johnson Tiles",
+              "M/s Orient Bell Ltd",
+              "M/s Spartek",
+              "M/s Regency",
+              "M/s Asian",
+              "M/s Ambani Vitrified Pvt Ltd",
+              "M/s Naveen Tiles"
+            ]
+          },
+          {
+            "Item": "Glazed Ceramic wall /\nFlooring tiles",
+            "Approved Makes": [
+              "M/s Kajaria",
+              "M/s Somany",
+              "M/s Asian Granite Ind Ltd M/s Johnson Tiles",
+              "M/s RAK Cements Ltd",
+              "M/s Spartek",
+              "M/s Regency",
+              "M/s Murudeshwar Ceramaic",
+              "M/s Orient Bell Ltd",
+              "M/s OASIS Vetrified Pvt Ltd",
+              "M/s Sunshine Tiles Co Pvt Ltd",
+              "M/s Qutone Ceramic Pvt Ltd",
+              "M/s VARMORA Granite Pvt Ltd",
+              "M/s Aparna Enterprises"
+            ]
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of 846a9bf8-c8c5-4d72-8902-e9cd95cc229e.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 8bf05e23-1cf1-455f-a418-70126c990ac2.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 8d3232e3-fe22-4869-9f0a-91463909d3f8.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 8d3e6d52-724b-4d53-85a7-bc213589d6a3.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 8f473446-9865-4c4d-9405-6ceadfab327c.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 94454a58-856a-4593-93c4-6452d46af870.pdf",
+    "tables": [
+      {
+        "title": "Approved Makes and Manufacturers",
+        "data": [
+          {
+            "Item": "At ihe entrance of the: approach adi lon",
+            "Approved Makes": [
+              "towards the",
+              "enltance . ie",
+              "7 The hansversa etp 8 of 50mm o shall b",
+              "drain. ie"
+            ]
+          },
+          {
+            "Item": "For gallery \u2018jerteinent celaths refer",
+            "Approved Makes": [
+              "9 For groviing and drainage. dis refer",
+              "10 For delails \u2018of sumpwell and fume chanb",
+              "M. Svitable. ventilation \u2018arrargemers gor tbe sol",
+              "igallery will have ta be madte.\\by thet p",
+              "13 The founciation gracles in this chaning are",
+              "fourdalion grade",
+              "rock levels auppled",
+              "raving No K\u00a5.P|c+",
+              "33",
+              "14 The-approach rocds::to the: Ackts",
+              "ae fete finalised by projecpabl",
+              "15. This. crowing supersedes the gacher:speqij",
+              "iL Apprach adlif Had rer < \u2014 le. The length ancl size of core walls of be",
+              "7 [Zee & of gotery afler knowing the aeteal gounckation",
+              "LL semctat 200mm > block sleel pipe",
+              "800mm long ! ae Mt the cross gallery in block Wa-7 hag",
+              "4 Paraepen connected fo 2G0mm $ porous c4nd. = x j Project Aulhorities expressed the",
+              "a . 1 5255 crons @ 3.Omales oh\u2014\u2014\u2014\u2014 i { \\ the instruments in tme",
+              "to suit",
+              ":",
+              "y 3 3! 5 ee eee",
+              "\u201cPLAN AT. OPERATION GALLERY. 3",
+              "REFERENCE. DRAWINGS fo",
+              "5 . 4 }+\u2014_\u2014---| 420 ____ + Plan ane! Blevellon Drawing Ne KPL- 4108:"
+            ]
+          },
+          {
+            "Item": "4292 | 2. Maximum Sechons Draviing Mo. Kel 2700:",
+            "Approved Makes": [
+              "from Axis of Dole g \u201cbb",
+              "Oy {",
+              "| i",
+              "75m",
+              "1252 pie 200% ) |",
+              "Ageragch Adit No.2 alla 0-340-3-| aad ) veut",
+              "i",
+              "{rpeoy i] on Ehvaries",
+              "simmst0 cop 100m Tee with \u00a2.8.K. plog",
+              "100 100x50",
+              "ce i SCALESr",
+              "qin $ black \u2018sel pipes raial-Om tng 2400mm black xeel pipe min. hom i",
+              "held hghh in concrete 8.3.00 x i long for chamaye holes @ 30m cle yt",
+              "pe M held ond Ccheld' gh ages\u2019 i",
+              "on",
+              "4 yo",
+              "wef M45 Dramage holes(Mz bin) | FOR TVAICAL meth",
+              "i) :",
+              "q \u2018Whales (Ax bi",
+              ") Ao [gales TWPIGAL GALEBS",
+              "d a \u2018 4 ancl i a \u201c \\ ~GOVERNI",
+              "ul ! fron Yh scmeny -GENTRAL.W",
+              "p A 7 heceplibe vain grode AK OPI LE:",
+              "LAN AT FOUNDATION GALLERY",
+              "\u2014\u2014UMRO",
+              "TYPICAL GALLERY SECTION"
+            ]
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of 9e7f69a7-aa2a-4da2-aabd-2a1e48faec89.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of 9f1330d2-d438-4eef-bfef-ffa117613257.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of a01d68f9-5ac4-43af-ac2f-a7480816b876.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of a057c6cd-5b30-4911-b395-275e9703d470.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of a18781ea-af52-43a0-bafe-adcaea318585.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of a1abf2c6-d169-4eda-b92a-01ac99ddc845.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of a46c547b-6fce-4127-91e5-973aacbad161.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of a78773e8-cf3e-4a60-bbf5-76f7fd5c1385.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of a7a18439-7aa4-43cc-98ed-456378b318a7.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of abffd02a-74c0-4b75-b521-7e9045e2c4c8.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of b207f39f-acca-41e3-91c2-3e6582d97099.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of b5e26473-01fb-4bd5-92fa-1567e9ab19b1.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of ba3e8e71-f2ee-4d62-8309-295998cd5744.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of bafa7df3-e9c5-4db5-9acf-562d39d09705.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of bdc1356d-b137-4515-810a-2effc3c8c817.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of c22bce18-63c2-47e4-92f8-4656443916f7.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of c3d189dc-e661-4ecd-a78b-7bfdf54306fb.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of c6df9bbd-8300-43b8-939f-79648451fa38.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of c77b1fe3-17a2-4f3b-a5eb-35cd58bfac1c.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of c8211aec-e08b-4cbc-89f4-c75534fb2107.pdf",
+    "tables": [
+      {
+        "title": "Approved Makes and Manufacturers",
+        "data": [
+          {
+            "Item": "PCC / Plain or\nChequered terrazzo\ntiles / Interlocking\nPaver Blocks",
+            "Approved Makes": [
+              "Nitco",
+              "Southern Mosaic Flooring",
+              "Perumbavoor",
+              "Delux Mosaic Flooring",
+              "Mulanthuruthy",
+              "Mehtab Tiles",
+              "Ultra Tiles",
+              "Planet green."
+            ]
+          },
+          {
+            "Item": "Cement concrete tiles /\nPCC Cable Cover",
+            "Approved Makes": [
+              "Eurocon",
+              "Sirex",
+              "Scorpio",
+              "Ultra Tiles",
+              "Mehtab Tiles",
+              "Vaishnavi Developers"
+            ]
+          },
+          {
+            "Item": "Ceramic tiles (Non\nSkid / Glazed)",
+            "Approved Makes": [
+              "Regency",
+              "HR Johnson",
+              "Spartek",
+              "Somani",
+              "Nitco",
+              "Diamond",
+              "Kajaria",
+              "Bell"
+            ]
+          },
+          {
+            "Item": "Vitrified Tiles",
+            "Approved Makes": [
+              "HR Johnson",
+              "Kajaria",
+              "Nitco",
+              "Murdeshwar"
+            ]
+          },
+          {
+            "Item": "Paints and polish",
+            "Approved Makes": [
+              "Asian Paint",
+              "Shalimar Jenson and Nicholson",
+              "Goodlass Nerolac",
+              "Berger Paints"
+            ]
+          },
+          {
+            "Item": "Plastic emulsion paint",
+            "Approved Makes": [
+              "Asian",
+              "Shalimar",
+              "Jenson and Nicholson",
+              "Goodlass Nerolac",
+              "Berger Paints"
+            ]
+          },
+          {
+            "Item": "Distemper oil emulsion",
+            "Approved Makes": [
+              "Asian paints",
+              "Shalimar",
+              "Jenson & Nicholson",
+              "Goddlas Nerolac",
+              "Berger paints."
+            ]
+          },
+          {
+            "Item": "Cement Based Paints",
+            "Approved Makes": [
+              "Kilick Nixon",
+              "Asian paints",
+              "Shalimar",
+              "Snowcem India Ltd",
+              "Berger",
+              "ICI"
+            ]
+          },
+          {
+            "Item": "Oil Bound distemper",
+            "Approved Makes": [
+              "Asian Paints",
+              "Shalimar",
+              "Jenson and Nicholson",
+              "Berger"
+            ]
+          },
+          {
+            "Item": "Acrylic emulsion paint\n(Antifungal)",
+            "Approved Makes": [
+              "Snowcem Paint",
+              "Asian Paints",
+              "ICI",
+              "Berger"
+            ]
+          },
+          {
+            "Item": "Sanitary Fittings and\nfixtures",
+            "Approved Makes": [
+              "Parryware",
+              "Hindware",
+              "Neycer",
+              "Cera",
+              "Jaquar"
+            ]
+          },
+          {
+            "Item": "Stainless steel sink\nand draining board",
+            "Approved Makes": [
+              "Pheonix",
+              "Nirali",
+              "Diamond",
+              "Blue Star sanitary Industries Pvt Ltd"
+            ]
+          },
+          {
+            "Item": "PVC Flushing Cistern",
+            "Approved Makes": [
+              "Parryware",
+              "Commander",
+              "Hindware",
+              "Precision Products"
+            ]
+          },
+          {
+            "Item": "Plastic WC Seat Cover",
+            "Approved Makes": [
+              "Commander",
+              "Supreme",
+              "Parryware",
+              "Cera"
+            ]
+          },
+          {
+            "Item": "Mirrors",
+            "Approved Makes": [
+              "Atul",
+              "Koohinoor",
+              "Gold Fish",
+              "Modiguard",
+              "Saint Gobian",
+              "Swastik"
+            ]
+          },
+          {
+            "Item": "Particle Board / Pre\nlaminated particle\nboard",
+            "Approved Makes": [
+              "Novopan",
+              "Kitply",
+              "Green Ply",
+              "Ecoboard",
+              "Archidlam"
+            ]
+          },
+          {
+            "Item": "Plywood / Veneered\nplywood",
+            "Approved Makes": [
+              "Indian Plywood (Anchor)",
+              "Kit Ply",
+              "Century"
+            ]
+          },
+          {
+            "Item": "MDF Board",
+            "Approved Makes": [
+              "Nuwud",
+              "Duratuff",
+              "Bajaj",
+              "Green Ply Industries Ltd"
+            ]
+          },
+          {
+            "Item": "Gypsum Board",
+            "Approved Makes": [
+              "India Gypsum"
+            ]
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of cbaa4f7c-c6bd-4a9c-abae-5a2caa0fe146.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of cfc8d70d-c4bf-470b-b751-32b9fb310bff.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of d161df90-254e-4741-a304-00df68815144.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of d8f8be7b-8ef6-4ac1-84f4-9cdbbff3dec1.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of da4fca51-8053-4458-9348-d0767963b8e6.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of db31e874-ff4d-42e2-9706-da91e18493fb.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of de167d9e-6107-4432-82aa-b9befbde02e0.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of e0ba4c9f-1d12-4ddc-8368-61ec5fb2502b.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of e22cc700-6445-4e3a-838b-1df6a776aa24.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of e6d44721-b51e-4480-942c-68edcd9d1d27.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of e6f92bc3-6cd9-4739-a1dc-4a6fae6e597c.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of e7d43809-0c65-4b5f-833a-6f453b29d210.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of e9dc1a8d-b287-4495-8f93-2f816f20322f.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of eabb2aaa-1ea5-421c-bb4c-b907560ab793.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of eb7f6798-3a2f-4aa8-844a-e2103e194fc6.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of ec57baec-3927-4b81-8cfb-92711f464d35.pdf",
+    "tables": [],
+    "status": "failed",
+    "error": "No valid manufacturer data found"
+  },
+  {
+    "file_name": "Copy of fa20775f-ed22-48b6-96c1-89a7ab8a0b38.pdf",
+    "tables": [
+      {
+        "title": "Approved Makes and Manufacturers",
+        "data": [
+          {
+            "Item": "Copper winding",
+            "Approved Makes": [
+              "Devidyal",
+              "Bharat Bijli",
+              "Starlite",
+              "Hindalco"
+            ]
+          },
+          {
+            "Item": "Contactor",
+            "Approved Makes": [
+              "ABB",
+              "BCH",
+              "L&T",
+              "SIEMENS",
+              "C&S",
+              "SCHIENDER"
+            ]
+          },
+          {
+            "Item": "Sheet Glass Plain/ Frosted",
+            "Approved Makes": [
+              "Modiguard",
+              "Asahi",
+              "Saint gobain"
+            ]
+          },
+          {
+            "Item": "MS pipes & fittings",
+            "Approved Makes": [
+              "Tata",
+              "Jindal",
+              "JSW",
+              "SAIL"
+            ]
+          },
+          {
+            "Item": "CI pipes & fittings",
+            "Approved Makes": [
+              "Electro steel",
+              "Kejriwal",
+              "NECO",
+              "Kesoram"
+            ]
+          },
+          {
+            "Item": "Gun metal valves",
+            "Approved Makes": [
+              "Leader",
+              "Zoloto",
+              "Kirloskar",
+              "Bir"
+            ]
+          },
+          {
+            "Item": "Fire brigade",
+            "Approved Makes": [
+              "MINIMAX",
+              "VIJAY",
+              "SAFEX",
+              "CEASE FIRE",
+              "SAFEZONE",
+              "MONARCH ENGINEERS"
+            ]
+          },
+          {
+            "Item": "Fire Hose Pipe/ Reel/Box",
+            "Approved Makes": [
+              "MINIMAX",
+              "VIJAY",
+              "SAFEX",
+              "DUNLOP"
+            ]
+          },
+          {
+            "Item": "Fire extinguisher",
+            "Approved Makes": [
+              "MINIMAX",
+              "VIJAY",
+              "SAFEX",
+              "CEASE FIRE",
+              "SAFEZONE",
+              "MONARCH ENGINEERS"
+            ]
+          },
+          {
+            "Item": "Fire hydrant valve",
+            "Approved Makes": [
+              "MINIMAX",
+              "VIJAY",
+              "SAFEX",
+              "CEASE FIRE"
+            ]
+          },
+          {
+            "Item": "BRANCH PIPE NOZZLE AND\nCOUPLINGS",
+            "Approved Makes": [
+              "MINIMAX",
+              "VIJAY",
+              "SAFEX",
+              "CEASE FIRE",
+              "SAFEZONE",
+              "MONARCH ENGINEERS"
+            ]
+          },
+          {
+            "Item": "CONTROL PANELS",
+            "Approved Makes": [
+              "CEASE FIRE",
+              "VIJAY FIRE PROTECTION SYSTEMS",
+              "EX- FLAME"
+            ]
+          },
+          {
+            "Item": "All types Gun metal gate valves/\nBrass ball valves/ Sluice valves/ Air\nrelease valves/ Float valves/ CI\nFoot valves/ Brass Ferrule/NRV",
+            "Approved Makes": [
+              "Shakti",
+              "NVI",
+              "Leader",
+              "Zoloto",
+              "KEJRIWAL",
+              "L&T (Audco)",
+              "Kartar",
+              "BIR",
+              "Kirloskar",
+              "Sant",
+              "Satyam",
+              "Upadhya",
+              "Venus",
+              "Kartar"
+            ]
+          },
+          {
+            "Item": "Paint",
+            "Approved Makes": [
+              "Asian paints",
+              "Berger",
+              "Nerolac",
+              "ICI India"
+            ]
+          },
+          {
+            "Item": "Air release valve",
+            "Approved Makes": [
+              "Leader",
+              "Sant",
+              "Kirloskar",
+              "Bir",
+              "L&T",
+              "Upadhyay"
+            ]
+          },
+          {
+            "Item": "Pumps for fire fighting",
+            "Approved Makes": [
+              "Kirloskar",
+              "Mather & Platt",
+              "Crompton Motor",
+              "ABB"
+            ]
+          },
+          {
+            "Item": "Maintenance free battery",
+            "Approved Makes": [
+              "EXIDE",
+              "AMAR RAJA",
+              "AMCO",
+              "AMARON"
+            ]
+          },
+          {
+            "Item": "Pressure Gauge",
+            "Approved Makes": [
+              "FIEBIG",
+              "BAKER MERCER",
+              "DANFOSS",
+              "L&T"
+            ]
+          },
+          {
+            "Item": "Butterfly valves",
+            "Approved Makes": [
+              "Leader",
+              "Sant",
+              "Kirloskar",
+              "Zoloto",
+              "L&T",
+              "Upadhyay"
+            ]
+          },
+          {
+            "Item": "MCB/ MCCB",
+            "Approved Makes": [
+              "L&T",
+              "ABB",
+              "Siemens",
+              "Schneider",
+              "Legrand",
+              "Indo Asian",
+              "C&S"
+            ]
+          },
+          {
+            "Item": "Non return valves",
+            "Approved Makes": [
+              "Leader",
+              "Zoloto",
+              "Kirloskar",
+              "Bir",
+              "L&T",
+              "Upadhyay"
+            ]
+          },
+          {
+            "Item": "Foot valves",
+            "Approved Makes": [
+              "Leader",
+              "Venus",
+              "Sant",
+              "Kirloskar",
+              "Upadhyay"
+            ]
+          },
+          {
+            "Item": "Cables for wiring",
+            "Approved Makes": [
+              "Paragon",
+              "Havels",
+              "Plaza",
+              "Finolex",
+              "Cabcom",
+              "V Guard"
+            ]
+          },
+          {
+            "Item": "PVC rigid conduits and conduit\nfittings",
+            "Approved Makes": [
+              "Garware",
+              "Finolex",
+              "Avon Plast",
+              "Kalinga",
+              "Konseal",
+              "Modi",
+              "Chemplast",
+              "Balco"
+            ]
+          },
+          {
+            "Item": "Wires(Copper conductor)",
+            "Approved Makes": [
+              "Finolex",
+              "National",
+              "Havells",
+              "Paragon"
+            ]
+          },
+          {
+            "Item": "LED Aviation Lamps",
+            "Approved Makes": [
+              "Havells",
+              "Philips",
+              "Crompton Greaves",
+              "Wipro",
+              "Jaquar"
+            ]
+          },
+          {
+            "Item": "Glazing",
+            "Approved Makes": [
+              "Saint Gobain",
+              "Modiguard",
+              "Asahi",
+              "Atul glass industries",
+              "Gold Fish"
+            ]
+          },
+          {
+            "Item": "Components of fire fighting\nequipments/incinerator",
+            "Approved Makes": [
+              "As per existing OEM Makes"
+            ]
+          },
+          {
+            "Item": "Energy Meter",
+            "Approved Makes": [
+              "Secure",
+              "L & T",
+              "Havells",
+              "ABB",
+              "BHEL"
+            ]
+          },
+          {
+            "Item": "Bearing",
+            "Approved Makes": [
+              "SKF",
+              "NBC",
+              "LUCAS",
+              "TATA"
+            ]
+          },
+          {
+            "Item": "Change Over Switch /Starter/\nContactor DOL/ Star-Delta/\nSynchronous/Push Button/ Single\nPhase preventor/ FASD/SASD/\nTransformer",
+            "Approved Makes": [
+              "ABB",
+              "Havells",
+              "Siemens",
+              "Larsen & Tubro",
+              "Control & Switchgear",
+              "Crompton Greaves",
+              "Indo Asian",
+              "Benlo",
+              "AE"
+            ]
+          },
+          {
+            "Item": "Air Blower",
+            "Approved Makes": [
+              "ISI Marked"
+            ]
+          },
+          {
+            "Item": "Wet Scrubber",
+            "Approved Makes": [
+              "ISI Marked"
+            ]
+          },
+          {
+            "Item": "Digital automatic temperature\ncontroller",
+            "Approved Makes": [
+              "ISI Marked"
+            ]
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of ff4e984d-6247-48c7-a70f-57f742a7d2ea.pdf",
+    "tables": [
+      {
+        "title": "Approved Makes and Manufacturers",
+        "data": [
+          {
+            "Item": "The locohion and nuniber of rows",
+            "Approved Makes": [
+              "and drainage holes are subject",
+              "condhons"
+            ]
+          },
+          {
+            "Item": "Any appreciabk change in the ac",
+            "Approved Makes": [
+              "during excavalicn shall call for",
+              "9",
+              "Svifable vartlation arrangements",
+              "mace by he tiyech Cubeches."
+            ]
+          },
+          {
+            "Item": "C holes ore sume as 'K holes o",
+            "Approved Makes": [
+              "erbedded in concrete oper A\u2019 b",
+              "a preerey afer knewing the fou",
+              "geclogist",
+              "REEERENCE DRAWINGS. 2"
+            ]
+          },
+          {
+            "Item": "Geiery lay cut. _-",
+            "Approved Makes": [
+              "SCALES=",
+              "4 0 40 bo 1",
+              "Yul. _ ci ae",
+              "606 2 18",
+              "Vat 1 _J",
+              "FOR PLAN AT FCLNL",
+              "25 0 25 50 75",
+              "fut ET",
+              "FOR TYPICAL GALL",
+              "GOVERN",
+              "CENTRAL",
+              "KOPILI",
+              "(KHAN"
+            ]
           }
         ]
       }

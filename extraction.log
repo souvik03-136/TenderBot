@@ -1,18 +1,2214 @@
-2025-03-13 22:37:13,574 - INFO - Tesseract configured successfully
-2025-03-13 22:37:13,575 - INFO - Found 1 PDF files
-2025-03-13 22:37:13,576 - INFO - 
-========================================
-2025-03-13 22:37:13,576 - INFO - Processing: Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
-2025-03-13 22:37:13,708 - INFO - PDF type: digital
-2025-03-13 22:37:26,887 - INFO - Valid table found via _extract_with_pdfplumber
-2025-03-13 22:37:28,116 - INFO - Processing completed: success
-2025-03-13 22:37:28,116 - INFO - Processing complete. Results saved to output.json
-2025-03-13 22:40:40,583 - INFO - Tesseract configured successfully
-2025-03-13 22:40:40,602 - INFO - Found 1 PDF files
-2025-03-13 22:40:40,602 - INFO - 
-========================================
-2025-03-13 22:40:40,602 - INFO - Processing: Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
-2025-03-13 22:40:40,740 - INFO - PDF type: digital
-2025-03-13 22:40:53,735 - INFO - Valid table found via _extract_with_pdfplumber
-2025-03-13 22:40:54,840 - INFO - Processing completed: success
-2025-03-13 22:40:54,840 - INFO - Processing complete. Results saved to output.json
+2025-03-14 19:22:13,005 - INFO - Found 1 PDF files
+2025-03-14 19:22:25,584 - ERROR - TAPAS processing failed: 'numpy.ndarray' object has no attribute 'numpy'
+2025-03-14 19:22:25,584 - WARNING - Invalid manufacturer data structure
+2025-03-14 19:22:25,584 - INFO - Processing completed: failed
+2025-03-14 19:22:26,619 - INFO - Processing complete. Results saved to output.json
+2025-03-14 19:24:23,818 - INFO - Processing complete. Results saved to output.json
+2025-03-14 19:29:09,241 - INFO - Starting PDF extraction process...
+2025-03-14 19:29:09,241 - INFO - Initializing PDFTableExtractor.
+2025-03-14 19:29:09,241 - INFO - Initializing TapasHandler.
+2025-03-14 19:29:11,463 - INFO - Found 1 PDF file(s) in folder 'Pdf'.
+2025-03-14 19:29:15,933 - INFO - Processing PDF: Pdf\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-14 19:29:15,933 - INFO - Checking if PDF is scanned...
+2025-03-14 19:29:15,996 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:29:15,996 - INFO - Processing digital PDF.
+2025-03-14 19:29:15,996 - INFO - Finding manufacturer table in Pdf\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf...
+2025-03-14 19:29:21,718 - INFO - Table title found on a page.
+2025-03-14 19:29:22,108 - INFO - Table title found on a page.
+2025-03-14 19:29:22,140 - INFO - Cleaning extracted table.
+2025-03-14 19:29:22,249 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:29:22,249 - INFO - Directly parsing table data.
+2025-03-14 19:29:22,249 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:29:22,249 - INFO - Identified columns - Description: Description of item, Manufacturer: Name of manufacturer
+2025-03-14 19:29:22,249 - INFO - Direct parse completed.
+2025-03-14 19:29:22,249 - INFO - Validation of results: passed.
+2025-03-14 19:29:22,249 - INFO - Validation of results: passed.
+2025-03-14 19:29:23,078 - INFO - Processing complete. Results saved to output.json
+2025-03-14 19:31:00,244 - INFO - Starting PDF extraction process...
+2025-03-14 19:31:00,244 - INFO - Initializing PDFTableExtractor.
+2025-03-14 19:31:00,244 - INFO - Initializing TapasHandler.
+2025-03-14 19:31:02,052 - INFO - Found 1 PDF file(s) in folder 'Pdf'.
+2025-03-14 19:31:06,942 - INFO - Processing PDF: Pdf\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-14 19:31:06,942 - INFO - Checking if PDF is scanned...
+2025-03-14 19:31:07,026 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:31:07,026 - INFO - Processing digital PDF.
+2025-03-14 19:31:07,026 - INFO - Finding manufacturer table in Pdf\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf...
+2025-03-14 19:31:13,358 - INFO - Table title found on a page.
+2025-03-14 19:31:13,793 - INFO - Table title found on a page.
+2025-03-14 19:31:13,823 - INFO - Cleaning extracted table.
+2025-03-14 19:31:13,935 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:31:13,935 - INFO - Directly parsing table data.
+2025-03-14 19:31:13,935 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:31:13,935 - INFO - Identified columns - Description: Description of item, Manufacturer: Name of manufacturer
+2025-03-14 19:31:13,935 - INFO - Direct parse completed.
+2025-03-14 19:31:13,935 - INFO - Validation of results: passed.
+2025-03-14 19:31:13,935 - INFO - Validation of results: passed.
+2025-03-14 19:31:14,852 - INFO - Processing complete. Results saved to output.json
+2025-03-14 19:33:34,459 - INFO - Starting PDF extraction process...
+2025-03-14 19:33:34,459 - INFO - Initializing PDFTableExtractor.
+2025-03-14 19:33:34,459 - INFO - Initializing TapasHandler.
+2025-03-14 19:33:36,526 - INFO - Found 1 PDF file(s) in folder 'Pdf'.
+2025-03-14 19:33:40,903 - INFO - Processing PDF: Pdf\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-14 19:33:40,903 - INFO - Checking if PDF is scanned...
+2025-03-14 19:33:40,965 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:33:40,965 - INFO - Processing digital PDF.
+2025-03-14 19:33:40,965 - INFO - Finding manufacturer table in Pdf\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf...
+2025-03-14 19:33:46,672 - INFO - Table title found on a page.
+2025-03-14 19:33:47,078 - INFO - Table title found on a page.
+2025-03-14 19:33:47,110 - INFO - Cleaning extracted table.
+2025-03-14 19:33:47,219 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:33:47,219 - INFO - Directly parsing table data.
+2025-03-14 19:33:47,219 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:33:47,219 - INFO - Identified columns - Description: Description of item, Manufacturer: Name of manufacturer
+2025-03-14 19:33:47,235 - INFO - Direct parse completed.
+2025-03-14 19:33:47,235 - INFO - Validation of results: passed.
+2025-03-14 19:33:47,235 - INFO - Validation of results: passed.
+2025-03-14 19:33:48,048 - INFO - Processing complete. Results saved to output.json
+2025-03-14 19:43:02,045 - INFO - Starting PDF extraction process...
+2025-03-14 19:43:02,045 - INFO - Initializing PDFTableExtractor.
+2025-03-14 19:43:02,045 - INFO - Initializing TapasHandler.
+2025-03-14 19:43:03,797 - INFO - Found 98 PDF file(s) in folder 'Pdfs'.
+2025-03-14 19:43:14,070 - INFO - Processing PDF: Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-14 19:43:14,070 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,117 - INFO - Processing PDF: Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf
+2025-03-14 19:43:14,117 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,226 - INFO - Processing PDF: Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf
+2025-03-14 19:43:14,226 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,242 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,242 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,242 - INFO - Finding manufacturer table in Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf...
+2025-03-14 19:43:14,242 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,242 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,242 - INFO - Finding manufacturer table in Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf...
+2025-03-14 19:43:14,289 - INFO - Processing PDF: Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf
+2025-03-14 19:43:14,289 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,367 - INFO - Processing PDF: Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf
+2025-03-14 19:43:14,367 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,414 - INFO - Processing PDF: Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf
+2025-03-14 19:43:14,429 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,461 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,461 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,461 - INFO - Finding manufacturer table in Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf...
+2025-03-14 19:43:14,476 - INFO - Processing PDF: Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf
+2025-03-14 19:43:14,476 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,523 - INFO - Processing PDF: Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf
+2025-03-14 19:43:14,539 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,554 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,554 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,554 - INFO - Finding manufacturer table in Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf...
+2025-03-14 19:43:14,633 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,633 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,633 - INFO - Finding manufacturer table in Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf...
+2025-03-14 19:43:14,648 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,648 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,648 - INFO - Finding manufacturer table in Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf...
+2025-03-14 19:43:14,711 - INFO - Processing PDF: Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf
+2025-03-14 19:43:14,711 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,758 - INFO - Processing PDF: Pdfs\Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf
+2025-03-14 19:43:14,758 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,789 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,789 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,789 - INFO - Finding manufacturer table in Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf...
+2025-03-14 19:43:14,789 - INFO - PDF appears to be scanned (no text found).
+2025-03-14 19:43:14,789 - INFO - Processing scanned PDF using OCR.
+2025-03-14 19:43:14,804 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,804 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,804 - INFO - Finding manufacturer table in Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf...
+2025-03-14 19:43:14,820 - INFO - Processing PDF: Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf
+2025-03-14 19:43:14,820 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,883 - INFO - Processing PDF: Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf
+2025-03-14 19:43:14,883 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,929 - INFO - Processing PDF: Pdfs\Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf
+2025-03-14 19:43:14,929 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:14,929 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:14,929 - INFO - Processing digital PDF.
+2025-03-14 19:43:14,929 - INFO - Finding manufacturer table in Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf...
+2025-03-14 19:43:14,961 - INFO - PDF appears to be scanned (no text found).
+2025-03-14 19:43:14,961 - INFO - Processing scanned PDF using OCR.
+2025-03-14 19:43:14,976 - INFO - Processing PDF: Pdfs\Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf
+2025-03-14 19:43:14,976 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:15,023 - INFO - Processing PDF: Pdfs\Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf
+2025-03-14 19:43:15,023 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:15,039 - WARNING - No tables found.
+2025-03-14 19:43:15,039 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:15,039 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:15,039 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:15,039 - INFO - Validation of results: failed.
+2025-03-14 19:43:15,039 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:15,039 - INFO - Using Camelot fallback...
+2025-03-14 19:43:15,039 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:15,039 - INFO - Validation of results: failed.
+2025-03-14 19:43:15,039 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:15,070 - INFO - Processing PDF: Pdfs\Copy of 1c869817-fe96-40c9-aa20-88b5c2a1d7d2.pdf
+2025-03-14 19:43:15,070 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:15,133 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:15,133 - INFO - Processing digital PDF.
+2025-03-14 19:43:15,133 - INFO - Finding manufacturer table in Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf...
+2025-03-14 19:43:15,133 - INFO - Processing PDF: Pdfs\Copy of 1dbfb81d-903a-40d5-85ec-198b39d9ac08.pdf
+2025-03-14 19:43:15,133 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:15,164 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:15,164 - INFO - Processing digital PDF.
+2025-03-14 19:43:15,164 - INFO - Finding manufacturer table in Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf...
+2025-03-14 19:43:15,211 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:15,211 - INFO - Processing digital PDF.
+2025-03-14 19:43:15,211 - INFO - Finding manufacturer table in Pdfs\Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf...
+2025-03-14 19:43:15,242 - WARNING - No tables found.
+2025-03-14 19:43:15,242 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:15,242 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:15,242 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:15,242 - INFO - Validation of results: failed.
+2025-03-14 19:43:15,242 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:15,242 - INFO - Using Camelot fallback...
+2025-03-14 19:43:15,242 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:15,242 - INFO - Validation of results: failed.
+2025-03-14 19:43:15,242 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:15,336 - INFO - Processing PDF: Pdfs\Copy of 22d005d7-0204-44c5-bc5b-03577fa12e5b.pdf
+2025-03-14 19:43:15,336 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:15,367 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:15,367 - INFO - Processing digital PDF.
+2025-03-14 19:43:15,367 - INFO - Finding manufacturer table in Pdfs\Copy of 1c869817-fe96-40c9-aa20-88b5c2a1d7d2.pdf...
+2025-03-14 19:43:15,461 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:15,461 - INFO - Processing digital PDF.
+2025-03-14 19:43:15,461 - INFO - Finding manufacturer table in Pdfs\Copy of 1dbfb81d-903a-40d5-85ec-198b39d9ac08.pdf...
+2025-03-14 19:43:15,696 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:15,696 - INFO - Processing digital PDF.
+2025-03-14 19:43:15,696 - INFO - Finding manufacturer table in Pdfs\Copy of 22d005d7-0204-44c5-bc5b-03577fa12e5b.pdf...
+2025-03-14 19:43:15,930 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:15,946 - INFO - Processing digital PDF.
+2025-03-14 19:43:15,946 - INFO - Finding manufacturer table in Pdfs\Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf...
+2025-03-14 19:43:17,384 - WARNING - No tables found.
+2025-03-14 19:43:17,384 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:17,384 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:17,384 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:17,384 - INFO - Validation of results: failed.
+2025-03-14 19:43:17,384 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:17,384 - INFO - Using Camelot fallback...
+2025-03-14 19:43:17,384 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:17,384 - INFO - Validation of results: failed.
+2025-03-14 19:43:17,384 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:17,430 - INFO - Processing PDF: Pdfs\Copy of 2e0db63b-5b09-4cfa-b88b-a9f22a43e4d5.pdf
+2025-03-14 19:43:17,430 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:17,572 - INFO - Table title found on a page.
+2025-03-14 19:43:18,025 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:18,025 - INFO - Processing digital PDF.
+2025-03-14 19:43:18,025 - INFO - Finding manufacturer table in Pdfs\Copy of 2e0db63b-5b09-4cfa-b88b-a9f22a43e4d5.pdf...
+2025-03-14 19:43:23,995 - INFO - Table title found on a page.
+2025-03-14 19:43:24,105 - INFO - Table title found on a page.
+2025-03-14 19:43:24,558 - INFO - Table title found on a page.
+2025-03-14 19:43:24,856 - INFO - Table title found on a page.
+2025-03-14 19:43:25,465 - WARNING - No tables found.
+2025-03-14 19:43:25,465 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:25,465 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:25,465 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:25,465 - INFO - Validation of results: failed.
+2025-03-14 19:43:25,465 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:25,465 - INFO - Using Camelot fallback...
+2025-03-14 19:43:25,465 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:25,465 - INFO - Validation of results: failed.
+2025-03-14 19:43:25,465 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:25,512 - INFO - Processing PDF: Pdfs\Copy of 31d514d7-a507-4dfd-906f-e53c13bc1ed9.pdf
+2025-03-14 19:43:25,512 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:25,621 - INFO - Table title found on a page.
+2025-03-14 19:43:25,871 - WARNING - No tables found.
+2025-03-14 19:43:25,871 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:25,871 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:25,871 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:25,871 - INFO - Validation of results: failed.
+2025-03-14 19:43:25,871 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:25,871 - INFO - Using Camelot fallback...
+2025-03-14 19:43:25,871 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:25,871 - INFO - Validation of results: failed.
+2025-03-14 19:43:25,871 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:25,934 - INFO - Processing PDF: Pdfs\Copy of 34aac39a-eeac-44c8-a25c-6bc9050d1bda.pdf
+2025-03-14 19:43:25,934 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:25,949 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:25,965 - INFO - Processing digital PDF.
+2025-03-14 19:43:25,965 - INFO - Finding manufacturer table in Pdfs\Copy of 31d514d7-a507-4dfd-906f-e53c13bc1ed9.pdf...
+2025-03-14 19:43:25,996 - INFO - Parsing OCR text data.
+2025-03-14 19:43:25,996 - INFO - OCR text data parsing completed.
+2025-03-14 19:43:25,996 - INFO - Validation of results: passed.
+2025-03-14 19:43:26,043 - INFO - Processing PDF: Pdfs\Copy of 36357899-8854-47d0-8ade-fdfeed947645.pdf
+2025-03-14 19:43:26,043 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:26,153 - INFO - Table title found on a page.
+2025-03-14 19:43:26,153 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:26,153 - INFO - Processing digital PDF.
+2025-03-14 19:43:26,153 - INFO - Finding manufacturer table in Pdfs\Copy of 34aac39a-eeac-44c8-a25c-6bc9050d1bda.pdf...
+2025-03-14 19:43:26,262 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:26,262 - INFO - Processing digital PDF.
+2025-03-14 19:43:26,262 - INFO - Finding manufacturer table in Pdfs\Copy of 36357899-8854-47d0-8ade-fdfeed947645.pdf...
+2025-03-14 19:43:26,293 - INFO - Table title found on a page.
+2025-03-14 19:43:26,606 - INFO - Table title found on a page.
+2025-03-14 19:43:26,997 - INFO - Table title found on a page.
+2025-03-14 19:43:27,060 - INFO - Cleaning extracted table.
+2025-03-14 19:43:27,263 - INFO - Table title found on a page.
+2025-03-14 19:43:27,325 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:43:27,341 - INFO - Directly parsing table data.
+2025-03-14 19:43:27,341 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:43:27,341 - INFO - Identified columns - Description: Description of item, Manufacturer: Name of manufacturer
+2025-03-14 19:43:27,341 - INFO - Direct parse completed.
+2025-03-14 19:43:27,341 - INFO - Validation of results: passed.
+2025-03-14 19:43:27,341 - INFO - Validation of results: passed.
+2025-03-14 19:43:27,388 - INFO - Processing PDF: Pdfs\Copy of 3706af0b-cfbd-4242-997c-350f358866d5.pdf
+2025-03-14 19:43:27,388 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:27,732 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:27,732 - INFO - Processing digital PDF.
+2025-03-14 19:43:27,732 - INFO - Finding manufacturer table in Pdfs\Copy of 3706af0b-cfbd-4242-997c-350f358866d5.pdf...
+2025-03-14 19:43:28,138 - INFO - Table title found on a page.
+2025-03-14 19:43:30,076 - WARNING - No tables found.
+2025-03-14 19:43:30,076 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:30,076 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:30,076 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:30,076 - INFO - Validation of results: failed.
+2025-03-14 19:43:30,076 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:30,076 - INFO - Using Camelot fallback...
+2025-03-14 19:43:30,076 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:30,076 - INFO - Validation of results: failed.
+2025-03-14 19:43:30,076 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:30,123 - INFO - Processing PDF: Pdfs\Copy of 373a6209-edb4-4881-9a0d-e6fd9e8e14bf.pdf
+2025-03-14 19:43:30,123 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:30,326 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:30,326 - INFO - Processing digital PDF.
+2025-03-14 19:43:30,326 - INFO - Finding manufacturer table in Pdfs\Copy of 373a6209-edb4-4881-9a0d-e6fd9e8e14bf.pdf...
+2025-03-14 19:43:30,451 - INFO - Table title found on a page.
+2025-03-14 19:43:30,623 - INFO - Table title found on a page.
+2025-03-14 19:43:31,170 - WARNING - No tables found.
+2025-03-14 19:43:31,170 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:31,170 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:31,170 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:31,170 - INFO - Validation of results: failed.
+2025-03-14 19:43:31,170 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:31,170 - INFO - Using Camelot fallback...
+2025-03-14 19:43:31,170 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:31,170 - INFO - Validation of results: failed.
+2025-03-14 19:43:31,170 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:31,717 - INFO - Table title found on a page.
+2025-03-14 19:43:31,811 - WARNING - No tables found.
+2025-03-14 19:43:31,811 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:31,811 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:31,811 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:31,811 - INFO - Validation of results: failed.
+2025-03-14 19:43:31,811 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:31,811 - INFO - Using Camelot fallback...
+2025-03-14 19:43:31,811 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:31,811 - INFO - Validation of results: failed.
+2025-03-14 19:43:31,811 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:31,890 - INFO - Processing PDF: Pdfs\Copy of 3b99aa2b-710f-4a82-9745-c72ba30e9efe.pdf
+2025-03-14 19:43:31,890 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:32,140 - INFO - Table title found on a page.
+2025-03-14 19:43:32,311 - INFO - Table title found on a page.
+2025-03-14 19:43:32,343 - INFO - Processing PDF: Pdfs\Copy of 3b93abfc-beb7-4e82-a9bc-c5d94a9d3549.pdf
+2025-03-14 19:43:32,343 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:32,436 - WARNING - No tables found.
+2025-03-14 19:43:32,436 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:32,436 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:32,436 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:32,436 - INFO - Validation of results: failed.
+2025-03-14 19:43:32,436 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:32,436 - INFO - Using Camelot fallback...
+2025-03-14 19:43:32,436 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:32,436 - INFO - Validation of results: failed.
+2025-03-14 19:43:32,436 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:32,452 - INFO - Table title found on a page.
+2025-03-14 19:43:32,468 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:32,468 - INFO - Processing digital PDF.
+2025-03-14 19:43:32,468 - INFO - Finding manufacturer table in Pdfs\Copy of 3b99aa2b-710f-4a82-9745-c72ba30e9efe.pdf...
+2025-03-14 19:43:32,483 - INFO - Processing PDF: Pdfs\Copy of 3cdc9b4c-01cb-4ba6-968b-ccf3ec457a77.pdf
+2025-03-14 19:43:32,483 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:32,561 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:32,561 - INFO - Processing digital PDF.
+2025-03-14 19:43:32,561 - INFO - Finding manufacturer table in Pdfs\Copy of 3b93abfc-beb7-4e82-a9bc-c5d94a9d3549.pdf...
+2025-03-14 19:43:32,733 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:32,733 - INFO - Processing digital PDF.
+2025-03-14 19:43:32,733 - INFO - Finding manufacturer table in Pdfs\Copy of 3cdc9b4c-01cb-4ba6-968b-ccf3ec457a77.pdf...
+2025-03-14 19:43:33,999 - WARNING - No tables found.
+2025-03-14 19:43:33,999 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:33,999 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:33,999 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:33,999 - INFO - Validation of results: failed.
+2025-03-14 19:43:33,999 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:33,999 - INFO - Using Camelot fallback...
+2025-03-14 19:43:33,999 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:33,999 - INFO - Validation of results: failed.
+2025-03-14 19:43:33,999 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:34,046 - INFO - Processing PDF: Pdfs\Copy of 42d7cc1d-7b4a-4bda-b54c-bbe973e4a96c.pdf
+2025-03-14 19:43:34,046 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:34,062 - WARNING - No tables found.
+2025-03-14 19:43:34,062 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:34,062 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:34,062 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:34,062 - INFO - Validation of results: failed.
+2025-03-14 19:43:34,062 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:34,062 - INFO - Using Camelot fallback...
+2025-03-14 19:43:34,062 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:34,062 - INFO - Validation of results: failed.
+2025-03-14 19:43:34,062 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:34,109 - INFO - Processing PDF: Pdfs\Copy of 43d377c7-6eb1-4f07-9ac3-ab5b93a1cd43.pdf
+2025-03-14 19:43:34,109 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:34,250 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:34,250 - INFO - Processing digital PDF.
+2025-03-14 19:43:34,250 - INFO - Finding manufacturer table in Pdfs\Copy of 43d377c7-6eb1-4f07-9ac3-ab5b93a1cd43.pdf...
+2025-03-14 19:43:34,406 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:34,406 - INFO - Processing digital PDF.
+2025-03-14 19:43:34,406 - INFO - Finding manufacturer table in Pdfs\Copy of 42d7cc1d-7b4a-4bda-b54c-bbe973e4a96c.pdf...
+2025-03-14 19:43:34,469 - INFO - Table title found on a page.
+2025-03-14 19:43:34,469 - WARNING - No tables found.
+2025-03-14 19:43:34,469 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:34,469 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:34,469 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:34,469 - INFO - Validation of results: failed.
+2025-03-14 19:43:34,469 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:34,469 - INFO - Using Camelot fallback...
+2025-03-14 19:43:34,469 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:34,469 - INFO - Validation of results: failed.
+2025-03-14 19:43:34,469 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:34,515 - INFO - Processing PDF: Pdfs\Copy of 4553cb14-3f7f-4c08-a7dc-11f7ae599edd.pdf
+2025-03-14 19:43:34,515 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:34,844 - INFO - Parsing OCR text data.
+2025-03-14 19:43:34,844 - INFO - OCR text data parsing completed.
+2025-03-14 19:43:34,859 - INFO - Validation of results: passed.
+2025-03-14 19:43:34,953 - INFO - Processing PDF: Pdfs\Copy of 46addab5-7eb7-4e2e-b278-482431c4970d.pdf
+2025-03-14 19:43:34,953 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:35,234 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:35,234 - INFO - Processing digital PDF.
+2025-03-14 19:43:35,234 - INFO - Finding manufacturer table in Pdfs\Copy of 46addab5-7eb7-4e2e-b278-482431c4970d.pdf...
+2025-03-14 19:43:36,532 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:36,532 - INFO - Processing digital PDF.
+2025-03-14 19:43:36,532 - INFO - Finding manufacturer table in Pdfs\Copy of 4553cb14-3f7f-4c08-a7dc-11f7ae599edd.pdf...
+2025-03-14 19:43:36,735 - INFO - Table title found on a page.
+2025-03-14 19:43:37,001 - WARNING - No tables found.
+2025-03-14 19:43:37,001 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:37,001 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:37,001 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:37,001 - INFO - Validation of results: failed.
+2025-03-14 19:43:37,001 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:37,001 - INFO - Using Camelot fallback...
+2025-03-14 19:43:37,001 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:37,017 - INFO - Validation of results: failed.
+2025-03-14 19:43:37,017 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:37,079 - INFO - Processing PDF: Pdfs\Copy of 496d8e57-7b2e-4f9b-9640-fba68e9e221d.pdf
+2025-03-14 19:43:37,079 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:37,282 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:37,282 - INFO - Processing digital PDF.
+2025-03-14 19:43:37,282 - INFO - Finding manufacturer table in Pdfs\Copy of 496d8e57-7b2e-4f9b-9640-fba68e9e221d.pdf...
+2025-03-14 19:43:37,517 - INFO - Table title found on a page.
+2025-03-14 19:43:38,580 - WARNING - No tables found.
+2025-03-14 19:43:38,580 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:38,580 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:38,580 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:38,580 - INFO - Validation of results: failed.
+2025-03-14 19:43:38,580 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:38,580 - INFO - Using Camelot fallback...
+2025-03-14 19:43:38,580 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:38,580 - INFO - Validation of results: failed.
+2025-03-14 19:43:38,580 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:38,642 - INFO - Processing PDF: Pdfs\Copy of 4b50c271-c9e4-46dc-a474-e449ba2f721f.pdf
+2025-03-14 19:43:38,642 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:38,830 - INFO - Table title found on a page.
+2025-03-14 19:43:38,970 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:38,970 - INFO - Processing digital PDF.
+2025-03-14 19:43:38,970 - INFO - Finding manufacturer table in Pdfs\Copy of 4b50c271-c9e4-46dc-a474-e449ba2f721f.pdf...
+2025-03-14 19:43:39,205 - INFO - Table title found on a page.
+2025-03-14 19:43:39,236 - INFO - Cleaning extracted table.
+2025-03-14 19:43:41,737 - INFO - Table title found on a page.
+2025-03-14 19:43:42,940 - INFO - Table title found on a page.
+2025-03-14 19:43:42,925 - INFO - Table title found on a page.
+2025-03-14 19:43:42,972 - INFO - Cleaning extracted table.
+2025-03-14 19:43:43,128 - INFO - Table title found on a page.
+2025-03-14 19:43:43,190 - INFO - Table title found on a page.
+2025-03-14 19:43:43,284 - INFO - Table title found on a page.
+2025-03-14 19:43:43,362 - INFO - Cleaning extracted table.
+2025-03-14 19:43:43,550 - INFO - Table title found on a page.
+2025-03-14 19:43:43,659 - INFO - Cleaning extracted table.
+2025-03-14 19:43:44,097 - INFO - Table title found on a page.
+2025-03-14 19:43:44,159 - INFO - Cleaning extracted table.
+2025-03-14 19:43:44,660 - INFO - Table title found on a page.
+2025-03-14 19:43:44,723 - INFO - Cleaning extracted table.
+2025-03-14 19:43:45,864 - INFO - Table title found on a page.
+2025-03-14 19:43:46,067 - INFO - Table title found on a page.
+2025-03-14 19:43:46,255 - INFO - Table title found on a page.
+2025-03-14 19:43:46,302 - WARNING - No tables found.
+2025-03-14 19:43:46,302 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:46,302 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:46,302 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:46,302 - INFO - Validation of results: failed.
+2025-03-14 19:43:46,302 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:46,302 - INFO - Using Camelot fallback...
+2025-03-14 19:43:46,302 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:46,302 - INFO - Validation of results: failed.
+2025-03-14 19:43:46,302 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:46,380 - INFO - Cleaning extracted table.
+2025-03-14 19:43:46,380 - INFO - Processing PDF: Pdfs\Copy of 4b554b9d-9641-4462-b623-92bdf9a482f1.pdf
+2025-03-14 19:43:46,380 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:46,630 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:46,630 - INFO - Processing digital PDF.
+2025-03-14 19:43:46,630 - INFO - Finding manufacturer table in Pdfs\Copy of 4b554b9d-9641-4462-b623-92bdf9a482f1.pdf...
+2025-03-14 19:43:46,630 - WARNING - No tables found.
+2025-03-14 19:43:46,630 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:46,630 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:46,630 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:46,630 - INFO - Validation of results: failed.
+2025-03-14 19:43:46,630 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:46,630 - INFO - Using Camelot fallback...
+2025-03-14 19:43:46,630 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:46,630 - INFO - Validation of results: failed.
+2025-03-14 19:43:46,630 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:46,755 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:43:46,755 - INFO - Directly parsing table data.
+2025-03-14 19:43:46,755 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:43:46,755 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:43:46,755 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:43:46,755 - INFO - Validation of results: failed.
+2025-03-14 19:43:46,755 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:46,755 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:46,755 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:43:46,770 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:43:46,770 - WARNING - Required columns not identified.
+2025-03-14 19:43:46,770 - INFO - Validation of results: failed.
+2025-03-14 19:43:46,770 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:46,770 - INFO - Using Camelot fallback...
+2025-03-14 19:43:46,770 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:46,770 - INFO - Validation of results: failed.
+2025-03-14 19:43:46,770 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:46,786 - INFO - Table title found on a page.
+2025-03-14 19:43:46,817 - INFO - Processing PDF: Pdfs\Copy of 4c32145d-5858-4553-a6ea-3f36fd935dcc.pdf
+2025-03-14 19:43:46,817 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:46,833 - INFO - Cleaning extracted table.
+2025-03-14 19:43:47,052 - INFO - Table title found on a page.
+2025-03-14 19:43:47,067 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:47,067 - INFO - Processing digital PDF.
+2025-03-14 19:43:47,067 - INFO - Finding manufacturer table in Pdfs\Copy of 4c32145d-5858-4553-a6ea-3f36fd935dcc.pdf...
+2025-03-14 19:43:47,083 - INFO - Cleaning extracted table.
+2025-03-14 19:43:47,302 - INFO - Table title found on a page.
+2025-03-14 19:43:47,333 - INFO - Cleaning extracted table.
+2025-03-14 19:43:47,614 - INFO - Table title found on a page.
+2025-03-14 19:43:47,661 - INFO - Processing PDF: Pdfs\Copy of 4bbee234-2e6e-44d0-a5cc-bf6ef8b837f5.pdf
+2025-03-14 19:43:47,661 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:47,692 - INFO - Cleaning extracted table.
+2025-03-14 19:43:48,083 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:43:48,083 - INFO - Directly parsing table data.
+2025-03-14 19:43:48,083 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:43:48,083 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:43:48,098 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:43:48,098 - INFO - Validation of results: failed.
+2025-03-14 19:43:48,098 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:48,098 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:48,098 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:43:48,098 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:43:48,098 - WARNING - Required columns not identified.
+2025-03-14 19:43:48,098 - INFO - Validation of results: failed.
+2025-03-14 19:43:48,098 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:48,098 - INFO - Using Camelot fallback...
+2025-03-14 19:43:48,098 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:48,098 - INFO - Validation of results: failed.
+2025-03-14 19:43:48,098 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:48,177 - INFO - Processing PDF: Pdfs\Copy of 4cbf8648-31fc-444c-b5aa-9b4a367fc2c2.pdf
+2025-03-14 19:43:48,177 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:48,192 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:48,192 - INFO - Processing digital PDF.
+2025-03-14 19:43:48,192 - INFO - Finding manufacturer table in Pdfs\Copy of 4bbee234-2e6e-44d0-a5cc-bf6ef8b837f5.pdf...
+2025-03-14 19:43:48,348 - WARNING - No tables found.
+2025-03-14 19:43:48,348 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:48,348 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:48,348 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:48,348 - INFO - Validation of results: failed.
+2025-03-14 19:43:48,348 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:48,348 - INFO - Using Camelot fallback...
+2025-03-14 19:43:48,348 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:48,348 - INFO - Validation of results: failed.
+2025-03-14 19:43:48,348 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:48,442 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:48,442 - INFO - Processing digital PDF.
+2025-03-14 19:43:48,442 - INFO - Finding manufacturer table in Pdfs\Copy of 4cbf8648-31fc-444c-b5aa-9b4a367fc2c2.pdf...
+2025-03-14 19:43:48,458 - INFO - Processing PDF: Pdfs\Copy of 4ff37a02-5921-4d99-83a1-aecfd0ed4801.pdf
+2025-03-14 19:43:48,458 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:48,489 - WARNING - No tables found.
+2025-03-14 19:43:48,489 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:48,489 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:48,489 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:48,489 - INFO - Validation of results: failed.
+2025-03-14 19:43:48,489 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:48,489 - INFO - Using Camelot fallback...
+2025-03-14 19:43:48,489 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:48,489 - INFO - Validation of results: failed.
+2025-03-14 19:43:48,489 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:48,536 - INFO - Processing PDF: Pdfs\Copy of 5138e87e-26e9-45cd-a0b1-a9dd6eb9b5f4.pdf
+2025-03-14 19:43:48,536 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:48,817 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:48,817 - INFO - Processing digital PDF.
+2025-03-14 19:43:48,817 - INFO - Finding manufacturer table in Pdfs\Copy of 4ff37a02-5921-4d99-83a1-aecfd0ed4801.pdf...
+2025-03-14 19:43:48,817 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:48,817 - INFO - Processing digital PDF.
+2025-03-14 19:43:48,817 - INFO - Finding manufacturer table in Pdfs\Copy of 5138e87e-26e9-45cd-a0b1-a9dd6eb9b5f4.pdf...
+2025-03-14 19:43:49,177 - INFO - Table title found on a page.
+2025-03-14 19:43:49,271 - WARNING - No tables found.
+2025-03-14 19:43:49,271 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:49,271 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:49,271 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:49,271 - INFO - Validation of results: failed.
+2025-03-14 19:43:49,271 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:49,271 - INFO - Using Camelot fallback...
+2025-03-14 19:43:49,271 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:49,271 - INFO - Validation of results: failed.
+2025-03-14 19:43:49,271 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:49,333 - INFO - Processing PDF: Pdfs\Copy of 534f4835-fc86-4bfd-b8d4-39b19ad4e756.pdf
+2025-03-14 19:43:49,333 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:49,567 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:49,567 - INFO - Processing digital PDF.
+2025-03-14 19:43:49,567 - INFO - Finding manufacturer table in Pdfs\Copy of 534f4835-fc86-4bfd-b8d4-39b19ad4e756.pdf...
+2025-03-14 19:43:51,349 - INFO - Table title found on a page.
+2025-03-14 19:43:51,506 - WARNING - No tables found.
+2025-03-14 19:43:51,506 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:51,506 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:51,506 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:51,506 - INFO - Validation of results: failed.
+2025-03-14 19:43:51,506 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:51,506 - INFO - Using Camelot fallback...
+2025-03-14 19:43:51,537 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:51,537 - INFO - Validation of results: failed.
+2025-03-14 19:43:51,537 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:51,584 - INFO - Processing PDF: Pdfs\Copy of 5511af53-504b-44d5-b765-4ee4032bc224.pdf
+2025-03-14 19:43:51,584 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:51,599 - INFO - Table title found on a page.
+2025-03-14 19:43:51,646 - INFO - Cleaning extracted table.
+2025-03-14 19:43:51,709 - INFO - Table title found on a page.
+2025-03-14 19:43:51,771 - INFO - Table title found on a page.
+2025-03-14 19:43:51,818 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:51,818 - INFO - Processing digital PDF.
+2025-03-14 19:43:51,818 - INFO - Finding manufacturer table in Pdfs\Copy of 5511af53-504b-44d5-b765-4ee4032bc224.pdf...
+2025-03-14 19:43:52,069 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:43:52,084 - INFO - Directly parsing table data.
+2025-03-14 19:43:52,084 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:43:52,084 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:43:52,084 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:43:52,084 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,084 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:52,084 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:52,084 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:43:52,084 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:43:52,084 - WARNING - Required columns not identified.
+2025-03-14 19:43:52,084 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,084 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:52,084 - INFO - Using Camelot fallback...
+2025-03-14 19:43:52,084 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:52,084 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,084 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:52,147 - INFO - Processing PDF: Pdfs\Copy of 5bf6d748-eb3b-4b83-9211-87a396792f34.pdf
+2025-03-14 19:43:52,147 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:52,210 - INFO - Table title found on a page.
+2025-03-14 19:43:52,241 - INFO - Cleaning extracted table.
+2025-03-14 19:43:52,256 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:43:52,256 - INFO - Directly parsing table data.
+2025-03-14 19:43:52,256 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:43:52,256 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:43:52,256 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:43:52,256 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,256 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:52,256 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:52,256 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:43:52,256 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:43:52,256 - WARNING - Required columns not identified.
+2025-03-14 19:43:52,256 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,256 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:52,256 - INFO - Using Camelot fallback...
+2025-03-14 19:43:52,256 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:52,256 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,256 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:52,335 - INFO - Processing PDF: Pdfs\Copy of 5cebef25-95eb-48ab-a125-df952f670ef3.pdf
+2025-03-14 19:43:52,335 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:52,460 - INFO - Table title found on a page.
+2025-03-14 19:43:52,475 - WARNING - No tables found.
+2025-03-14 19:43:52,475 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:52,475 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:52,475 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:52,475 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,475 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:52,475 - INFO - Using Camelot fallback...
+2025-03-14 19:43:52,491 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:52,491 - INFO - Validation of results: failed.
+2025-03-14 19:43:52,491 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:52,538 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:52,538 - INFO - Processing digital PDF.
+2025-03-14 19:43:52,538 - INFO - Finding manufacturer table in Pdfs\Copy of 5bf6d748-eb3b-4b83-9211-87a396792f34.pdf...
+2025-03-14 19:43:52,585 - INFO - Processing PDF: Pdfs\Copy of 5cf7dadb-5196-4413-b01d-bb782f655eed.pdf
+2025-03-14 19:43:52,585 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:52,585 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:52,585 - INFO - Processing digital PDF.
+2025-03-14 19:43:52,585 - INFO - Finding manufacturer table in Pdfs\Copy of 5cebef25-95eb-48ab-a125-df952f670ef3.pdf...
+2025-03-14 19:43:52,663 - INFO - Table title found on a page.
+2025-03-14 19:43:52,756 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:52,756 - INFO - Processing digital PDF.
+2025-03-14 19:43:52,756 - INFO - Finding manufacturer table in Pdfs\Copy of 5cf7dadb-5196-4413-b01d-bb782f655eed.pdf...
+2025-03-14 19:43:53,022 - INFO - Table title found on a page.
+2025-03-14 19:43:53,491 - INFO - Table title found on a page.
+2025-03-14 19:43:53,710 - INFO - Table title found on a page.
+2025-03-14 19:43:53,710 - WARNING - No tables found.
+2025-03-14 19:43:53,710 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:53,710 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:53,710 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:53,710 - INFO - Validation of results: failed.
+2025-03-14 19:43:53,710 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:53,710 - INFO - Using Camelot fallback...
+2025-03-14 19:43:53,710 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:53,710 - INFO - Validation of results: failed.
+2025-03-14 19:43:53,710 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:53,726 - WARNING - No tables found.
+2025-03-14 19:43:53,726 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:53,726 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:53,726 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:53,726 - INFO - Validation of results: failed.
+2025-03-14 19:43:53,726 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:53,726 - INFO - Using Camelot fallback...
+2025-03-14 19:43:53,726 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:53,726 - INFO - Validation of results: failed.
+2025-03-14 19:43:53,726 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:53,741 - WARNING - No tables found.
+2025-03-14 19:43:53,741 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:53,741 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:53,741 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:53,741 - INFO - Validation of results: failed.
+2025-03-14 19:43:53,741 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:53,741 - INFO - Using Camelot fallback...
+2025-03-14 19:43:53,741 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:53,741 - INFO - Validation of results: failed.
+2025-03-14 19:43:53,741 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:53,789 - INFO - Processing PDF: Pdfs\Copy of 63b917d9-a826-410f-95a5-e6aa76a69d47.pdf
+2025-03-14 19:43:53,789 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:53,898 - INFO - Processing PDF: Pdfs\Copy of 697d9f88-5eb0-441e-bd77-4d767b52c22e.pdf
+2025-03-14 19:43:53,898 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:54,039 - INFO - Table title found on a page.
+2025-03-14 19:43:54,054 - INFO - Cleaning extracted table.
+2025-03-14 19:43:54,117 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:54,117 - INFO - Processing digital PDF.
+2025-03-14 19:43:54,117 - INFO - Finding manufacturer table in Pdfs\Copy of 63b917d9-a826-410f-95a5-e6aa76a69d47.pdf...
+2025-03-14 19:43:54,257 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:54,257 - INFO - Processing digital PDF.
+2025-03-14 19:43:54,257 - INFO - Finding manufacturer table in Pdfs\Copy of 697d9f88-5eb0-441e-bd77-4d767b52c22e.pdf...
+2025-03-14 19:43:54,476 - INFO - Table title found on a page.
+2025-03-14 19:43:54,601 - WARNING - No tables found.
+2025-03-14 19:43:54,601 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:54,601 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:54,617 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:54,617 - INFO - Validation of results: failed.
+2025-03-14 19:43:54,617 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:54,617 - INFO - Using Camelot fallback...
+2025-03-14 19:43:54,617 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:54,617 - INFO - Validation of results: failed.
+2025-03-14 19:43:54,617 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:54,664 - INFO - Processing PDF: Pdfs\Copy of 6ef65f5a-2477-434a-9f57-b511f06f2787.pdf
+2025-03-14 19:43:54,664 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:54,789 - INFO - Table title found on a page.
+2025-03-14 19:43:54,929 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:54,929 - INFO - Processing digital PDF.
+2025-03-14 19:43:54,929 - INFO - Finding manufacturer table in Pdfs\Copy of 6ef65f5a-2477-434a-9f57-b511f06f2787.pdf...
+2025-03-14 19:43:55,335 - INFO - Processing PDF: Pdfs\Copy of 6958a6f8-8665-4225-80b5-fcf5364555ef.pdf
+2025-03-14 19:43:55,335 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:55,633 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:55,633 - INFO - Processing digital PDF.
+2025-03-14 19:43:55,633 - INFO - Finding manufacturer table in Pdfs\Copy of 6958a6f8-8665-4225-80b5-fcf5364555ef.pdf...
+2025-03-14 19:43:55,961 - INFO - Table title found on a page.
+2025-03-14 19:43:56,008 - INFO - Table title found on a page.
+2025-03-14 19:43:56,086 - INFO - Table title found on a page.
+2025-03-14 19:43:56,727 - INFO - Table title found on a page.
+2025-03-14 19:43:56,883 - INFO - Table title found on a page.
+2025-03-14 19:43:56,915 - INFO - Cleaning extracted table.
+2025-03-14 19:43:57,055 - INFO - Table title found on a page.
+2025-03-14 19:43:57,102 - INFO - Cleaning extracted table.
+2025-03-14 19:43:57,227 - WARNING - No tables found.
+2025-03-14 19:43:57,227 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:57,227 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:57,227 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:43:57,227 - INFO - Validation of results: failed.
+2025-03-14 19:43:57,227 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:57,227 - INFO - Using Camelot fallback...
+2025-03-14 19:43:57,227 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:57,227 - INFO - Validation of results: failed.
+2025-03-14 19:43:57,227 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:57,274 - INFO - Processing PDF: Pdfs\Copy of 735c865a-89f6-4e38-a0ee-5dc5793e4f2e.pdf
+2025-03-14 19:43:57,274 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:57,290 - INFO - Table title found on a page.
+2025-03-14 19:43:57,352 - INFO - Cleaning extracted table.
+2025-03-14 19:43:57,540 - INFO - Table title found on a page.
+2025-03-14 19:43:57,586 - INFO - Cleaning extracted table.
+2025-03-14 19:43:57,665 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:57,665 - INFO - Processing digital PDF.
+2025-03-14 19:43:57,665 - INFO - Finding manufacturer table in Pdfs\Copy of 735c865a-89f6-4e38-a0ee-5dc5793e4f2e.pdf...
+2025-03-14 19:43:57,836 - INFO - Table title found on a page.
+2025-03-14 19:43:57,868 - INFO - Table title found on a page.
+2025-03-14 19:43:57,883 - INFO - Cleaning extracted table.
+2025-03-14 19:43:57,899 - INFO - Table title found on a page.
+2025-03-14 19:43:58,024 - INFO - Cleaning extracted table.
+2025-03-14 19:43:58,274 - INFO - Table title found on a page.
+2025-03-14 19:43:58,274 - INFO - Table title found on a page.
+2025-03-14 19:43:58,431 - INFO - Cleaning extracted table.
+2025-03-14 19:43:58,649 - INFO - Table title found on a page.
+2025-03-14 19:43:58,759 - INFO - Table title found on a page.
+2025-03-14 19:43:58,837 - INFO - Cleaning extracted table.
+2025-03-14 19:43:58,884 - INFO - Table title found on a page.
+2025-03-14 19:43:58,931 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:43:58,946 - INFO - Directly parsing table data.
+2025-03-14 19:43:58,946 - INFO - Cleaning extracted table.
+ect parsing.
+2025-03-14 19:43:58,946 - INFO - Identified columns - Description: None, Manufacturer: Cement
+Grades
+2025-03-14 19:43:58,946 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:43:58,946 - INFO - Validation of results: failed.
+2025-03-14 19:43:58,946 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:58,946 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:58,946 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:43:58,946 - INFO - Identified columns - Item: None, Manufacturer: Cement
+Grades
+2025-03-14 19:43:58,946 - WARNING - Required columns not identified.
+2025-03-14 19:43:58,946 - INFO - Validation of results: failed.
+2025-03-14 19:43:58,946 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:58,946 - INFO - Using Camelot fallback...
+2025-03-14 19:43:58,946 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:58,946 - INFO - Validation of results: failed.
+2025-03-14 19:43:58,946 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:58,946 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:43:58,962 - INFO - Directly parsing table data.
+2025-03-14 19:43:58,962 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:43:58,962 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:43:58,962 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:43:58,962 - INFO - Validation of results: failed.
+2025-03-14 19:43:58,962 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:43:58,962 - INFO - Parsing table using TAPAS.
+2025-03-14 19:43:58,962 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:43:58,962 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:43:58,962 - WARNING - Required columns not identified.
+2025-03-14 19:43:58,962 - INFO - Validation of results: failed.
+2025-03-14 19:43:58,962 - INFO - Falling back to Camelot processing.
+2025-03-14 19:43:58,962 - INFO - Using Camelot fallback...
+2025-03-14 19:43:58,962 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:43:58,962 - INFO - Validation of results: failed.
+2025-03-14 19:43:58,962 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:43:58,993 - INFO - Processing PDF: Pdfs\Copy of 77b4ab0a-7b40-4fcf-9251-c274a0969a0b.pdf
+2025-03-14 19:43:58,993 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:59,040 - INFO - Processing PDF: Pdfs\Copy of 7c16c3fb-e1e5-4f41-8cb7-c2066f651849.pdf
+2025-03-14 19:43:59,040 - INFO - Checking if PDF is scanned...
+2025-03-14 19:43:59,290 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:59,290 - INFO - Processing digital PDF.
+2025-03-14 19:43:59,290 - INFO - Finding manufacturer table in Pdfs\Copy of 77b4ab0a-7b40-4fcf-9251-c274a0969a0b.pdf...
+2025-03-14 19:43:59,290 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:43:59,290 - INFO - Processing digital PDF.
+2025-03-14 19:43:59,290 - INFO - Finding manufacturer table in Pdfs\Copy of 7c16c3fb-e1e5-4f41-8cb7-c2066f651849.pdf...
+2025-03-14 19:43:59,352 - INFO - Table title found on a page.
+2025-03-14 19:43:59,368 - INFO - Cleaning extracted table.
+2025-03-14 19:43:59,493 - INFO - Table title found on a page.
+2025-03-14 19:43:59,743 - INFO - Table title found on a page.
+2025-03-14 19:43:59,743 - INFO - Cleaning extracted table.
+2025-03-14 19:43:59,868 - INFO - Table title found on a page.
+2025-03-14 19:44:00,165 - INFO - Table title found on a page.
+2025-03-14 19:44:00,321 - INFO - Cleaning extracted table.
+2025-03-14 19:44:00,665 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:00,665 - INFO - Directly parsing table data.
+2025-03-14 19:44:00,665 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:00,665 - INFO - Identified columns - Description: Item Description, Manufacturer: None
+2025-03-14 19:44:00,665 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:00,665 - INFO - Validation of results: failed.
+2025-03-14 19:44:00,665 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:00,665 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:00,665 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:00,665 - INFO - Identified columns - Item: Item
+No., Manufacturer: None
+2025-03-14 19:44:00,665 - WARNING - Required columns not identified.
+2025-03-14 19:44:00,665 - INFO - Validation of results: failed.
+2025-03-14 19:44:00,665 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:00,665 - INFO - Using Camelot fallback...
+2025-03-14 19:44:00,665 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:00,665 - INFO - Validation of results: failed.
+2025-03-14 19:44:00,665 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:00,759 - INFO - Processing PDF: Pdfs\Copy of 80d756a6-95f3-4f73-8f8e-27a691a22f45.pdf
+2025-03-14 19:44:00,759 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:01,197 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:01,197 - INFO - Processing digital PDF.
+2025-03-14 19:44:01,197 - INFO - Finding manufacturer table in Pdfs\Copy of 80d756a6-95f3-4f73-8f8e-27a691a22f45.pdf...
+2025-03-14 19:44:01,212 - WARNING - No tables found.
+2025-03-14 19:44:01,212 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:01,212 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:01,212 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:01,212 - INFO - Validation of results: failed.
+2025-03-14 19:44:01,212 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:01,212 - INFO - Using Camelot fallback...
+2025-03-14 19:44:01,212 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:01,212 - INFO - Validation of results: failed.
+2025-03-14 19:44:01,212 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:01,259 - INFO - Processing PDF: Pdfs\Copy of 835540d8-2237-43d6-b00d-8650c4d67f13.pdf
+2025-03-14 19:44:01,259 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:01,665 - WARNING - No tables found.
+2025-03-14 19:44:01,665 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:01,665 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:01,665 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:01,665 - INFO - Validation of results: failed.
+2025-03-14 19:44:01,665 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:01,665 - INFO - Using Camelot fallback...
+2025-03-14 19:44:01,665 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:01,665 - INFO - Validation of results: failed.
+2025-03-14 19:44:01,665 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:01,697 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:01,697 - INFO - Processing digital PDF.
+2025-03-14 19:44:01,697 - INFO - Finding manufacturer table in Pdfs\Copy of 835540d8-2237-43d6-b00d-8650c4d67f13.pdf...
+2025-03-14 19:44:01,712 - INFO - Processing PDF: Pdfs\Copy of 83d117fd-b295-4c71-842a-bdd78690c011.pdf
+2025-03-14 19:44:01,712 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:02,009 - INFO - Table title found on a page.
+2025-03-14 19:44:02,009 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:02,025 - INFO - Processing digital PDF.
+2025-03-14 19:44:02,025 - INFO - Finding manufacturer table in Pdfs\Copy of 83d117fd-b295-4c71-842a-bdd78690c011.pdf...
+2025-03-14 19:44:02,056 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:02,056 - INFO - Directly parsing table data.
+2025-03-14 19:44:02,056 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:02,056 - INFO - Identified columns - Description: None, Manufacturer: Make/Name of the manufacturer
+2025-03-14 19:44:02,056 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:02,056 - INFO - Validation of results: failed.
+2025-03-14 19:44:02,056 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:02,056 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:02,056 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:02,056 - INFO - Identified columns - Item: None, Manufacturer: Make/Name of the manufacturer
+2025-03-14 19:44:02,056 - WARNING - Required columns not identified.
+2025-03-14 19:44:02,056 - INFO - Validation of results: failed.
+2025-03-14 19:44:02,056 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:02,056 - INFO - Using Camelot fallback...
+2025-03-14 19:44:02,056 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:02,056 - INFO - Validation of results: failed.
+2025-03-14 19:44:02,056 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:02,119 - INFO - Processing PDF: Pdfs\Copy of 846a9bf8-c8c5-4d72-8902-e9cd95cc229e.pdf
+2025-03-14 19:44:02,119 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:02,197 - INFO - PDF appears to be scanned (no text found).
+2025-03-14 19:44:02,197 - INFO - Processing scanned PDF using OCR.
+2025-03-14 19:44:02,728 - INFO - Table title found on a page.
+2025-03-14 19:44:03,166 - INFO - Table title found on a page.
+2025-03-14 19:44:03,322 - INFO - Table title found on a page.
+2025-03-14 19:44:03,556 - INFO - Table title found on a page.
+2025-03-14 19:44:05,338 - INFO - Table title found on a page.
+2025-03-14 19:44:05,401 - INFO - Table title found on a page.
+2025-03-14 19:44:05,869 - INFO - Table title found on a page.
+2025-03-14 19:44:05,916 - INFO - Cleaning extracted table.
+2025-03-14 19:44:05,916 - INFO - Table title found on a page.
+2025-03-14 19:44:06,276 - INFO - Table title found on a page.
+2025-03-14 19:44:06,479 - INFO - Table title found on a page.
+2025-03-14 19:44:06,526 - INFO - Cleaning extracted table.
+2025-03-14 19:44:06,604 - INFO - Table title found on a page.
+2025-03-14 19:44:06,838 - INFO - Table title found on a page.
+2025-03-14 19:44:07,104 - INFO - Table title found on a page.
+2025-03-14 19:44:07,229 - WARNING - No tables found.
+2025-03-14 19:44:07,229 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:07,229 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:07,229 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:07,229 - INFO - Validation of results: failed.
+2025-03-14 19:44:07,229 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:07,229 - INFO - Using Camelot fallback...
+2025-03-14 19:44:07,260 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:07,260 - INFO - Validation of results: failed.
+2025-03-14 19:44:07,260 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:07,323 - INFO - Processing PDF: Pdfs\Copy of 8bf05e23-1cf1-455f-a418-70126c990ac2.pdf
+2025-03-14 19:44:07,323 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:07,479 - INFO - Table title found on a page.
+2025-03-14 19:44:07,542 - INFO - Cleaning extracted table.
+2025-03-14 19:44:07,620 - INFO - Table title found on a page.
+2025-03-14 19:44:07,714 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:07,714 - INFO - Processing digital PDF.
+2025-03-14 19:44:07,714 - INFO - Finding manufacturer table in Pdfs\Copy of 8bf05e23-1cf1-455f-a418-70126c990ac2.pdf...
+2025-03-14 19:44:08,292 - INFO - Table title found on a page.
+2025-03-14 19:44:08,479 - INFO - Table title found on a page.
+2025-03-14 19:44:08,495 - INFO - Table title found on a page.
+2025-03-14 19:44:09,105 - INFO - Table title found on a page.
+2025-03-14 19:44:09,152 - INFO - Table title found on a page.
+2025-03-14 19:44:09,293 - INFO - Table title found on a page.
+2025-03-14 19:44:09,730 - INFO - Table title found on a page.
+2025-03-14 19:44:09,761 - INFO - Table title found on a page.
+2025-03-14 19:44:09,777 - INFO - Cleaning extracted table.
+2025-03-14 19:44:10,043 - INFO - Table title found on a page.
+2025-03-14 19:44:10,856 - INFO - Table title found on a page.
+2025-03-14 19:44:11,544 - INFO - Table title found on a page.
+2025-03-14 19:44:11,903 - INFO - Table title found on a page.
+2025-03-14 19:44:11,966 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:11,981 - INFO - Directly parsing table data.
+2025-03-14 19:44:11,981 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:11,981 - INFO - Identified columns - Description: Description of Item, Manufacturer: None
+2025-03-14 19:44:11,981 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:11,981 - INFO - Validation of results: failed.
+2025-03-14 19:44:11,981 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:11,981 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:11,981 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:11,981 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:44:11,981 - WARNING - Required columns not identified.
+2025-03-14 19:44:11,981 - INFO - Validation of results: failed.
+2025-03-14 19:44:11,981 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:11,981 - INFO - Using Camelot fallback...
+2025-03-14 19:44:11,981 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:11,981 - INFO - Validation of results: failed.
+2025-03-14 19:44:11,981 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:12,059 - INFO - Processing PDF: Pdfs\Copy of 8d3232e3-fe22-4869-9f0a-91463909d3f8.pdf
+2025-03-14 19:44:12,059 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:12,544 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:12,544 - INFO - Processing digital PDF.
+2025-03-14 19:44:12,544 - INFO - Finding manufacturer table in Pdfs\Copy of 8d3232e3-fe22-4869-9f0a-91463909d3f8.pdf...
+2025-03-14 19:44:12,904 - INFO - Table title found on a page.
+2025-03-14 19:44:13,169 - INFO - Table title found on a page.
+2025-03-14 19:44:13,216 - INFO - Cleaning extracted table.
+2025-03-14 19:44:13,232 - INFO - Table title found on a page.
+2025-03-14 19:44:13,763 - INFO - Table title found on a page.
+2025-03-14 19:44:13,857 - INFO - Table title found on a page.
+2025-03-14 19:44:14,060 - INFO - Table title found on a page.
+2025-03-14 19:44:14,529 - INFO - Table title found on a page.
+2025-03-14 19:44:14,716 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:14,716 - INFO - Directly parsing table data.
+2025-03-14 19:44:14,716 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:14,763 - INFO - Identified columns - Description: None, Manufacturer: Cement
+Grades
+2025-03-14 19:44:14,763 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:14,763 - INFO - Validation of results: failed.
+2025-03-14 19:44:14,763 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:14,763 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:14,763 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:14,763 - INFO - Identified columns - Item: None, Manufacturer: Cement
+Grades
+2025-03-14 19:44:14,763 - WARNING - Required columns not identified.
+2025-03-14 19:44:14,763 - INFO - Validation of results: failed.
+2025-03-14 19:44:14,763 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:14,763 - INFO - Using Camelot fallback...
+2025-03-14 19:44:14,763 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:14,763 - INFO - Validation of results: failed.
+2025-03-14 19:44:14,763 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:14,872 - INFO - Processing PDF: Pdfs\Copy of 8d3e6d52-724b-4d53-85a7-bc213589d6a3.pdf
+2025-03-14 19:44:14,888 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:14,888 - INFO - Table title found on a page.
+2025-03-14 19:44:14,888 - WARNING - No tables found.
+2025-03-14 19:44:14,888 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:14,888 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:14,888 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:14,888 - INFO - Validation of results: failed.
+2025-03-14 19:44:14,888 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:14,888 - INFO - Using Camelot fallback...
+2025-03-14 19:44:14,888 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:14,888 - INFO - Validation of results: failed.
+2025-03-14 19:44:14,888 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:15,029 - INFO - Processing PDF: Pdfs\Copy of 8f473446-9865-4c4d-9405-6ceadfab327c.pdf
+2025-03-14 19:44:15,029 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:15,294 - INFO - Table title found on a page.
+2025-03-14 19:44:15,325 - INFO - Table title found on a page.
+2025-03-14 19:44:15,357 - INFO - Cleaning extracted table.
+2025-03-14 19:44:15,372 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:15,372 - INFO - Processing digital PDF.
+2025-03-14 19:44:15,372 - INFO - Finding manufacturer table in Pdfs\Copy of 8f473446-9865-4c4d-9405-6ceadfab327c.pdf...
+2025-03-14 19:44:15,419 - ERROR - Table location failed: 'DataFrame' object has no attribute 'str'
+2025-03-14 19:44:15,419 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:15,419 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:15,419 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:15,419 - INFO - Validation of results: failed.
+2025-03-14 19:44:15,419 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:15,419 - INFO - Using Camelot fallback...
+2025-03-14 19:44:15,419 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:15,419 - INFO - Validation of results: failed.
+2025-03-14 19:44:15,419 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:15,513 - INFO - Processing PDF: Pdfs\Copy of 94454a58-856a-4593-93c4-6452d46af870.pdf
+2025-03-14 19:44:15,513 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:15,529 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:15,529 - INFO - Processing digital PDF.
+2025-03-14 19:44:15,529 - INFO - Finding manufacturer table in Pdfs\Copy of 8d3e6d52-724b-4d53-85a7-bc213589d6a3.pdf...
+2025-03-14 19:44:15,638 - INFO - PDF appears to be scanned (no text found).
+2025-03-14 19:44:15,638 - INFO - Processing scanned PDF using OCR.
+2025-03-14 19:44:15,669 - INFO - Table title found on a page.
+2025-03-14 19:44:15,904 - INFO - Table title found on a page.
+2025-03-14 19:44:16,107 - WARNING - No tables found.
+2025-03-14 19:44:16,107 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:16,107 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:16,107 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:16,107 - INFO - Validation of results: failed.
+2025-03-14 19:44:16,107 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:16,107 - INFO - Using Camelot fallback...
+2025-03-14 19:44:16,107 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:16,107 - INFO - Validation of results: failed.
+2025-03-14 19:44:16,107 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:16,200 - INFO - Processing PDF: Pdfs\Copy of 9e7f69a7-aa2a-4da2-aabd-2a1e48faec89.pdf
+2025-03-14 19:44:16,200 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:16,341 - INFO - Table title found on a page.
+2025-03-14 19:44:16,622 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:16,622 - INFO - Processing digital PDF.
+2025-03-14 19:44:16,622 - INFO - Finding manufacturer table in Pdfs\Copy of 9e7f69a7-aa2a-4da2-aabd-2a1e48faec89.pdf...
+2025-03-14 19:44:17,060 - INFO - Table title found on a page.
+2025-03-14 19:44:17,294 - INFO - Table title found on a page.
+2025-03-14 19:44:17,404 - WARNING - No tables found.
+2025-03-14 19:44:17,404 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:17,404 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:17,404 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:17,404 - INFO - Validation of results: failed.
+2025-03-14 19:44:17,404 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:17,404 - INFO - Using Camelot fallback...
+2025-03-14 19:44:17,404 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:17,404 - INFO - Validation of results: failed.
+2025-03-14 19:44:17,404 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:17,466 - INFO - Processing PDF: Pdfs\Copy of 9f1330d2-d438-4eef-bfef-ffa117613257.pdf
+2025-03-14 19:44:17,466 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:17,576 - INFO - Table title found on a page.
+2025-03-14 19:44:17,576 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:17,591 - INFO - Directly parsing table data.
+2025-03-14 19:44:17,591 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:17,591 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:44:17,591 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:17,591 - INFO - Validation of results: failed.
+2025-03-14 19:44:17,591 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:17,591 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:17,591 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:17,591 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:44:17,591 - WARNING - Required columns not identified.
+2025-03-14 19:44:17,591 - INFO - Validation of results: failed.
+2025-03-14 19:44:17,591 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:17,591 - INFO - Using Camelot fallback...
+2025-03-14 19:44:17,591 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:17,591 - INFO - Validation of results: failed.
+2025-03-14 19:44:17,591 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:17,670 - INFO - Processing PDF: Pdfs\Copy of a01d68f9-5ac4-43af-ac2f-a7480816b876.pdf
+2025-03-14 19:44:17,670 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:17,748 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:17,748 - INFO - Processing digital PDF.
+2025-03-14 19:44:17,748 - INFO - Finding manufacturer table in Pdfs\Copy of a01d68f9-5ac4-43af-ac2f-a7480816b876.pdf...
+2025-03-14 19:44:17,841 - WARNING - No tables found.
+2025-03-14 19:44:17,841 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:17,841 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:17,841 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:17,841 - INFO - Validation of results: failed.
+2025-03-14 19:44:17,841 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:17,841 - INFO - Using Camelot fallback...
+2025-03-14 19:44:17,841 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:17,841 - INFO - Validation of results: failed.
+2025-03-14 19:44:17,841 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:17,920 - INFO - Processing PDF: Pdfs\Copy of a057c6cd-5b30-4911-b395-275e9703d470.pdf
+2025-03-14 19:44:17,920 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:18,170 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:18,170 - INFO - Processing digital PDF.
+2025-03-14 19:44:18,170 - INFO - Finding manufacturer table in Pdfs\Copy of a057c6cd-5b30-4911-b395-275e9703d470.pdf...
+2025-03-14 19:44:18,341 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:18,341 - INFO - Processing digital PDF.
+2025-03-14 19:44:18,341 - INFO - Finding manufacturer table in Pdfs\Copy of 9f1330d2-d438-4eef-bfef-ffa117613257.pdf...
+2025-03-14 19:44:19,358 - WARNING - No tables found.
+2025-03-14 19:44:19,358 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:19,358 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:19,358 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:19,358 - INFO - Validation of results: failed.
+2025-03-14 19:44:19,358 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:19,358 - INFO - Using Camelot fallback...
+2025-03-14 19:44:19,358 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:19,358 - INFO - Validation of results: failed.
+2025-03-14 19:44:19,358 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:19,436 - INFO - Processing PDF: Pdfs\Copy of a18781ea-af52-43a0-bafe-adcaea318585.pdf
+2025-03-14 19:44:19,436 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:19,967 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:19,967 - INFO - Processing digital PDF.
+2025-03-14 19:44:19,967 - INFO - Finding manufacturer table in Pdfs\Copy of a18781ea-af52-43a0-bafe-adcaea318585.pdf...
+2025-03-14 19:44:19,999 - WARNING - No tables found.
+2025-03-14 19:44:19,999 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:19,999 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:19,999 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:19,999 - INFO - Validation of results: failed.
+2025-03-14 19:44:19,999 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:19,999 - INFO - Using Camelot fallback...
+2025-03-14 19:44:19,999 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:19,999 - INFO - Validation of results: failed.
+2025-03-14 19:44:19,999 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:20,139 - INFO - Processing PDF: Pdfs\Copy of a1abf2c6-d169-4eda-b92a-01ac99ddc845.pdf
+2025-03-14 19:44:20,139 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:20,171 - INFO - Parsing OCR text data.
+2025-03-14 19:44:20,171 - INFO - OCR text data parsing completed.
+2025-03-14 19:44:20,171 - INFO - Validation of results: passed.
+2025-03-14 19:44:20,296 - INFO - Processing PDF: Pdfs\Copy of a46c547b-6fce-4127-91e5-973aacbad161.pdf
+2025-03-14 19:44:20,296 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:20,499 - INFO - Table title found on a page.
+2025-03-14 19:44:20,530 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:20,530 - INFO - Processing digital PDF.
+2025-03-14 19:44:20,530 - INFO - Finding manufacturer table in Pdfs\Copy of a1abf2c6-d169-4eda-b92a-01ac99ddc845.pdf...
+2025-03-14 19:44:20,561 - INFO - Cleaning extracted table.
+2025-03-14 19:44:20,952 - INFO - Table title found on a page.
+2025-03-14 19:44:21,014 - INFO - Cleaning extracted table.
+2025-03-14 19:44:21,249 - INFO - Table title found on a page.
+2025-03-14 19:44:21,327 - INFO - Cleaning extracted table.
+2025-03-14 19:44:21,546 - INFO - Table title found on a page.
+2025-03-14 19:44:21,592 - WARNING - No tables found.
+2025-03-14 19:44:21,592 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:21,592 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:21,592 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:21,592 - INFO - Validation of results: failed.
+2025-03-14 19:44:21,592 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:21,592 - INFO - Using Camelot fallback...
+2025-03-14 19:44:21,592 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:21,592 - INFO - Validation of results: failed.
+2025-03-14 19:44:21,592 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:21,624 - INFO - Cleaning extracted table.
+2025-03-14 19:44:21,624 - WARNING - No tables found.
+2025-03-14 19:44:21,624 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:21,624 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:21,624 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:21,624 - INFO - Validation of results: failed.
+2025-03-14 19:44:21,624 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:21,624 - INFO - Using Camelot fallback...
+2025-03-14 19:44:21,624 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:21,624 - INFO - Validation of results: failed.
+2025-03-14 19:44:21,624 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:21,655 - INFO - Processing PDF: Pdfs\Copy of a78773e8-cf3e-4a60-bbf5-76f7fd5c1385.pdf
+2025-03-14 19:44:21,655 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:21,686 - INFO - Processing PDF: Pdfs\Copy of a7a18439-7aa4-43cc-98ed-456378b318a7.pdf
+2025-03-14 19:44:21,686 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:21,827 - INFO - Table title found on a page.
+2025-03-14 19:44:21,874 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:21,874 - INFO - Processing digital PDF.
+2025-03-14 19:44:21,874 - INFO - Finding manufacturer table in Pdfs\Copy of a78773e8-cf3e-4a60-bbf5-76f7fd5c1385.pdf...
+2025-03-14 19:44:21,905 - INFO - Table title found on a page.
+2025-03-14 19:44:21,952 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:21,952 - INFO - Processing digital PDF.
+2025-03-14 19:44:21,952 - INFO - Finding manufacturer table in Pdfs\Copy of a7a18439-7aa4-43cc-98ed-456378b318a7.pdf...
+2025-03-14 19:44:21,999 - INFO - Cleaning extracted table.
+2025-03-14 19:44:22,108 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:22,108 - INFO - Processing digital PDF.
+2025-03-14 19:44:22,108 - INFO - Finding manufacturer table in Pdfs\Copy of a46c547b-6fce-4127-91e5-973aacbad161.pdf...
+2025-03-14 19:44:22,124 - INFO - Table title found on a page.
+2025-03-14 19:44:22,264 - INFO - Table title found on a page.
+2025-03-14 19:44:22,359 - INFO - Cleaning extracted table.
+2025-03-14 19:44:22,468 - INFO - Table title found on a page.
+2025-03-14 19:44:22,530 - INFO - Table title found on a page.
+2025-03-14 19:44:22,577 - INFO - Cleaning extracted table.
+2025-03-14 19:44:22,702 - INFO - Table title found on a page.
+2025-03-14 19:44:22,718 - INFO - Cleaning extracted table.
+2025-03-14 19:44:22,718 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:22,734 - INFO - Directly parsing table data.
+2025-03-14 19:44:22,734 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:22,734 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:44:22,734 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:22,734 - INFO - Validation of results: failed.
+2025-03-14 19:44:22,734 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:22,734 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:22,734 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:22,734 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:44:22,734 - WARNING - Required columns not identified.
+2025-03-14 19:44:22,734 - INFO - Validation of results: failed.
+2025-03-14 19:44:22,734 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:22,734 - INFO - Using Camelot fallback...
+2025-03-14 19:44:22,734 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:22,734 - INFO - Validation of results: failed.
+2025-03-14 19:44:22,734 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:22,780 - INFO - Processing PDF: Pdfs\Copy of abffd02a-74c0-4b75-b521-7e9045e2c4c8.pdf
+2025-03-14 19:44:22,780 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:22,858 - INFO - Table title found on a page.
+2025-03-14 19:44:23,374 - INFO - Table title found on a page.
+2025-03-14 19:44:23,702 - INFO - Table title found on a page.
+2025-03-14 19:44:24,202 - INFO - Table title found on a page.
+2025-03-14 19:44:24,874 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:24,874 - INFO - Processing digital PDF.
+2025-03-14 19:44:24,874 - INFO - Finding manufacturer table in Pdfs\Copy of abffd02a-74c0-4b75-b521-7e9045e2c4c8.pdf...
+2025-03-14 19:44:24,905 - INFO - Table title found on a page.
+2025-03-14 19:44:24,937 - INFO - Table title found on a page.
+2025-03-14 19:44:24,937 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:24,952 - INFO - Directly parsing table data.
+2025-03-14 19:44:24,952 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:24,952 - INFO - Identified columns - Description: None, Manufacturer: Company Name
+2025-03-14 19:44:24,952 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:24,952 - INFO - Validation of results: failed.
+2025-03-14 19:44:24,952 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:24,952 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:24,952 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:24,952 - INFO - Identified columns - Item: None, Manufacturer: Company Name
+2025-03-14 19:44:24,952 - WARNING - Required columns not identified.
+2025-03-14 19:44:24,952 - INFO - Validation of results: failed.
+2025-03-14 19:44:24,952 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:24,952 - INFO - Using Camelot fallback...
+2025-03-14 19:44:24,952 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:24,952 - INFO - Validation of results: failed.
+2025-03-14 19:44:24,952 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:25,015 - INFO - Processing PDF: Pdfs\Copy of b207f39f-acca-41e3-91c2-3e6582d97099.pdf
+2025-03-14 19:44:25,015 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:25,202 - INFO - Table title found on a page.
+2025-03-14 19:44:25,234 - INFO - Cleaning extracted table.
+2025-03-14 19:44:25,296 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:25,312 - INFO - Processing digital PDF.
+2025-03-14 19:44:25,312 - INFO - Finding manufacturer table in Pdfs\Copy of b207f39f-acca-41e3-91c2-3e6582d97099.pdf...
+2025-03-14 19:44:25,546 - INFO - Table title found on a page.
+2025-03-14 19:44:26,484 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:26,484 - INFO - Directly parsing table data.
+2025-03-14 19:44:26,484 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:26,484 - INFO - Identified columns - Description: Description of Item, Manufacturer: Name of Manufacturer
+2025-03-14 19:44:26,484 - INFO - Direct parse completed.
+2025-03-14 19:44:26,500 - INFO - Validation of results: passed.
+2025-03-14 19:44:26,500 - INFO - Validation of results: passed.
+2025-03-14 19:44:26,547 - INFO - Processing PDF: Pdfs\Copy of b5e26473-01fb-4bd5-92fa-1567e9ab19b1.pdf
+2025-03-14 19:44:26,547 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:27,281 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:27,281 - INFO - Processing digital PDF.
+2025-03-14 19:44:27,281 - INFO - Finding manufacturer table in Pdfs\Copy of b5e26473-01fb-4bd5-92fa-1567e9ab19b1.pdf...
+2025-03-14 19:44:27,313 - INFO - Table title found on a page.
+2025-03-14 19:44:27,876 - INFO - Table title found on a page.
+2025-03-14 19:44:27,891 - INFO - Table title found on a page.
+2025-03-14 19:44:27,907 - INFO - Cleaning extracted table.
+2025-03-14 19:44:28,047 - INFO - Table title found on a page.
+2025-03-14 19:44:28,485 - INFO - Table title found on a page.
+2025-03-14 19:44:28,704 - INFO - Table title found on a page.
+2025-03-14 19:44:28,751 - INFO - Table title found on a page.
+2025-03-14 19:44:28,892 - INFO - Table title found on a page.
+2025-03-14 19:44:28,923 - INFO - Table title found on a page.
+2025-03-14 19:44:28,923 - WARNING - No tables found.
+2025-03-14 19:44:28,923 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:28,923 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:28,923 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:28,923 - INFO - Validation of results: failed.
+2025-03-14 19:44:28,923 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:28,923 - INFO - Using Camelot fallback...
+2025-03-14 19:44:28,923 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:28,923 - INFO - Validation of results: failed.
+2025-03-14 19:44:28,923 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:29,017 - INFO - Processing PDF: Pdfs\Copy of ba3e8e71-f2ee-4d62-8309-295998cd5744.pdf
+2025-03-14 19:44:29,017 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:29,189 - INFO - Table title found on a page.
+2025-03-14 19:44:29,205 - INFO - Table title found on a page.
+ext).
+2025-03-14 19:44:29,205 - INFO - Processing digital PDF.
+2025-03-14 19:44:29,205 - INFO - Finding manufacturer table in Pdfs\Copy of ba3e8e71-f2ee-4d62-8309-295998cd5744.pdf...
+2025-03-14 19:44:29,220 - INFO - Cleaning extracted table.
+2025-03-14 19:44:29,330 - INFO - Table title found on a page.
+2025-03-14 19:44:29,548 - INFO - Table title found on a page.
+2025-03-14 19:44:29,611 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:29,611 - INFO - Directly parsing table data.
+2025-03-14 19:44:29,611 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:29,626 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:44:29,626 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:29,626 - INFO - Validation of results: failed.
+2025-03-14 19:44:29,626 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:29,626 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:29,626 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:29,626 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:44:29,626 - WARNING - Required columns not identified.
+2025-03-14 19:44:29,626 - INFO - Validation of results: failed.
+2025-03-14 19:44:29,626 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:29,626 - INFO - Using Camelot fallback...
+2025-03-14 19:44:29,626 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:29,626 - INFO - Validation of results: failed.
+2025-03-14 19:44:29,626 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:29,705 - INFO - Processing PDF: Pdfs\Copy of bafa7df3-e9c5-4db5-9acf-562d39d09705.pdf
+2025-03-14 19:44:29,705 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:29,955 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:29,955 - INFO - Processing digital PDF.
+2025-03-14 19:44:29,955 - INFO - Finding manufacturer table in Pdfs\Copy of bafa7df3-e9c5-4db5-9acf-562d39d09705.pdf...
+2025-03-14 19:44:30,111 - INFO - Table title found on a page.
+2025-03-14 19:44:30,111 - INFO - Cleaning extracted table.
+2025-03-14 19:44:30,158 - INFO - Table title found on a page.
+2025-03-14 19:44:30,720 - INFO - Table title found on a page.
+2025-03-14 19:44:30,720 - INFO - Table title found on a page.
+2025-03-14 19:44:30,861 - INFO - Table title found on a page.
+2025-03-14 19:44:30,970 - WARNING - No tables found.
+2025-03-14 19:44:30,970 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:30,970 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:30,970 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:30,970 - INFO - Validation of results: failed.
+2025-03-14 19:44:30,970 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:30,970 - INFO - Using Camelot fallback...
+2025-03-14 19:44:30,970 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:30,970 - INFO - Validation of results: failed.
+2025-03-14 19:44:30,970 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:31,017 - INFO - Processing PDF: Pdfs\Copy of bdc1356d-b137-4515-810a-2effc3c8c817.pdf
+2025-03-14 19:44:31,017 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:31,017 - WARNING - No tables found.
+2025-03-14 19:44:31,017 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:31,017 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:31,017 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:31,017 - INFO - Validation of results: failed.
+2025-03-14 19:44:31,017 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:31,017 - INFO - Using Camelot fallback...
+2025-03-14 19:44:31,017 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:31,017 - INFO - Validation of results: failed.
+2025-03-14 19:44:31,017 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:31,064 - INFO - Processing PDF: Pdfs\Copy of c22bce18-63c2-47e4-92f8-4656443916f7.pdf
+2025-03-14 19:44:31,064 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:31,298 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:31,298 - INFO - Processing digital PDF.
+2025-03-14 19:44:31,298 - INFO - Finding manufacturer table in Pdfs\Copy of c22bce18-63c2-47e4-92f8-4656443916f7.pdf...
+2025-03-14 19:44:31,330 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:31,330 - INFO - Processing digital PDF.
+2025-03-14 19:44:31,330 - INFO - Finding manufacturer table in Pdfs\Copy of bdc1356d-b137-4515-810a-2effc3c8c817.pdf...
+2025-03-14 19:44:31,705 - WARNING - No tables found.
+2025-03-14 19:44:31,705 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:31,705 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:31,705 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:31,705 - INFO - Validation of results: failed.
+2025-03-14 19:44:31,705 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:31,705 - INFO - Using Camelot fallback...
+2025-03-14 19:44:31,705 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:31,705 - INFO - Validation of results: failed.
+2025-03-14 19:44:31,705 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:31,784 - INFO - Table title found on a page.
+2025-03-14 19:44:31,799 - INFO - Processing PDF: Pdfs\Copy of c3d189dc-e661-4ecd-a78b-7bfdf54306fb.pdf
+2025-03-14 19:44:31,799 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:31,924 - INFO - Cleaning extracted table.
+2025-03-14 19:44:32,190 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:32,190 - INFO - Processing digital PDF.
+2025-03-14 19:44:32,190 - INFO - Finding manufacturer table in Pdfs\Copy of c3d189dc-e661-4ecd-a78b-7bfdf54306fb.pdf...
+2025-03-14 19:44:32,378 - INFO - Table title found on a page.
+2025-03-14 19:44:32,566 - INFO - Table title found on a page.
+2025-03-14 19:44:32,691 - WARNING - No tables found.
+2025-03-14 19:44:32,691 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:32,691 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:32,691 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:32,691 - INFO - Validation of results: failed.
+2025-03-14 19:44:32,691 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:32,691 - INFO - Using Camelot fallback...
+2025-03-14 19:44:32,706 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:32,706 - INFO - Validation of results: failed.
+2025-03-14 19:44:32,706 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:32,753 - INFO - Processing PDF: Pdfs\Copy of c6df9bbd-8300-43b8-939f-79648451fa38.pdf
+2025-03-14 19:44:32,753 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:32,909 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:32,909 - INFO - Processing digital PDF.
+2025-03-14 19:44:32,909 - INFO - Finding manufacturer table in Pdfs\Copy of c6df9bbd-8300-43b8-939f-79648451fa38.pdf...
+2025-03-14 19:44:32,941 - INFO - Table title found on a page.
+2025-03-14 19:44:33,332 - WARNING - No tables found.
+2025-03-14 19:44:33,332 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:33,332 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:33,332 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:33,332 - INFO - Validation of results: failed.
+2025-03-14 19:44:33,332 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:33,332 - INFO - Using Camelot fallback...
+2025-03-14 19:44:33,332 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:33,332 - INFO - Validation of results: failed.
+2025-03-14 19:44:33,332 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:33,379 - INFO - Processing PDF: Pdfs\Copy of c77b1fe3-17a2-4f3b-a5eb-35cd58bfac1c.pdf
+2025-03-14 19:44:33,379 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:33,472 - INFO - Table title found on a page.
+2025-03-14 19:44:33,519 - INFO - Cleaning extracted table.
+2025-03-14 19:44:33,675 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:33,675 - INFO - Processing digital PDF.
+2025-03-14 19:44:33,675 - INFO - Finding manufacturer table in Pdfs\Copy of c77b1fe3-17a2-4f3b-a5eb-35cd58bfac1c.pdf...
+2025-03-14 19:44:34,300 - INFO - Table title found on a page.
+2025-03-14 19:44:34,910 - WARNING - No tables found.
+2025-03-14 19:44:34,910 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:34,910 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:34,910 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:34,910 - INFO - Validation of results: failed.
+2025-03-14 19:44:34,910 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:34,910 - INFO - Using Camelot fallback...
+2025-03-14 19:44:34,910 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:34,910 - INFO - Validation of results: failed.
+2025-03-14 19:44:34,910 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:34,972 - INFO - Processing PDF: Pdfs\Copy of c8211aec-e08b-4cbc-89f4-c75534fb2107.pdf
+2025-03-14 19:44:34,972 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:35,207 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:35,207 - INFO - Processing digital PDF.
+2025-03-14 19:44:35,207 - INFO - Finding manufacturer table in Pdfs\Copy of c8211aec-e08b-4cbc-89f4-c75534fb2107.pdf...
+2025-03-14 19:44:35,785 - WARNING - No tables found.
+2025-03-14 19:44:35,785 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:35,785 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:35,785 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:35,785 - INFO - Validation of results: failed.
+2025-03-14 19:44:35,785 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:35,785 - INFO - Using Camelot fallback...
+2025-03-14 19:44:35,785 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:35,785 - INFO - Validation of results: failed.
+2025-03-14 19:44:35,785 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:35,863 - INFO - Processing PDF: Pdfs\Copy of cbaa4f7c-c6bd-4a9c-abae-5a2caa0fe146.pdf
+2025-03-14 19:44:35,863 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:36,175 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:36,175 - INFO - Processing digital PDF.
+2025-03-14 19:44:36,175 - INFO - Finding manufacturer table in Pdfs\Copy of cbaa4f7c-c6bd-4a9c-abae-5a2caa0fe146.pdf...
+2025-03-14 19:44:36,254 - WARNING - No tables found.
+2025-03-14 19:44:36,254 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:36,254 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:36,254 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:36,254 - INFO - Validation of results: failed.
+2025-03-14 19:44:36,269 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:36,269 - INFO - Using Camelot fallback...
+2025-03-14 19:44:36,269 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:36,269 - INFO - Validation of results: failed.
+2025-03-14 19:44:36,269 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:36,332 - INFO - Processing PDF: Pdfs\Copy of cfc8d70d-c4bf-470b-b751-32b9fb310bff.pdf
+2025-03-14 19:44:36,332 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:37,004 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:37,004 - INFO - Processing digital PDF.
+2025-03-14 19:44:37,004 - INFO - Finding manufacturer table in Pdfs\Copy of cfc8d70d-c4bf-470b-b751-32b9fb310bff.pdf...
+2025-03-14 19:44:37,285 - WARNING - No tables found.
+2025-03-14 19:44:37,285 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:37,285 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:37,285 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:37,285 - INFO - Validation of results: failed.
+2025-03-14 19:44:37,285 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:37,285 - INFO - Using Camelot fallback...
+2025-03-14 19:44:37,285 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:37,285 - INFO - Validation of results: failed.
+2025-03-14 19:44:37,285 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:37,332 - INFO - Processing PDF: Pdfs\Copy of d161df90-254e-4741-a304-00df68815144.pdf
+2025-03-14 19:44:37,332 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:37,457 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:37,457 - INFO - Processing digital PDF.
+2025-03-14 19:44:37,457 - INFO - Finding manufacturer table in Pdfs\Copy of d161df90-254e-4741-a304-00df68815144.pdf...
+2025-03-14 19:44:37,692 - WARNING - No tables found.
+2025-03-14 19:44:37,707 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:37,707 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:37,707 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:37,707 - INFO - Validation of results: failed.
+2025-03-14 19:44:37,707 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:37,707 - INFO - Using Camelot fallback...
+2025-03-14 19:44:37,707 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:37,707 - INFO - Validation of results: failed.
+2025-03-14 19:44:37,707 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:37,770 - INFO - Processing PDF: Pdfs\Copy of d8f8be7b-8ef6-4ac1-84f4-9cdbbff3dec1.pdf
+2025-03-14 19:44:37,770 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:37,770 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:37,770 - INFO - Directly parsing table data.
+2025-03-14 19:44:37,770 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:37,770 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:44:37,770 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:37,770 - INFO - Validation of results: failed.
+2025-03-14 19:44:37,770 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:37,770 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:37,770 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:37,770 - INFO - Identified columns - Item: Item, Manufacturer: None
+2025-03-14 19:44:37,770 - WARNING - Required columns not identified.
+2025-03-14 19:44:37,770 - INFO - Validation of results: failed.
+2025-03-14 19:44:37,770 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:37,770 - INFO - Using Camelot fallback...
+2025-03-14 19:44:37,770 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:37,770 - INFO - Validation of results: failed.
+2025-03-14 19:44:37,770 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:37,848 - INFO - Processing PDF: Pdfs\Copy of da4fca51-8053-4458-9348-d0767963b8e6.pdf
+2025-03-14 19:44:37,848 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:38,082 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:38,082 - INFO - Processing digital PDF.
+2025-03-14 19:44:38,082 - INFO - Finding manufacturer table in Pdfs\Copy of d8f8be7b-8ef6-4ac1-84f4-9cdbbff3dec1.pdf...
+2025-03-14 19:44:38,176 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:38,176 - INFO - Processing digital PDF.
+2025-03-14 19:44:38,176 - INFO - Finding manufacturer table in Pdfs\Copy of da4fca51-8053-4458-9348-d0767963b8e6.pdf...
+2025-03-14 19:44:38,942 - INFO - Table title found on a page.
+2025-03-14 19:44:40,161 - INFO - Table title found on a page.
+2025-03-14 19:44:40,255 - INFO - Cleaning extracted table.
+2025-03-14 19:44:40,630 - WARNING - No tables found.
+2025-03-14 19:44:40,630 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:40,630 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:40,630 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:40,630 - INFO - Validation of results: failed.
+2025-03-14 19:44:40,630 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:40,630 - INFO - Using Camelot fallback...
+2025-03-14 19:44:40,630 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:40,630 - INFO - Validation of results: failed.
+2025-03-14 19:44:40,630 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:40,693 - INFO - Processing PDF: Pdfs\Copy of db31e874-ff4d-42e2-9706-da91e18493fb.pdf
+2025-03-14 19:44:40,693 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:40,912 - INFO - Table title found on a page.
+2025-03-14 19:44:41,130 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:41,130 - INFO - Processing digital PDF.
+2025-03-14 19:44:41,130 - INFO - Finding manufacturer table in Pdfs\Copy of db31e874-ff4d-42e2-9706-da91e18493fb.pdf...
+2025-03-14 19:44:41,443 - INFO - Table title found on a page.
+2025-03-14 19:44:41,630 - WARNING - No tables found.
+2025-03-14 19:44:41,630 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:41,630 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:41,630 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:41,630 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,630 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:41,630 - INFO - Using Camelot fallback...
+2025-03-14 19:44:41,630 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:41,630 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,630 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:41,677 - INFO - Processing PDF: Pdfs\Copy of de167d9e-6107-4432-82aa-b9befbde02e0.pdf
+2025-03-14 19:44:41,677 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:41,693 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:41,693 - INFO - Directly parsing table data.
+2025-03-14 19:44:41,693 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:41,693 - INFO - Identified columns - Description: Description of item, Manufacturer: None
+2025-03-14 19:44:41,693 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:41,693 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,693 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:41,693 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:41,693 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:41,693 - INFO - Identified columns - Item: Description of item, Manufacturer: None
+2025-03-14 19:44:41,693 - WARNING - Required columns not identified.
+2025-03-14 19:44:41,693 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,693 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:41,693 - INFO - Using Camelot fallback...
+2025-03-14 19:44:41,693 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:41,693 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,693 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:41,709 - INFO - Table title found on a page.
+2025-03-14 19:44:41,771 - INFO - Processing PDF: Pdfs\Copy of e0ba4c9f-1d12-4ddc-8368-61ec5fb2502b.pdf
+2025-03-14 19:44:41,771 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:41,959 - WARNING - No tables found.
+2025-03-14 19:44:41,959 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:41,959 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:41,959 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:41,959 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,959 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:41,959 - INFO - Using Camelot fallback...
+2025-03-14 19:44:41,959 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:41,959 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,959 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:41,990 - INFO - Table title found on a page.
+2025-03-14 19:44:41,990 - WARNING - No tables found.
+2025-03-14 19:44:41,990 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:41,990 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:41,990 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:41,990 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,990 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:41,990 - INFO - Using Camelot fallback...
+2025-03-14 19:44:41,990 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:41,990 - INFO - Validation of results: failed.
+2025-03-14 19:44:41,990 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:42,021 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:42,021 - INFO - Processing digital PDF.
+2025-03-14 19:44:42,021 - INFO - Finding manufacturer table in Pdfs\Copy of e0ba4c9f-1d12-4ddc-8368-61ec5fb2502b.pdf...
+2025-03-14 19:44:42,021 - INFO - Processing PDF: Pdfs\Copy of e22cc700-6445-4e3a-838b-1df6a776aa24.pdf
+2025-03-14 19:44:42,021 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:42,052 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:42,052 - INFO - Processing digital PDF.
+2025-03-14 19:44:42,052 - INFO - Finding manufacturer table in Pdfs\Copy of de167d9e-6107-4432-82aa-b9befbde02e0.pdf...
+2025-03-14 19:44:42,068 - INFO - Processing PDF: Pdfs\Copy of e6d44721-b51e-4480-942c-68edcd9d1d27.pdf
+2025-03-14 19:44:42,084 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:42,177 - WARNING - No tables found.
+2025-03-14 19:44:42,177 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:42,177 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:42,177 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:42,177 - INFO - Validation of results: failed.
+2025-03-14 19:44:42,177 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:42,177 - INFO - Using Camelot fallback...
+2025-03-14 19:44:42,177 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:42,177 - INFO - Validation of results: failed.
+2025-03-14 19:44:42,177 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:42,255 - INFO - Processing PDF: Pdfs\Copy of e6f92bc3-6cd9-4739-a1dc-4a6fae6e597c.pdf
+2025-03-14 19:44:42,255 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:42,287 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:42,287 - INFO - Processing digital PDF.
+2025-03-14 19:44:42,287 - INFO - Finding manufacturer table in Pdfs\Copy of e22cc700-6445-4e3a-838b-1df6a776aa24.pdf...
+2025-03-14 19:44:42,318 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:42,318 - INFO - Processing digital PDF.
+2025-03-14 19:44:42,318 - INFO - Finding manufacturer table in Pdfs\Copy of e6d44721-b51e-4480-942c-68edcd9d1d27.pdf...
+2025-03-14 19:44:42,537 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:42,537 - INFO - Processing digital PDF.
+2025-03-14 19:44:42,537 - INFO - Finding manufacturer table in Pdfs\Copy of e6f92bc3-6cd9-4739-a1dc-4a6fae6e597c.pdf...
+2025-03-14 19:44:42,630 - WARNING - No tables found.
+2025-03-14 19:44:42,630 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:42,630 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:42,630 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:42,630 - INFO - Validation of results: failed.
+2025-03-14 19:44:42,630 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:42,630 - INFO - Using Camelot fallback...
+2025-03-14 19:44:42,630 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:42,630 - INFO - Validation of results: failed.
+2025-03-14 19:44:42,630 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:42,677 - INFO - Processing PDF: Pdfs\Copy of e7d43809-0c65-4b5f-833a-6f453b29d210.pdf
+2025-03-14 19:44:42,677 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:43,677 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:43,677 - INFO - Processing digital PDF.
+2025-03-14 19:44:43,677 - INFO - Finding manufacturer table in Pdfs\Copy of e7d43809-0c65-4b5f-833a-6f453b29d210.pdf...
+2025-03-14 19:44:44,912 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:44,928 - ERROR - Table location failed: Reindexing only valid with uniquely valued Index objects
+2025-03-14 19:44:44,928 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:44,928 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:44,928 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:44,928 - INFO - Validation of results: failed.
+2025-03-14 19:44:44,928 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:44,928 - INFO - Using Camelot fallback...
+2025-03-14 19:44:44,928 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:44,928 - INFO - Validation of results: failed.
+2025-03-14 19:44:44,928 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:44,990 - INFO - Processing PDF: Pdfs\Copy of e9dc1a8d-b287-4495-8f93-2f816f20322f.pdf
+2025-03-14 19:44:44,990 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:45,162 - INFO - Table title found on a page.
+2025-03-14 19:44:45,256 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:45,256 - INFO - Processing digital PDF.
+2025-03-14 19:44:45,256 - INFO - Finding manufacturer table in Pdfs\Copy of e9dc1a8d-b287-4495-8f93-2f816f20322f.pdf...
+2025-03-14 19:44:45,959 - INFO - Table title found on a page.
+2025-03-14 19:44:46,194 - INFO - Table title found on a page.
+2025-03-14 19:44:46,507 - INFO - Table title found on a page.
+2025-03-14 19:44:47,132 - INFO - Table title found on a page.
+2025-03-14 19:44:47,397 - INFO - Table title found on a page.
+2025-03-14 19:44:47,413 - INFO - Table title found on a page.
+2025-03-14 19:44:48,132 - INFO - Table title found on a page.
+2025-03-14 19:44:48,210 - INFO - Cleaning extracted table.
+2025-03-14 19:44:48,647 - INFO - Table title found on a page.
+2025-03-14 19:44:48,710 - INFO - Cleaning extracted table.
+2025-03-14 19:44:49,085 - INFO - Table title found on a page.
+2025-03-14 19:44:49,163 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:49,163 - INFO - Directly parsing table data.
+2025-03-14 19:44:49,163 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:49,163 - INFO - Identified columns - Description: Description of item, Manufacturer: None
+2025-03-14 19:44:49,163 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:49,163 - INFO - Validation of results: failed.
+2025-03-14 19:44:49,163 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:49,163 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:49,163 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:49,163 - INFO - Identified columns - Item: Description of item, Manufacturer: None
+2025-03-14 19:44:49,163 - WARNING - Required columns not identified.
+2025-03-14 19:44:49,163 - INFO - Validation of results: failed.
+2025-03-14 19:44:49,163 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:49,163 - INFO - Using Camelot fallback...
+2025-03-14 19:44:49,163 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:49,163 - INFO - Validation of results: failed.
+2025-03-14 19:44:49,163 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:49,210 - INFO - Processing PDF: Pdfs\Copy of eabb2aaa-1ea5-421c-bb4c-b907560ab793.pdf
+2025-03-14 19:44:49,210 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:49,413 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:49,413 - INFO - Processing digital PDF.
+2025-03-14 19:44:49,413 - INFO - Finding manufacturer table in Pdfs\Copy of eabb2aaa-1ea5-421c-bb4c-b907560ab793.pdf...
+2025-03-14 19:44:49,585 - INFO - Table title found on a page.
+2025-03-14 19:44:49,601 - INFO - Table title found on a page.
+2025-03-14 19:44:50,632 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:50,632 - INFO - Directly parsing table data.
+2025-03-14 19:44:50,632 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:50,632 - INFO - Identified columns - Description: Description of item, Manufacturer: Name of manufacturer
+2025-03-14 19:44:50,632 - INFO - Direct parse completed.
+2025-03-14 19:44:50,632 - INFO - Validation of results: passed.
+2025-03-14 19:44:50,632 - INFO - Validation of results: passed.
+2025-03-14 19:44:50,710 - INFO - Processing PDF: Pdfs\Copy of eb7f6798-3a2f-4aa8-844a-e2103e194fc6.pdf
+2025-03-14 19:44:50,710 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:50,835 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:50,835 - INFO - Processing digital PDF.
+2025-03-14 19:44:50,851 - INFO - Finding manufacturer table in Pdfs\Copy of eb7f6798-3a2f-4aa8-844a-e2103e194fc6.pdf...
+2025-03-14 19:44:50,882 - INFO - Table title found on a page.
+2025-03-14 19:44:50,976 - INFO - Table title found on a page.
+2025-03-14 19:44:51,039 - WARNING - No tables found.
+2025-03-14 19:44:51,039 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:51,039 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:51,039 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:51,039 - INFO - Validation of results: failed.
+2025-03-14 19:44:51,039 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:51,039 - INFO - Using Camelot fallback...
+2025-03-14 19:44:51,039 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:51,039 - INFO - Validation of results: failed.
+2025-03-14 19:44:51,039 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:51,101 - INFO - Processing PDF: Pdfs\Copy of ec57baec-3927-4b81-8cfb-92711f464d35.pdf
+2025-03-14 19:44:51,101 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:51,414 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:51,414 - INFO - Processing digital PDF.
+2025-03-14 19:44:51,414 - INFO - Finding manufacturer table in Pdfs\Copy of ec57baec-3927-4b81-8cfb-92711f464d35.pdf...
+2025-03-14 19:44:51,742 - INFO - Table title found on a page.
+2025-03-14 19:44:51,960 - WARNING - No tables found.
+2025-03-14 19:44:51,960 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:51,960 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:51,960 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:51,960 - INFO - Validation of results: failed.
+2025-03-14 19:44:51,960 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:51,960 - INFO - Using Camelot fallback...
+2025-03-14 19:44:51,960 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:51,960 - INFO - Validation of results: failed.
+2025-03-14 19:44:51,960 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:52,039 - INFO - Processing PDF: Pdfs\Copy of fa20775f-ed22-48b6-96c1-89a7ab8a0b38.pdf
+2025-03-14 19:44:52,039 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:52,210 - INFO - PDF is not scanned (contains text).
+2025-03-14 19:44:52,210 - INFO - Processing digital PDF.
+2025-03-14 19:44:52,210 - INFO - Finding manufacturer table in Pdfs\Copy of fa20775f-ed22-48b6-96c1-89a7ab8a0b38.pdf...
+2025-03-14 19:44:53,180 - INFO - Table title found on a page.
+2025-03-14 19:44:53,649 - INFO - Table title found on a page.
+2025-03-14 19:44:53,711 - INFO - Table title found on a page.
+2025-03-14 19:44:53,821 - INFO - Table title found on a page.
+2025-03-14 19:44:53,836 - INFO - Cleaning extracted table.
+2025-03-14 19:44:54,086 - INFO - Table title found on a page.
+2025-03-14 19:44:54,102 - WARNING - No tables found.
+2025-03-14 19:44:54,102 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:54,102 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:54,102 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:54,102 - INFO - Validation of results: failed.
+2025-03-14 19:44:54,102 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:54,102 - INFO - Using Camelot fallback...
+2025-03-14 19:44:54,102 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:54,102 - INFO - Validation of results: failed.
+2025-03-14 19:44:54,102 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:54,211 - INFO - Cleaning extracted table.
+2025-03-14 19:44:54,446 - INFO - Table title found on a page.
+2025-03-14 19:44:54,649 - INFO - Cleaning extracted table.
+2025-03-14 19:44:54,664 - INFO - Table title found on a page.
+2025-03-14 19:44:54,836 - WARNING - No tables found.
+2025-03-14 19:44:54,836 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:54,836 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:54,836 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:54,836 - INFO - Validation of results: failed.
+2025-03-14 19:44:54,836 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:54,836 - INFO - Using Camelot fallback...
+2025-03-14 19:44:54,836 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:54,836 - INFO - Validation of results: failed.
+2025-03-14 19:44:54,836 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:54,852 - WARNING - No tables found.
+2025-03-14 19:44:54,852 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:54,852 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:54,852 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:54,852 - INFO - Validation of results: failed.
+2025-03-14 19:44:54,852 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:54,852 - INFO - Using Camelot fallback...
+2025-03-14 19:44:54,852 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:54,852 - INFO - Validation of results: failed.
+2025-03-14 19:44:54,852 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:54,930 - INFO - Table title found on a page.
+2025-03-14 19:44:55,446 - INFO - Table title found on a page.
+2025-03-14 19:44:55,524 - INFO - Parsing OCR text data.
+2025-03-14 19:44:55,524 - INFO - OCR text data parsing completed.
+2025-03-14 19:44:55,555 - INFO - Validation of results: failed.
+2025-03-14 19:44:55,555 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:55,555 - INFO - Processing PDF: Pdfs\Copy of ff4e984d-6247-48c7-a70f-57f742a7d2ea.pdf
+2025-03-14 19:44:55,555 - INFO - Checking if PDF is scanned...
+2025-03-14 19:44:55,586 - INFO - PDF appears to be scanned (no text found).
+2025-03-14 19:44:55,586 - INFO - Processing scanned PDF using OCR.
+2025-03-14 19:44:55,617 - INFO - Table title found on a page.
+2025-03-14 19:44:55,696 - INFO - Cleaning extracted table.
+2025-03-14 19:44:55,696 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:55,696 - INFO - Directly parsing table data.
+2025-03-14 19:44:55,696 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:55,696 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:44:55,696 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:55,696 - INFO - Validation of results: failed.
+2025-03-14 19:44:55,696 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:55,696 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:55,696 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:55,696 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:44:55,696 - WARNING - Required columns not identified.
+2025-03-14 19:44:55,696 - INFO - Validation of results: failed.
+2025-03-14 19:44:55,696 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:55,696 - INFO - Using Camelot fallback...
+2025-03-14 19:44:55,696 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:55,696 - INFO - Validation of results: failed.
+2025-03-14 19:44:55,696 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:55,883 - INFO - Table title found on a page.
+2025-03-14 19:44:56,039 - INFO - Cleaning extracted table.
+2025-03-14 19:44:56,352 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:44:56,352 - INFO - Directly parsing table data.
+2025-03-14 19:44:56,352 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:44:56,352 - INFO - Identified columns - Description: Item Description, Manufacturer: None
+2025-03-14 19:44:56,352 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:44:56,352 - INFO - Validation of results: failed.
+2025-03-14 19:44:56,352 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:56,352 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:56,352 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:44:56,352 - INFO - Identified columns - Item: Item
+No., Manufacturer: None
+2025-03-14 19:44:56,352 - WARNING - Required columns not identified.
+2025-03-14 19:44:56,352 - INFO - Validation of results: failed.
+2025-03-14 19:44:56,352 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:56,352 - INFO - Using Camelot fallback...
+2025-03-14 19:44:56,352 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:56,352 - INFO - Validation of results: failed.
+2025-03-14 19:44:56,352 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:56,571 - INFO - Table title found on a page.
+2025-03-14 19:44:57,274 - INFO - Table title found on a page.
+2025-03-14 19:44:58,039 - INFO - Table title found on a page.
+2025-03-14 19:44:58,086 - INFO - Cleaning extracted table.
+2025-03-14 19:44:58,164 - INFO - Table title found on a page.
+2025-03-14 19:44:58,258 - INFO - Table title found on a page.
+2025-03-14 19:44:58,321 - INFO - Cleaning extracted table.
+2025-03-14 19:44:58,352 - INFO - Table title found on a page.
+2025-03-14 19:44:59,055 - INFO - Table title found on a page.
+2025-03-14 19:44:59,368 - INFO - Table title found on a page.
+2025-03-14 19:44:59,508 - INFO - Table title found on a page.
+2025-03-14 19:44:59,524 - INFO - Cleaning extracted table.
+2025-03-14 19:44:59,540 - ERROR - Table location failed: 'DataFrame' object has no attribute 'str'
+2025-03-14 19:44:59,540 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:44:59,540 - INFO - Parsing table using TAPAS.
+2025-03-14 19:44:59,540 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:44:59,540 - INFO - Validation of results: failed.
+2025-03-14 19:44:59,540 - INFO - Falling back to Camelot processing.
+2025-03-14 19:44:59,540 - INFO - Using Camelot fallback...
+2025-03-14 19:44:59,540 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:44:59,540 - INFO - Validation of results: failed.
+2025-03-14 19:44:59,540 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:44:59,602 - INFO - Table title found on a page.
+2025-03-14 19:44:59,853 - INFO - Table title found on a page.
+2025-03-14 19:44:59,900 - INFO - Parsing OCR text data.
+2025-03-14 19:44:59,900 - INFO - OCR text data parsing completed.
+2025-03-14 19:44:59,900 - INFO - Validation of results: passed.
+2025-03-14 19:45:00,306 - INFO - Table title found on a page.
+2025-03-14 19:45:00,759 - INFO - Table title found on a page.
+2025-03-14 19:45:00,759 - INFO - Cleaning extracted table.
+2025-03-14 19:45:01,607 - INFO - Table title found on a page.
+2025-03-14 19:45:01,963 - INFO - Table title found on a page.
+2025-03-14 19:45:02,089 - INFO - Table title found on a page.
+2025-03-14 19:45:02,182 - INFO - Cleaning extracted table.
+2025-03-14 19:45:02,276 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:45:02,276 - INFO - Directly parsing table data.
+2025-03-14 19:45:02,276 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:45:02,276 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:45:02,276 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:45:02,276 - INFO - Validation of results: failed.
+2025-03-14 19:45:02,276 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:02,276 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:02,276 - WARNING - DataFrame empty or has less than 2 columns.
+2025-03-14 19:45:02,276 - INFO - Validation of results: failed.
+2025-03-14 19:45:02,276 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:02,276 - INFO - Using Camelot fallback...
+2025-03-14 19:45:02,276 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:02,276 - INFO - Validation of results: failed.
+2025-03-14 19:45:02,276 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:02,651 - INFO - Table title found on a page.
+2025-03-14 19:45:03,621 - WARNING - No tables found.
+2025-03-14 19:45:03,621 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:03,621 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:03,621 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:45:03,621 - INFO - Validation of results: failed.
+2025-03-14 19:45:03,621 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:03,621 - INFO - Using Camelot fallback...
+2025-03-14 19:45:03,621 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:03,621 - INFO - Validation of results: failed.
+2025-03-14 19:45:03,621 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:03,652 - INFO - Table title found on a page.
+2025-03-14 19:45:03,699 - INFO - Cleaning extracted table.
+2025-03-14 19:45:03,761 - INFO - Table title found on a page.
+2025-03-14 19:45:03,793 - INFO - Table title found on a page.
+2025-03-14 19:45:03,793 - INFO - Cleaning extracted table.
+2025-03-14 19:45:03,824 - INFO - Cleaning extracted table.
+2025-03-14 19:45:03,965 - INFO - Table title found on a page.
+2025-03-14 19:45:04,012 - INFO - Cleaning extracted table.
+2025-03-14 19:45:04,184 - INFO - Table title found on a page.
+2025-03-14 19:45:04,215 - INFO - Cleaning extracted table.
+2025-03-14 19:45:04,434 - INFO - Table title found on a page.
+2025-03-14 19:45:04,465 - INFO - Table title found on a page.
+2025-03-14 19:45:04,606 - INFO - Cleaning extracted table.
+2025-03-14 19:45:04,638 - INFO - Table title found on a page.
+2025-03-14 19:45:04,825 - INFO - Table title found on a page.
+2025-03-14 19:45:04,934 - INFO - Cleaning extracted table.
+2025-03-14 19:45:05,091 - INFO - Table title found on a page.
+2025-03-14 19:45:05,106 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:45:05,106 - INFO - Directly parsing table data.
+2025-03-14 19:45:05,106 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:45:05,106 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:45:05,106 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:45:05,106 - INFO - Validation of results: failed.
+2025-03-14 19:45:05,106 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:05,106 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:05,106 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:45:05,106 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:45:05,106 - WARNING - Required columns not identified.
+2025-03-14 19:45:05,106 - INFO - Validation of results: failed.
+2025-03-14 19:45:05,106 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:05,106 - INFO - Using Camelot fallback...
+2025-03-14 19:45:05,106 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:05,106 - INFO - Validation of results: failed.
+2025-03-14 19:45:05,106 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:05,185 - INFO - Cleaning extracted table.
+2025-03-14 19:45:05,216 - INFO - Table title found on a page.
+2025-03-14 19:45:05,341 - INFO - Cleaning extracted table.
+2025-03-14 19:45:05,372 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:45:05,372 - INFO - Directly parsing table data.
+2025-03-14 19:45:05,372 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:45:05,372 - INFO - Identified columns - Description: Description of item, Manufacturer: Name of manufacturer
+2025-03-14 19:45:05,372 - INFO - Direct parse completed.
+2025-03-14 19:45:05,372 - INFO - Validation of results: passed.
+2025-03-14 19:45:05,372 - INFO - Validation of results: passed.
+2025-03-14 19:45:05,575 - WARNING - No tables found.
+2025-03-14 19:45:05,575 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:05,575 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:05,575 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:45:05,575 - INFO - Validation of results: failed.
+2025-03-14 19:45:05,575 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:05,575 - INFO - Using Camelot fallback...
+2025-03-14 19:45:05,575 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:05,575 - INFO - Validation of results: failed.
+2025-03-14 19:45:05,575 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:05,591 - INFO - Table title found on a page.
+2025-03-14 19:45:05,700 - INFO - Cleaning extracted table.
+2025-03-14 19:45:05,966 - INFO - Table title found on a page.
+2025-03-14 19:45:06,075 - INFO - Cleaning extracted table.
+2025-03-14 19:45:06,857 - INFO - Table title found on a page.
+2025-03-14 19:45:06,935 - INFO - Cleaning extracted table.
+2025-03-14 19:45:07,138 - INFO - Table title found on a page.
+2025-03-14 19:45:07,154 - WARNING - No tables found.
+2025-03-14 19:45:07,154 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:07,154 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:07,154 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:45:07,154 - INFO - Validation of results: failed.
+2025-03-14 19:45:07,154 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:07,154 - INFO - Using Camelot fallback...
+2025-03-14 19:45:07,154 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:07,154 - INFO - Validation of results: failed.
+2025-03-14 19:45:07,154 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:07,185 - INFO - Cleaning extracted table.
+2025-03-14 19:45:07,185 - INFO - Manufacturer tables successfully extracted.
+2025-03-14 19:45:07,201 - INFO - Directly parsing table data.
+2025-03-14 19:45:07,201 - INFO - Identifying columns for direct parsing.
+2025-03-14 19:45:07,201 - INFO - Identified columns - Description: None, Manufacturer: None
+2025-03-14 19:45:07,201 - WARNING - Direct parse could not identify required columns.
+2025-03-14 19:45:07,201 - INFO - Validation of results: failed.
+2025-03-14 19:45:07,201 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:07,201 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:07,201 - INFO - Identifying columns in DataFrame.
+2025-03-14 19:45:07,201 - INFO - Identified columns - Item: None, Manufacturer: None
+2025-03-14 19:45:07,201 - WARNING - Required columns not identified.
+2025-03-14 19:45:07,201 - INFO - Validation of results: failed.
+2025-03-14 19:45:07,201 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:07,201 - INFO - Using Camelot fallback...
+2025-03-14 19:45:07,201 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:07,201 - INFO - Validation of results: failed.
+2025-03-14 19:45:07,201 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:08,375 - WARNING - No tables found.
+2025-03-14 19:45:08,375 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:08,375 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:08,375 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:45:08,375 - INFO - Validation of results: failed.
+2025-03-14 19:45:08,375 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:08,375 - INFO - Using Camelot fallback...
+2025-03-14 19:45:08,375 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:08,375 - INFO - Validation of results: failed.
+2025-03-14 19:45:08,375 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:18,630 - WARNING - No tables found.
+2025-03-14 19:45:18,630 - INFO - Falling back to TAPAS processing.
+2025-03-14 19:45:18,630 - INFO - Parsing table using TAPAS.
+2025-03-14 19:45:18,630 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 19:45:18,630 - INFO - Validation of results: failed.
+2025-03-14 19:45:18,630 - INFO - Falling back to Camelot processing.
+2025-03-14 19:45:18,630 - INFO - Using Camelot fallback...
+2025-03-14 19:45:18,630 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 19:45:18,630 - INFO - Validation of results: failed.
+2025-03-14 19:45:18,630 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 19:45:26,569 - INFO - Processing complete. Results saved to output.json
+2025-03-14 20:50:35,165 - INFO - Starting PDF extraction process...
+2025-03-14 20:50:35,165 - INFO - Initializing PDFTableExtractor.
+2025-03-14 20:50:35,165 - INFO - Initializing TapasHandler.
+2025-03-14 20:50:37,322 - INFO - Found 98 PDF file(s) in folder 'Pdfs'.
+2025-03-14 20:50:50,194 - INFO - Processing PDF: Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf
+2025-03-14 20:50:50,194 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,303 - INFO - Processing PDF: Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf
+2025-03-14 20:50:50,303 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,350 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,350 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,350 - INFO - Finding manufacturer table in Pdfs\Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf...
+2025-03-14 20:50:50,350 - INFO - Processing PDF: Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf
+2025-03-14 20:50:50,350 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,412 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,412 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,412 - INFO - Finding manufacturer table in Pdfs\Copy of 00389069-f265-4a3a-aca2-3ecc843b937e.pdf...
+2025-03-14 20:50:50,412 - INFO - Processing PDF: Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf
+2025-03-14 20:50:50,412 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,475 - INFO - Processing PDF: Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf
+2025-03-14 20:50:50,475 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,553 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,553 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,553 - INFO - Finding manufacturer table in Pdfs\Copy of 0181c8e9-0e86-4ba9-8ce2-1c13f7047588.pdf...
+2025-03-14 20:50:50,569 - INFO - Processing PDF: Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf
+2025-03-14 20:50:50,569 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,631 - INFO - Processing PDF: Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf
+2025-03-14 20:50:50,631 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,678 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,678 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,678 - INFO - Finding manufacturer table in Pdfs\Copy of 0201f2b2-e60c-4bb6-ac45-04185b03225f.pdf...
+2025-03-14 20:50:50,694 - INFO - Processing PDF: Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf
+2025-03-14 20:50:50,694 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,787 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,787 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,787 - INFO - Finding manufacturer table in Pdfs\Copy of 0341e06d-2dff-4079-b7e6-ac793161870b.pdf...
+2025-03-14 20:50:50,850 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,850 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,850 - INFO - Finding manufacturer table in Pdfs\Copy of 042ffb46-417e-4a35-9584-3a0b02ac063c.pdf...
+2025-03-14 20:50:50,912 - INFO - Processing PDF: Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf
+2025-03-14 20:50:50,928 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,959 - INFO - Processing PDF: Pdfs\Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf
+2025-03-14 20:50:50,959 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:50,975 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,975 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,975 - INFO - Finding manufacturer table in Pdfs\Copy of 056d442b-5da7-438a-a231-e4596e8088a2.pdf...
+2025-03-14 20:50:50,990 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:50,990 - INFO - Processing digital PDF.
+2025-03-14 20:50:50,990 - INFO - Finding manufacturer table in Pdfs\Copy of 07f5056d-2c5f-4d63-afdb-4bf83db73ab7.pdf...
+2025-03-14 20:50:50,990 - INFO - PDF appears to be scanned (no text found).
+2025-03-14 20:50:50,990 - INFO - Processing scanned PDF using OCR.
+2025-03-14 20:50:51,115 - INFO - Processing PDF: Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf
+2025-03-14 20:50:51,115 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,147 - INFO - Processing PDF: Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf
+2025-03-14 20:50:51,147 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,162 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:51,162 - INFO - Processing digital PDF.
+2025-03-14 20:50:51,162 - INFO - Finding manufacturer table in Pdfs\Copy of 0d0ffe08-f907-4cab-8c82-c3b3e56c0740.pdf...
+2025-03-14 20:50:51,178 - WARNING - No tables found.
+2025-03-14 20:50:51,178 - INFO - Falling back to TAPAS processing.
+2025-03-14 20:50:51,178 - INFO - Parsing table using TAPAS.
+2025-03-14 20:50:51,178 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 20:50:51,178 - INFO - Validation of results: failed.
+2025-03-14 20:50:51,178 - INFO - Falling back to Camelot processing.
+2025-03-14 20:50:51,178 - INFO - Using Camelot fallback...
+2025-03-14 20:50:51,178 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 20:50:51,178 - INFO - Validation of results: failed.
+2025-03-14 20:50:51,178 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 20:50:51,240 - INFO - Processing PDF: Pdfs\Copy of 177b2fea-20e9-4fa1-929b-f6278aca2282.pdf
+2025-03-14 20:50:51,240 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,287 - INFO - PDF appears to be scanned (no text found).
+2025-03-14 20:50:51,287 - INFO - Processing scanned PDF using OCR.
+2025-03-14 20:50:51,350 - WARNING - No tables found.
+2025-03-14 20:50:51,350 - INFO - Falling back to TAPAS processing.
+2025-03-14 20:50:51,350 - INFO - Parsing table using TAPAS.
+2025-03-14 20:50:51,350 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 20:50:51,350 - INFO - Validation of results: failed.
+2025-03-14 20:50:51,350 - INFO - Falling back to Camelot processing.
+2025-03-14 20:50:51,350 - INFO - Using Camelot fallback...
+2025-03-14 20:50:51,350 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 20:50:51,350 - INFO - Validation of results: failed.
+2025-03-14 20:50:51,350 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 20:50:51,381 - INFO - Processing PDF: Pdfs\Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf
+2025-03-14 20:50:51,381 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,412 - INFO - Processing PDF: Pdfs\Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf
+2025-03-14 20:50:51,412 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,475 - INFO - Processing PDF: Pdfs\Copy of 1c869817-fe96-40c9-aa20-88b5c2a1d7d2.pdf
+2025-03-14 20:50:51,475 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,490 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:51,490 - INFO - Processing digital PDF.
+2025-03-14 20:50:51,490 - INFO - Finding manufacturer table in Pdfs\Copy of 161903c0-8933-421c-b851-ca370ac18392.pdf...
+2025-03-14 20:50:51,522 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:51,522 - INFO - Processing digital PDF.
+2025-03-14 20:50:51,522 - INFO - Finding manufacturer table in Pdfs\Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf...
+2025-03-14 20:50:51,537 - INFO - Processing PDF: Pdfs\Copy of 1dbfb81d-903a-40d5-85ec-198b39d9ac08.pdf
+2025-03-14 20:50:51,537 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,647 - INFO - Processing PDF: Pdfs\Copy of 22d005d7-0204-44c5-bc5b-03577fa12e5b.pdf
+2025-03-14 20:50:51,647 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:51,647 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:51,647 - INFO - Processing digital PDF.
+2025-03-14 20:50:51,647 - INFO - Finding manufacturer table in Pdfs\Copy of 17a039fb-a37c-4365-86a3-575e07214e8d.pdf...
+2025-03-14 20:50:51,772 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:51,772 - INFO - Processing digital PDF.
+2025-03-14 20:50:51,772 - INFO - Finding manufacturer table in Pdfs\Copy of 1c869817-fe96-40c9-aa20-88b5c2a1d7d2.pdf...
+2025-03-14 20:50:51,819 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:51,819 - INFO - Processing digital PDF.
+2025-03-14 20:50:51,819 - INFO - Finding manufacturer table in Pdfs\Copy of 1dbfb81d-903a-40d5-85ec-198b39d9ac08.pdf...
+2025-03-14 20:50:51,975 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:51,975 - INFO - Processing digital PDF.
+2025-03-14 20:50:51,975 - INFO - Finding manufacturer table in Pdfs\Copy of 22d005d7-0204-44c5-bc5b-03577fa12e5b.pdf...
+2025-03-14 20:50:52,115 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:52,115 - INFO - Processing digital PDF.
+2025-03-14 20:50:52,115 - INFO - Finding manufacturer table in Pdfs\Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf...
+2025-03-14 20:50:53,695 - WARNING - No tables found.
+2025-03-14 20:50:53,695 - INFO - Falling back to TAPAS processing.
+2025-03-14 20:50:53,695 - INFO - Parsing table using TAPAS.
+2025-03-14 20:50:53,695 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 20:50:53,695 - INFO - Validation of results: failed.
+2025-03-14 20:50:53,695 - INFO - Falling back to Camelot processing.
+2025-03-14 20:50:53,695 - INFO - Using Camelot fallback...
+2025-03-14 20:50:53,695 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 20:50:53,695 - INFO - Validation of results: failed.
+2025-03-14 20:50:53,695 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 20:50:53,773 - INFO - Processing PDF: Pdfs\Copy of 2e0db63b-5b09-4cfa-b88b-a9f22a43e4d5.pdf
+2025-03-14 20:50:53,773 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:53,992 - INFO - Processing PDF: Pdfs\Copy of 31d514d7-a507-4dfd-906f-e53c13bc1ed9.pdf
+2025-03-14 20:50:53,992 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,054 - INFO - Processing PDF: Pdfs\Copy of 34aac39a-eeac-44c8-a25c-6bc9050d1bda.pdf
+2025-03-14 20:50:54,054 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,102 - INFO - Processing PDF: Pdfs\Copy of 36357899-8854-47d0-8ade-fdfeed947645.pdf
+2025-03-14 20:50:54,102 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,149 - INFO - Processing PDF: Pdfs\Copy of 3706af0b-cfbd-4242-997c-350f358866d5.pdf
+2025-03-14 20:50:54,149 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,211 - INFO - Processing PDF: Pdfs\Copy of 373a6209-edb4-4881-9a0d-e6fd9e8e14bf.pdf
+2025-03-14 20:50:54,211 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,242 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,242 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,242 - INFO - Finding manufacturer table in Pdfs\Copy of 31d514d7-a507-4dfd-906f-e53c13bc1ed9.pdf...
+2025-03-14 20:50:54,242 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,242 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,242 - INFO - Finding manufacturer table in Pdfs\Copy of 34aac39a-eeac-44c8-a25c-6bc9050d1bda.pdf...
+2025-03-14 20:50:54,258 - INFO - Processing PDF: Pdfs\Copy of 3b93abfc-beb7-4e82-a9bc-c5d94a9d3549.pdf
+2025-03-14 20:50:54,258 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,258 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,258 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,258 - INFO - Finding manufacturer table in Pdfs\Copy of 36357899-8854-47d0-8ade-fdfeed947645.pdf...
+2025-03-14 20:50:54,305 - INFO - Processing PDF: Pdfs\Copy of 3b99aa2b-710f-4a82-9745-c72ba30e9efe.pdf
+2025-03-14 20:50:54,305 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,352 - INFO - Processing PDF: Pdfs\Copy of 3cdc9b4c-01cb-4ba6-968b-ccf3ec457a77.pdf
+2025-03-14 20:50:54,352 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,367 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,367 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,367 - INFO - Finding manufacturer table in Pdfs\Copy of 373a6209-edb4-4881-9a0d-e6fd9e8e14bf.pdf...
+2025-03-14 20:50:54,367 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,367 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,367 - INFO - Finding manufacturer table in Pdfs\Copy of 3706af0b-cfbd-4242-997c-350f358866d5.pdf...
+2025-03-14 20:50:54,399 - INFO - Processing PDF: Pdfs\Copy of 42d7cc1d-7b4a-4bda-b54c-bbe973e4a96c.pdf
+2025-03-14 20:50:54,399 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,414 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,414 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,414 - INFO - Finding manufacturer table in Pdfs\Copy of 3b93abfc-beb7-4e82-a9bc-c5d94a9d3549.pdf...
+2025-03-14 20:50:54,446 - INFO - Processing PDF: Pdfs\Copy of 43d377c7-6eb1-4f07-9ac3-ab5b93a1cd43.pdf
+2025-03-14 20:50:54,446 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,492 - INFO - Processing PDF: Pdfs\Copy of 4553cb14-3f7f-4c08-a7dc-11f7ae599edd.pdf
+2025-03-14 20:50:54,492 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,508 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,508 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,508 - INFO - Finding manufacturer table in Pdfs\Copy of 3cdc9b4c-01cb-4ba6-968b-ccf3ec457a77.pdf...
+2025-03-14 20:50:54,555 - INFO - Processing PDF: Pdfs\Copy of 46addab5-7eb7-4e2e-b278-482431c4970d.pdf
+2025-03-14 20:50:54,555 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,571 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,571 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,571 - INFO - Finding manufacturer table in Pdfs\Copy of 43d377c7-6eb1-4f07-9ac3-ab5b93a1cd43.pdf...
+2025-03-14 20:50:54,586 - INFO - Processing PDF: Pdfs\Copy of 496d8e57-7b2e-4f9b-9640-fba68e9e221d.pdf
+2025-03-14 20:50:54,586 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,633 - INFO - Processing PDF: Pdfs\Copy of 4b50c271-c9e4-46dc-a474-e449ba2f721f.pdf
+2025-03-14 20:50:54,633 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,649 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,649 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,649 - INFO - Finding manufacturer table in Pdfs\Copy of 3b99aa2b-710f-4a82-9745-c72ba30e9efe.pdf...
+2025-03-14 20:50:54,680 - INFO - Processing PDF: Pdfs\Copy of 4b554b9d-9641-4462-b623-92bdf9a482f1.pdf
+2025-03-14 20:50:54,680 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,711 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,711 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,711 - INFO - Finding manufacturer table in Pdfs\Copy of 42d7cc1d-7b4a-4bda-b54c-bbe973e4a96c.pdf...
+2025-03-14 20:50:54,711 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,711 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,711 - INFO - Finding manufacturer table in Pdfs\Copy of 46addab5-7eb7-4e2e-b278-482431c4970d.pdf...
+2025-03-14 20:50:54,727 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,727 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,727 - INFO - Finding manufacturer table in Pdfs\Copy of 496d8e57-7b2e-4f9b-9640-fba68e9e221d.pdf...
+2025-03-14 20:50:54,742 - INFO - Processing PDF: Pdfs\Copy of 4bbee234-2e6e-44d0-a5cc-bf6ef8b837f5.pdf
+2025-03-14 20:50:54,742 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,758 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,758 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,758 - INFO - Finding manufacturer table in Pdfs\Copy of 4553cb14-3f7f-4c08-a7dc-11f7ae599edd.pdf...
+2025-03-14 20:50:54,789 - INFO - Table title found on a page.
+2025-03-14 20:50:54,805 - WARNING - No tables found.
+2025-03-14 20:50:54,805 - INFO - Falling back to TAPAS processing.
+2025-03-14 20:50:54,805 - INFO - Parsing table using TAPAS.
+2025-03-14 20:50:54,805 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 20:50:54,805 - INFO - Validation of results: failed.
+2025-03-14 20:50:54,805 - INFO - Falling back to Camelot processing.
+2025-03-14 20:50:54,805 - INFO - Using Camelot fallback...
+2025-03-14 20:50:54,805 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 20:50:54,805 - INFO - Validation of results: failed.
+2025-03-14 20:50:54,805 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 20:50:54,867 - INFO - Processing PDF: Pdfs\Copy of 4c32145d-5858-4553-a6ea-3f36fd935dcc.pdf
+2025-03-14 20:50:54,867 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:54,883 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,883 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,883 - INFO - Finding manufacturer table in Pdfs\Copy of 4b50c271-c9e4-46dc-a474-e449ba2f721f.pdf...
+2025-03-14 20:50:54,961 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:54,961 - INFO - Processing digital PDF.
+2025-03-14 20:50:54,961 - INFO - Finding manufacturer table in Pdfs\Copy of 4b554b9d-9641-4462-b623-92bdf9a482f1.pdf...
+2025-03-14 20:50:55,071 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:55,071 - INFO - Processing digital PDF.
+2025-03-14 20:50:55,071 - INFO - Finding manufacturer table in Pdfs\Copy of 4c32145d-5858-4553-a6ea-3f36fd935dcc.pdf...
+2025-03-14 20:50:55,102 - INFO - Table title found on a page.
+2025-03-14 20:50:55,133 - INFO - Cleaning extracted table.
+2025-03-14 20:50:55,258 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:55,258 - INFO - Processing digital PDF.
+2025-03-14 20:50:55,258 - INFO - Finding manufacturer table in Pdfs\Copy of 4bbee234-2e6e-44d0-a5cc-bf6ef8b837f5.pdf...
+2025-03-14 20:50:55,492 - WARNING - No tables found.
+2025-03-14 20:50:55,492 - INFO - Falling back to TAPAS processing.
+2025-03-14 20:50:55,492 - INFO - Parsing table using TAPAS.
+2025-03-14 20:50:55,492 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 20:50:55,492 - INFO - Validation of results: failed.
+2025-03-14 20:50:55,492 - INFO - Falling back to Camelot processing.
+2025-03-14 20:50:55,492 - INFO - Using Camelot fallback...
+2025-03-14 20:50:55,508 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 20:50:55,508 - INFO - Validation of results: failed.
+2025-03-14 20:50:55,508 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 20:50:55,555 - INFO - Processing PDF: Pdfs\Copy of 4cbf8648-31fc-444c-b5aa-9b4a367fc2c2.pdf
+2025-03-14 20:50:55,555 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:55,836 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:55,836 - INFO - Processing digital PDF.
+2025-03-14 20:50:55,836 - INFO - Finding manufacturer table in Pdfs\Copy of 4cbf8648-31fc-444c-b5aa-9b4a367fc2c2.pdf...
+2025-03-14 20:50:56,024 - WARNING - No tables found.
+2025-03-14 20:50:56,024 - INFO - Falling back to TAPAS processing.
+2025-03-14 20:50:56,024 - INFO - Parsing table using TAPAS.
+2025-03-14 20:50:56,024 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 20:50:56,024 - INFO - Validation of results: failed.
+2025-03-14 20:50:56,024 - INFO - Falling back to Camelot processing.
+2025-03-14 20:50:56,024 - INFO - Using Camelot fallback...
+2025-03-14 20:50:56,024 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 20:50:56,024 - INFO - Validation of results: failed.
+2025-03-14 20:50:56,024 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 20:50:56,087 - INFO - Processing PDF: Pdfs\Copy of 4ff37a02-5921-4d99-83a1-aecfd0ed4801.pdf
+2025-03-14 20:50:56,087 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:56,510 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:56,510 - INFO - Processing digital PDF.
+2025-03-14 20:50:56,510 - INFO - Finding manufacturer table in Pdfs\Copy of 4ff37a02-5921-4d99-83a1-aecfd0ed4801.pdf...
+2025-03-14 20:50:57,057 - WARNING - No tables found.
+2025-03-14 20:50:57,057 - INFO - Falling back to TAPAS processing.
+2025-03-14 20:50:57,057 - INFO - Parsing table using TAPAS.
+2025-03-14 20:50:57,057 - ERROR - TAPAS processing failed: 'NoneType' object has no attribute 'empty'
+2025-03-14 20:50:57,057 - INFO - Validation of results: failed.
+2025-03-14 20:50:57,057 - INFO - Falling back to Camelot processing.
+2025-03-14 20:50:57,057 - INFO - Using Camelot fallback...
+2025-03-14 20:50:57,057 - ERROR - Camelot fallback failed: PdfFileReader is deprecated and was removed in PyPDF2 3.0.0. Use PdfReader instead.
+2025-03-14 20:50:57,057 - INFO - Validation of results: failed.
+2025-03-14 20:50:57,057 - ERROR - Processing failed: No valid manufacturer data found
+2025-03-14 20:50:57,119 - INFO - Processing PDF: Pdfs\Copy of 5138e87e-26e9-45cd-a0b1-a9dd6eb9b5f4.pdf
+2025-03-14 20:50:57,119 - INFO - Checking if PDF is scanned...
+2025-03-14 20:50:57,447 - INFO - PDF is not scanned (contains text).
+2025-03-14 20:50:57,447 - INFO - Processing digital PDF.
+2025-03-14 20:50:57,447 - INFO - Finding manufacturer table in Pdfs\Copy of 5138e87e-26e9-45cd-a0b1-a9dd6eb9b5f4.pdf...
