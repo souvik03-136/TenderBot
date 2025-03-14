@@ -70,7 +70,7 @@ The final results are output as JSON and saved in an `output.json` file.
    ```
 
  
-### How to Use the API
+## How to Use the API
 
 You can call the API using Postman, cURL, or any HTTP client. The API expects a JSON body with the key `"directory"` pointing to the folder containing the PDFs to process.
 
