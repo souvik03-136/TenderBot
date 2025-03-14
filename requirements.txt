@@ -9,3 +9,7 @@ transformers>=4.20.0
 rapidfuzz>=2.0.0
 camelot-py==0.10.1
 numpy
+Flask
+python-dotenv
+Pillow
+google-generativeai

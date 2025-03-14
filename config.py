@@ -1,14 +1,16 @@
 import warnings
 import logging
+import os
+from dotenv import load_dotenv
 
-# Suppress the specific FutureWarning from huggingface_hub regarding resume_download
 warnings.filterwarnings(
     action="ignore",
     message=".*resume_download is deprecated and will be removed in version 1.0.0.*",
     category=FutureWarning
 )
 
-# Set up logging configuration
+load_dotenv()
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -19,3 +21,4 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")

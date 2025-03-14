@@ -13,7 +13,7 @@ class TapasHandler:
         self.model = TapasForQuestionAnswering.from_pretrained("google/tapas-base-finetuned-wtq")
 
     def parse_table(self, df: pd.DataFrame) -> List[Dict]:
-        """Process a DataFrame using TAPAS with enhanced column handling"""
+        # Process a DataFrame using TAPAS with enhanced column handling
         print("Parsing table using TAPAS...")
         logger.info("Parsing table using TAPAS.")
         try:
@@ -27,14 +27,13 @@ class TapasHandler:
                 return []
 
             return self._process_with_tapas(df[[item_col, make_col]])
-
         except Exception as e:
             logger.error(f"TAPAS processing failed: {str(e)}")
             print(f"Error in parse_table: {str(e)}")
             return []
 
     def _identify_columns(self, df: pd.DataFrame) -> tuple:
-        """Identify columns using fuzzy matching with expanded candidates"""
+        # Identify columns using fuzzy matching
         print("Identifying columns in DataFrame...")
         logger.info("Identifying columns in DataFrame.")
         item_col = process.extractOne(
@@ -47,14 +46,13 @@ class TapasHandler:
             scorer=fuzz.token_set_ratio,
             score_cutoff=40
         )
-
         identified_item = item_col[0] if item_col else None
         identified_make = make_col[0] if make_col else None
         logger.info(f"Identified columns - Item: {identified_item}, Manufacturer: {identified_make}")
         return (identified_item, identified_make)
 
     def _process_with_tapas(self, df: pd.DataFrame) -> List[Dict]:
-        """Process identified columns with TAPAS"""
+        # Process identified columns with TAPAS
         print("Processing DataFrame with TAPAS...")
         logger.info("Processing DataFrame with TAPAS.")
         inputs = self.tokenizer(
@@ -73,7 +71,7 @@ class TapasHandler:
         return self._format_results(results[0])
 
     def _format_results(self, raw_results) -> List[Dict]:
-        """Format TAPAS raw results into structured data with improved splitting"""
+        # Format TAPAS raw results into structured data
         print("Formatting TAPAS results...")
         logger.info("Formatting TAPAS results.")
         processed = []
@@ -81,17 +79,14 @@ class TapasHandler:
             if len(row) >= 2:
                 item = str(row[0]).strip()
                 makes = str(row[1]).strip()
-                # Preserve M/s using a temporary marker and split on commas, semicolons, slashes,
-                # or spaces following a closing parenthesis
+                # Use a temporary marker to preserve M/s and split properly
                 makes = re.sub(r'm/s', '[[M_S]]', makes, flags=re.IGNORECASE)
                 parts = re.split(r'[,;/]|(?<=\))\s*', makes)
-                # Clean each manufacturer entry and filter out entries with less than 3 letters
                 make_list = [
                     re.sub(r'\s+', ' ', p.strip())
                     for p in parts
                     if p.strip() and re.search(r'[a-zA-Z]{3}', p)
                 ]
-                # Replace the temporary marker with "M/s " (with a trailing space)
                 make_list = [p.replace("[[M_S]]", "M/s ") for p in make_list]
                 if item and make_list:
                     processed.append({

@@ -3,162 +3,63 @@
     "file_name": "Copy of 002443a1-c92d-4900-861f-d9b23c147f07.pdf",
     "tables": [
       {
-        "title": "Approved Makes and Manufacturers",
+        "title": "LIST OF MANUFACTURERS",
         "data": [
           {
-            "Item": "Paints and polish",
-            "Approved Makes": [
-              "Asian Paint(Apcolite)",
-              "Shalimar (Super Lac) Jenson ad Nicholson (Robinlac) Goodlass Nerolac (Nerolac Gde I) Berger paints",
-              "ICI (Dulex)"
-            ]
+            "item": "Paints and polish",
+            "approved_make": "Asian Paint(Apcolite), Shalimar (Super Lac) Jenson ad, Nicholson (Robinlac) Goodlass Nerolac (Nerolac Gde I) Berger, paints, ICI (Dulex)"
           },
           {
-            "Item": "Red oxide / Wood Primer pink",
-            "Approved Makes": [
-              "Asian Paint (Wood orite) Shalimer (Shalimar wood primer) Jenson & Nicholson (Pink wood primer Goodlass Nerolac (Duralac wood primer)"
-            ]
+            "item": "Red oxide / Wood Primer pink",
+            "approved_make": "Asian Paint (Wood orite) Shalimer (Shalimar wood primer), Jenson & Nicholson (Pink wood primer Goodlass Nerolac, (Duralac wood primer)"
           },
           {
-            "Item": "Stainless steel telescopic channel\ndrawers slides & handles",
-            "Approved Makes": [
-              "Hettich",
-              "Rockler",
-              "Ebco",
-              "Sleek by Asian Paints"
-            ]
+            "item": "Stainless steel telescopic channel \ndrawers slides & handles",
+            "approved_make": "Hettich, Rockler, Ebco, Sleek by Asian Paints"
           },
           {
-            "Item": "Stainless steel soft closing hydraulic\nhinges",
-            "Approved Makes": [
-              "Hettich",
-              "Rockler",
-              "Ebco",
-              "Sleek by Asian Paints"
-            ]
+            "item": "Stainless steel soft closing hydraulic \nhinges",
+            "approved_make": "Hettich, Rockler, Ebco, Sleek by Asian Paints"
           },
           {
-            "Item": "Builders Hardware",
-            "Approved Makes": [
-              "Crown",
-              "Jyothi",
-              "Argent",
-              "Ajith",
-              "Classic",
-              "Everite",
-              "Universal",
-              "Hardwin",
-              "Dyana"
-            ]
+            "item": "Builders Hardware",
+            "approved_make": "Crown, Jyothi, Argent, Ajith, Classic, Everite, Universal, Hardwin, Dyana"
           },
           {
-            "Item": "Harrison Rails",
-            "Approved Makes": [
-              "Jaquar",
-              "KICH",
-              "Swastik",
-              "Crown",
-              "Prayag",
-              "ESS ESS"
-            ]
+            "item": "Harrison Rails",
+            "approved_make": "Jaquar, KICH, Swastik, Crown, Prayag, ESS ESS"
           },
           {
-            "Item": "Particle Board/Pre laminated\nparticle board",
-            "Approved Makes": [
-              "Novapan",
-              "Kitply",
-              "Green Ply",
-              "Ecoboard",
-              "Archidlam"
-            ]
+            "item": "Particle Board/Pre laminated \nparticle board",
+            "approved_make": "Novapan, Kitply, Green Ply, Ecoboard, Archidlam"
           },
           {
-            "Item": "Factory Made Panel/Flush door\nshutters",
-            "Approved Makes": [
-              "M/s International Timber Corporation",
-              "Valsad",
-              "M/s Barar Timber Industries Pvt Ltd",
-              "Mumbai",
-              "M/s Prince Timber",
-              "Jamnagar",
-              "M/s Standard Doors Pvt Ltd",
-              "Hyderabad",
-              "M/s Aditi Wood Industries Baroda",
-              "M/s Munkua Timber Industries",
-              "Bhuj",
-              "M/s Indian Wood & Wood Product",
-              "Mangalore",
-              "M/s Swastik Brand",
-              "M/s Mysore Wood Products",
-              "M/s Northern doors Pvt Ltd",
-              "M/s Parashatam Kokul Das Plywood Co",
-              "Kannanore (Kerala)",
-              "M/s Western india Plywoods Ltd",
-              "Kannanore (Kerala)",
-              "M/s Standard Door Secunderabad",
-              "M/s Shankara Ramchandra Bro",
-              "Pune",
-              "Indian Timber Products Pvt Ltd."
-            ]
+            "item": "Factory Made Panel/Flush door \nshutters",
+            "approved_make": "M/s International Timber Corporation, Valsad, M/s Barar, Timber Industries Pvt Ltd, Mumbai, M/s Prince Timber, Jamnagar, M/s Standard Doors Pvt Ltd, Hyderabad, M/s Aditi, Wood Industries Baroda, M/s Munkua Timber Industries, Bhuj, M/s Indian Wood & Wood Product, Mangalore, M/s Swastik, Brand, M/s Mysore Wood Products, M/s Northern doors Pvt, Ltd, M/s Parashatam Kokul Das Plywood Co, Kannanore, (Kerala), M/s Western india Plywoods Ltd, Kannanore (Kerala), M/s Standard Door Secunderabad, M/s Shankara Ramchandra, Bro, Pune, Indian Timber Products Pvt Ltd."
           },
           {
-            "Item": "Factory made shutters",
-            "Approved Makes": [
-              "Kitply flush doors and Furniture Co Madras",
-              "India wood & wood products",
-              "Mangalore",
-              "Wood Industries Hyderabad Standard Doors Hyderabad",
-              "Timber Technics Hyderabad",
-              "M/s Kutty Flush door and Furniture Madras",
-              "Indian Timber Products Pvt Ltd."
-            ]
+            "item": "Factory made shutters",
+            "approved_make": "Kitply flush doors and Furniture Co Madras, India wood &, wood products, Mangalore, Wood Industries Hyderabad, Standard Doors Hyderabad, Timber Technics Hyderabad, M/s Kutty Flush door and Furniture Madras, Indian Timber, Products Pvt Ltd."
           },
           {
-            "Item": "Pressed steel frames for doors",
-            "Approved Makes": [
-              "Deccan structural Pvt Ltd Bangalore",
-              "TI Engineering Madras",
-              "Nagarjuna Door pressed steel Ltd Hyderabad",
-              "Rola Door Amalgameted",
-              "Madras",
-              "Madhu Industries"
-            ]
+            "item": "Pressed steel frames for doors",
+            "approved_make": "Deccan structural Pvt Ltd Bangalore, TI Engineering Madras, Nagarjuna Door pressed steel Ltd Hyderabad, Rola Door, Amalgameted, Madras, Madhu Industries"
           },
           {
-            "Item": "Glazing",
-            "Approved Makes": [
-              "Saint Gobain",
-              "Modiguard",
-              "Asahi",
-              "Atul glass industries",
-              "Gold Fish"
-            ]
+            "item": "Glazing",
+            "approved_make": "Saint Gobain, Modiguard, Asahi, Atul glass industries, Gold, Fish"
           },
           {
-            "Item": "Aluminium tower bolt/Aldrop/Door\nHandle/Butt Hinges",
-            "Approved Makes": [
-              "M/s Argent industries",
-              "M/s Aluminium Udyog"
-            ]
+            "item": "Aluminium tower bolt/Aldrop/Door \nHandle/Butt Hinges",
+            "approved_make": "M/s Argent industries, M/s Aluminium Udyog"
           },
           {
-            "Item": "Synthetic Enamel Paint/primer",
-            "Approved Makes": [
-              "M/s Shalimar Super Lac",
-              "M/s Asian Paints",
-              "M/s Apcolite (Asian)",
-              "M/s Johnson & Nicholson Calcutta",
-              "M/s Berger",
-              "M/s Nerolac Paint Ltd"
-            ]
+            "item": "Synthetic Enamel Paint/primer",
+            "approved_make": "M/s Shalimar Super Lac, M/s Asian Paints, M/s Apcolite, (Asian), M/s Johnson & Nicholson Calcutta, M/s Berger, M/s, Nerolac Paint Ltd"
           },
           {
-            "Item": "PVC Door shutter/frame",
-            "Approved Makes": [
-              "Rajshri",
-              "Sintex",
-              "Duroplast"
-            ]
+            "item": "PVC Door shutter/frame",
+            "approved_make": "Rajshri, Sintex, Duroplast"
           }
         ]
       }
@@ -166,15 +67,319 @@
     "status": "success"
   },
   {
-    "file_name": "Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf",
+    "file_name": "Copy of 0f81070f-2b9f-4b64-a532-120712b710c1.pdf",
     "tables": [],
     "status": "failed",
     "error": "No valid manufacturer data found"
   },
   {
-    "file_name": "Copy of 1afeca37-7afe-474e-a2e2-8dbcc4e6cd5d.pdf",
-    "tables": [],
-    "status": "failed",
-    "error": "No valid manufacturer data found"
+    "file_name": "Copy of 0fbacd6f-9572-4f8e-965f-abc08480e334.pdf",
+    "tables": [
+      {
+        "title": "LIST OF MANUFACTURERS",
+        "data": [
+          {
+            "item": "2 \n3",
+            "approved_make": "2, 3"
+          },
+          {
+            "item": "GENERAL NOTES :-  Contractor can also procure the materials/products from the manufacturers, \nnames of those are not included in the Appx \u201eB\u201f, with prior approval of Accepting Officer in case \nthe  same  are  approved  by  the  competent  authority  i.e.  CE  WC  or  HQ  E-IN-C  Br  in  equivalent \ncategory (i.e.GP-I).",
+            "approved_make": "GENERAL NOTES :-  Contractor can also procure the materials, products from the manufacturers, names of those are not included in the Appx \u201eB\u201f, with prior approval of Accepting Officer in case, the  same  are  approved  by  the  competent  authority  i.e.  CE  WC  or  HQ  E-IN-C  Br  in  equivalent, category (i.e.GP-I)."
+          },
+          {
+            "item": "BLANK",
+            "approved_make": "BLANK"
+          },
+          {
+            "item": "Chloro-pyriphos",
+            "approved_make": "Chloro-pyriphos"
+          },
+          {
+            "item": "emulsifiable \nconcentrate (20 EC)",
+            "approved_make": "emulsifiable, concentrate (20 EC)"
+          },
+          {
+            "item": "CONCRETE",
+            "approved_make": "CONCRETE"
+          },
+          {
+            "item": "(A) CEMENT \nOPC and PPC",
+            "approved_make": "(A) CEMENT, OPC and PPC"
+          },
+          {
+            "item": "(B)   WATER \nPROOFING \nCOMPOUND",
+            "approved_make": "(B)   WATER, PROOFING, COMPOUND"
+          },
+          {
+            "item": "(C) CONCRETE \nADDITIVES/ \nPLASTICIZERS",
+            "approved_make": "(C) CONCRETE, ADDITIVES, PLASTICIZERS"
+          },
+          {
+            "item": "BRICK WORK:- For Bricks of any description & type refer Appendix \u201eA\u201f",
+            "approved_make": "BRICK WORK:- For Bricks of any description & type refer Appendix \u201eA\u201f"
+          },
+          {
+            "item": "BLANK",
+            "approved_make": "BLANK"
+          },
+          {
+            "item": "STEEL ALUMINIUM AND IRON WORK:-",
+            "approved_make": "STEEL ALUMINIUM AND IRON WORK:-"
+          },
+          {
+            "item": "(A) \nMAIN PRODUCERS FOR TMT STEEL FOR REINFOCRMENT:-",
+            "approved_make": "(A), MAIN PRODUCERS FOR TMT STEEL FOR REINFOCRMENT:-"
+          },
+          {
+            "item": "(i)",
+            "approved_make": "(i)"
+          },
+          {
+            "item": "(ii)",
+            "approved_make": "(ii)"
+          },
+          {
+            "item": "(iii)",
+            "approved_make": "(iii)"
+          },
+          {
+            "item": "(iv)",
+            "approved_make": "(iv)"
+          },
+          {
+            "item": "(v)",
+            "approved_make": "(v)"
+          },
+          {
+            "item": "(vi)",
+            "approved_make": "(vi)"
+          },
+          {
+            "item": "(vii)",
+            "approved_make": "(vii)"
+          },
+          {
+            "item": "(viii)",
+            "approved_make": "(viii)"
+          }
+        ]
+      }
+    ],
+    "status": "success"
+  },
+  {
+    "file_name": "Copy of 4b50c271-c9e4-46dc-a474-e449ba2f721f.pdf",
+    "tables": [
+      {
+        "title": "LIST OF MANUFACTURERS",
+        "data": [
+          {
+            "item": "Cement",
+            "approved_make": "As specified herein before"
+          },
+          {
+            "item": "Fine/coarse aggregate",
+            "approved_make": "Locally best available"
+          },
+          {
+            "item": "Fly ash brick",
+            "approved_make": "As specified herein before"
+          },
+          {
+            "item": "TMT bars/ Rolled steel Sections/ \nStructural steel sections",
+            "approved_make": "As specified herein before"
+          },
+          {
+            "item": "GI Pipes and Fittings",
+            "approved_make": "Tata, Jindal, Zenith, Prakash, Swastik, APL Apollo Tubes Ltd."
+          },
+          {
+            "item": "Water Proofing Compound",
+            "approved_make": "CICO, IMPERMO, ROFF"
+          },
+          {
+            "item": "Pre-Painted  Galvalume / \nGalvanized  Corrugated Steel \nSheets",
+            "approved_make": "JSW Colouron+, Tata Bluscope  Steel, Lloyd Insulation, Tata Steel BSL, Kirby  Building  Solutions  (I)  Ltd"
+          },
+          {
+            "item": "Premier Acrylic Emulsion Exterior  \nPaint",
+            "approved_make": "Asian Paints  (Apex Ultima), Berger Paints (Wheathercoat  All Guard), Dulux (Wheathershield   Max), Kansai  Nerolac (Excel Top Guard)"
+          },
+          {
+            "item": "Synthetic Enamel Paint",
+            "approved_make": "Asian Paints (Apiolite   Premium Gloss), Nerolac  (Synthetic  Enamel Hi-Gloss), Berger Paints  (Luxol), Akzo Nobel Dulux, (Super Gloss), Jenson and Nicholson, Paints, MYK Arment, Nippon \u2018Bodelac\u2019"
+          },
+          {
+            "item": "Primer/ Red oxide primer",
+            "approved_make": "Asian Paints, Berger Paints, Jenson and, Nicholson (1st Quality)"
+          },
+          {
+            "item": "Acrylic Washable Distemper \nand Primer",
+            "approved_make": "Kansai Nerolac (Beauty), Berger Paints, (Jadoo), Asian Paints (Tractor Uno), Jenson, and Nicholson, MYK Arment, Nippon Paint, JK Maxx"
+          },
+          {
+            "item": "Cement Putty",
+            "approved_make": "Snowcem Paints, MYK Arment, Asian Paints, Ultratech Cement Ltd \u2018Birla wall care putty\u2019, JK Maxx, Nippon \u2018Silky wall Putty\u2019, Reynobond India Brand \u2018Reynocon wall putty\u2019"
+          },
+          {
+            "item": "Sheet Glass Plain / Frosted",
+            "approved_make": "Saint  Gobain, Modiguard, Gold  Plus  Glass, Industries Ltd, Atul Glass Industries"
+          },
+          {
+            "item": "Mirror",
+            "approved_make": "Saint Gobain, Modiguard, Atul, Asahi (ASI), Glass, Kohinoor, Swastik"
+          },
+          {
+            "item": "Aluminium Tower Bolt / Aldrop / \nDoor handle / Butt hinges / \nTowel Rails",
+            "approved_make": "Jindal, ESSESS, Aluminium  Udyog  (Brand-, GLOBAL)"
+          },
+          {
+            "item": "Hydraulic Door Closer",
+            "approved_make": "Godrej  Hafele, Ozone  Door  Set, Spider, IPSA door Closer"
+          },
+          {
+            "item": "Mortice Lock",
+            "approved_make": "Harrison, Godrej  &  Boyce  Co  Ltd, Dorset, India Ltd, Spider Metal Products Ltd, ENOX, Jainson"
+          },
+          {
+            "item": "Panel Doors / Skeleton door \nShutters",
+            "approved_make": "A1  Teak  product  Pvt  Ltd., Goyal  Industries, Indian Timber Products"
+          },
+          {
+            "item": "Factory Made Wooden Shutter / \nFlush Doors / Frames",
+            "approved_make": "Century  Doors, Greenlam, (Brand:  Mikasa, Door Frames ), Jain Doors, A1 Teak product, Pvt Ltd."
+          },
+          {
+            "item": "Factory made PVC FRP Shutters \nand Frames",
+            "approved_make": "Qute  Extrusion  Pvt  Ltd, (Brand:  Qute), OM, Industries, Duroplast  Extrusion, Sintex  Industries  Ltd, Fenesta, Durian, Sarvesh Multi Plast India Ltd."
+          },
+          {
+            "item": "Flush Doors",
+            "approved_make": "Archid  Ply, Duro  Doors, Bhutton  Tuf, Durian"
+          },
+          {
+            "item": "AC Sheets 6mm Cement \nCorrugated",
+            "approved_make": "Everest, Industries, Ltd, (EVEREST), Charminar, Ramco"
+          },
+          {
+            "item": "Cold Rolled Cold Annealed (CRCA) \nSteel Sheets",
+            "approved_make": "JSW MI, JSW Steel, Tata Steel, Nezone"
+          },
+          {
+            "item": "Aluminium Sections of Shutters \n/Frames for  Door / Windows / \nVentilators",
+            "approved_make": "Hindalco, Jindal, Associated, Groupn(Elesar  Focci-Nivrav  Commercials, Ltd), Maan, Aluminium, Century, Extrusions Ltd, Banco Aluminium Ltd."
+          },
+          {
+            "item": "Glazed / Non Skid Ceramic Tiles",
+            "approved_make": "Johnson Tiles, Kajaria, Somany, Nitco, AGL Tiles, Aparna Enterprises Ltd \u2018Vitero\u2019, Simero Indusries Pvt Ltd."
+          },
+          {
+            "item": "Vitrified Tiles",
+            "approved_make": "Johnson, Kajaria, Somany, Euro  Tiles, AGL Tiles, Aparna Enterprises Ltd \u2018Vitero\u2019, Simero Indusries Pvt Ltd."
+          },
+          {
+            "item": "Cement Concrete Interlocking Paver \nBlocks / Tiles / Precast Chequered \nTiles",
+            "approved_make": "M/s.  Ultra  Tiles, NITCO, Topaz  Tiles, Godrej Boyce Mfg Co Ltd."
+          },
+          {
+            "item": "Plywood / Black Boards",
+            "approved_make": "Century  Plywood, Mysore  Chip  Board, Mysore, Green  Ply, Anchor, Archid  Ply, Bhutan Tuff India"
+          },
+          {
+            "item": "Prelaminated Particle Board",
+            "approved_make": "Kitlam, Century  Plywood, (Sharon), Greenply, (Greenlam, MFC, Board), Anchorlam"
+          },
+          {
+            "item": "Veenered Particle Board",
+            "approved_make": "Greenply, Kitply, Century, Sharon, Associates Particle Board"
+          },
+          {
+            "item": "Galvanized Iron (GI) Pipes & Fitting",
+            "approved_make": "Tata, Jindal, Zenith, Prakash, Swastik, APL Apollo Tubes Ltd."
+          },
+          {
+            "item": "Mild Steel (MS) Pipes & Fittings",
+            "approved_make": "Tata, Jindal, Zenith"
+          },
+          {
+            "item": "HDPE Pipes & Fittings",
+            "approved_make": "Finolex, Prince, Astral Limited, Supreme, Industries  Ltd, Jain, Irrigation  System, APL Apollo Tubes Ltd"
+          },
+          {
+            "item": "PVC \u2013Soil Waste, Rainwater (SWR) \n& Drainage Pipes",
+            "approved_make": "Prince, Kisan, Finolex, Infra, Astral Ltd, Jain Irrigation System"
+          },
+          {
+            "item": "PPR Pipes & Fittings",
+            "approved_make": "Prince, Finolex, Supreme Industries Ltd, APL Apollo Tubes Ltd, Fushion Industries, Ltd, SMFCS"
+          },
+          {
+            "item": "AC \u2013 Soilwaste rainwater (SWR) & \nDrainage pipes",
+            "approved_make": "M/s., Everest, Asbestos, Hyderabad, Visakha, Ind, Ltd, M/s., Hyderabad, Asbestos  Cement  (Charminar), M/s., Ramco"
+          },
+          {
+            "item": "RCC Pipe , drain Pipe",
+            "approved_make": "Indian  Hume  Pipe, Everest, Himalaya, Thuluvananikal Pipes"
+          },
+          {
+            "item": "PVC Water Tanks / Polythylene",
+            "approved_make": "Sintex, Polycon, Jaipur, Rolex, Infra, Astral Ltd, Supreme Industries Ltd"
+          },
+          {
+            "item": "PTMT \nBathroom \nand \nHardware \nFitting",
+            "approved_make": "Vectos, Flora  Steel  Pvt  Ltd, Prayag, Polymers"
+          },
+          {
+            "item": "Chromium \nPlated \n(CP)/Copper \n/ \nBrass-Alloy,  Piller  Tap,  Bib  Tap, \nWall \nMixer, \nShower, \nDivertors, \nWaste Coupling, Bottle Trap, Health \nFaucet, \nAngle  Cock,  Concealed \nStop  Cock,  Stop  Cock  and  other \nrelated accessories",
+            "approved_make": "Somany, Kohler, Grohe, Hindware Ltd, Jaquar & Co Pvt Ltd, Flora Steel Pvt Ltd"
+          },
+          {
+            "item": "PVC float Valve and accessories",
+            "approved_make": "GMP, Neta, Zoloto, Jaquar(Bathing), Symet, Prayag Polymers"
+          },
+          {
+            "item": "Gun-Metal Globe /Gate Valves / \nAngle Valves",
+            "approved_make": "Leader, Zoloto, Kirloskar, Bir"
+          },
+          {
+            "item": "Shower Rose",
+            "approved_make": "Jaquar(Bathing), Kohler, ESS-SSS, Soma, Crabtree"
+          },
+          {
+            "item": "Water \nCloset- \nVitreous \nChina \n(European/ \nIndian) \n/Squatting  Pan \nOrissa Pattern",
+            "approved_make": "CERA, Parryware, Jaquar(Bathing), Hindware, Johnson, Kohler"
+          },
+          {
+            "item": "Flushing Cistern- PVC Low Level \nIncl Flush Valves and fittings for \nWC and Urinals",
+            "approved_make": "Parryware, Commander, CERA, Jaquar(Bathing), Hindware Ltd, Johnson, Kohler, Shakti, Prayag Polymers"
+          },
+          {
+            "item": "Plastic Seat Cover for EWC / \nBathroom Cabinets",
+            "approved_make": "Parryware, Commander, CERA, Jaquar(Bathing), Hindware Ltd, Neycer, Kohler, Prayag Polymers"
+          },
+          {
+            "item": "Urinals- Vitreous China",
+            "approved_make": "CERA, Parryware, Jaquar(Bathing), Johnson, Kohler, Hindware Ltd, Neycer"
+          },
+          {
+            "item": "Wash Basin- Vitreous China",
+            "approved_make": "CERA, Parryware, Jaquar, Johnson, Kohler, Hindware Ltd, Neycer"
+          },
+          {
+            "item": "Stainless Steel Sinks / Plate Rack \n(SS)",
+            "approved_make": "Parryware, Shakti, Prayag  Polymers, Phoenix, Jayna, Nirali, Jaquar(Bathing), Flora Steel Pvt Ltd"
+          },
+          {
+            "item": "Towel Rails / Brackets and Toilet \nPaper holder",
+            "approved_make": "CERA, Parryware, Jaquar, Johnson, Kohler, Hindware"
+          },
+          {
+            "item": "Steel Rolling Shutters/ Grills& \nCollapsible Gates",
+            "approved_make": "Welroll, Gandhi  Automation  Pvt.  Ltd, Metal King, Indian Rolling Shutter Banglore, New  Dynamic  Rolling  Shutters  Chennai, Decogrille, New Karnataka Roling Shutters"
+          }
+        ]
+      }
+    ],
+    "status": "success"
   }
 ]
