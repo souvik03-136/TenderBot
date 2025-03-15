@@ -157,4 +157,4 @@ To further enhance accuracy and adaptability, future upgrades could include:
 
 ## Conclusion
 
-This project automates the extraction of manufacturer table data from various PDF formats using a blend of traditional PDF parsing libraries and modern machine learning models. By integrating multiple approaches, it robustly handles both digital and scanned PDFs, offering a comprehensive solution for your table extraction needs. With focused improvements on model accuracy and robustness, TenderBot is well-positioned for future enhancements and adaptation to evolving document processing challenges.
+This project automates the extraction of manufacturer table data from various PDF formats using a blend of traditional PDF parsing libraries and modern machine learning models. By integrating multiple approaches, it robustly handles both digital and scanned PDFs, offering a comprehensive solution for your table extraction needs.
